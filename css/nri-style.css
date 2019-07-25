@@ -1,0 +1,137 @@
+.accordion1 {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+.active, .accordion1:hover {
+    background-color: #ccc;
+}
+
+.accordion1:after {
+    content: '\002B';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.panel1 {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+.sidebar-box {
+    background: #fafafa;
+    padding: 10px 20px 30px;
+    margin-bottom: 40px;
+	    margin-top: 30px;
+
+}
+
+.sidebar-box .box-content {
+    margin-top: 20px;
+}
+ .sidebar-box .box-content .featured-properties {
+    padding-top: 10px;
+}
+.sidebar-box .box-content .featured-properties .property-box a {
+    display: block;
+    background-color: #fff;
+    border-bottom: 1px solid #d4d4d4;
+    margin-bottom: 20px;
+    
+}
+.clearfix:before {
+    content: " ";
+    display: table;
+}
+.clearfix:after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+.sidebar-box .box-content .featured-properties .property-box a .img-container {
+    padding: 0;
+    position: relative;
+    min-height: 67px;
+    overflow: hidden;
+}
+
+.sidebar-box .box-content .featured-properties .property-box a .img-container img {
+    top: 0;
+    left: 50%;
+    max-width: none;
+    
+    
+    width: 100%;
+    height: 100%;
+}
+.sidebar-box .box-content .featured-properties .property-box a .details {
+    padding: 10px 10px 10px 15px;
+}
+ .sidebar-box .box-content .featured-properties .property-box a .details .title1 {
+    font-size: 1.1em;
+    color: #333;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-family: crh-bold,Arial,Helvetica,sans-serif;
+    text-transform: capitalize;
+}
+.sidebar-box .box-content .featured-properties .property-box a .details .location {
+    color: #8c8b8b;
+    font: .9em/22px Scada,Arial,Helvetica,sans-serif;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    text-transform: capitalize;
+}
+.sidebar-box .box-content .featured-properties .property-box a .details .price {
+    font-size: 14px;
+    color: #bfa249;
+}
+
+.before-images{
+    display: inline-block;
+	
+}
+
+.col-images-5{
+
+    width: 50px;
+	       margin-right: 28px;
+
+    padding: 5px 0px 5px 0px;
+
+
+}
+.text-fon{
+display: inline-block;
+    font-size: 12px;
+  
+    margin-left: 5px;
+
+
+
+}
+
+
+
+.nri-para{
+    margin: 20px 0px;
+	font-size:16px;
+}

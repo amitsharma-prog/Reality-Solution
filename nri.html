@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NRI | Reality Solution</title>
+<link rel="shortcut icon" type="image" href="images/fav%20(1).ico"  />
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"  />
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"  />
+<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css"  />
+<link href="css/responsive_bootstrap_carousel_mega_min.css" rel="stylesheet" media="all">
+<link rel="stylesheet" type="text/css" href="css/style.css"  />
+<link href="css/jquery.bxslider.css" rel="stylesheet" />
+<script type="text/javascript" src="js/jquery-1.11.3.min.js" ></script>
+<script type="text/javascript" src="js/bootstrap.min.js" ></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300i,400,400i,500,500i,700,700i" rel="stylesheet">
+<!----- Local Business Listing ----->
+<style>
+	.notification-marquee{
+	}
+	.notification-marquee p{
+		margin: 0px;
+		font-weight: bold;
+		text-align: center;
+		background-color: #0098da;
+		padding: 8px 0px;
+	}
+	.notification-marquee a{
+		color:#fff;
+		color: #fff;
+		margin-right: 20px;
+		border-right: 1px solid #fff;
+		padding-right: 20px;
+		margin-top: 8px;
+		display: inline-block;
+	}
+	.blinking{
+		animation:blinkingText 0.8s infinite;
+	}
+	@keyframes blinkingText{
+		0%{     color: #feb600;    }
+		50%{    color: transparent; }
+		100%{   color: #feb600;    }
+	}
+</style>
+</head>
+
+<body>
+<!-- Window Load popup -->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <div class="logo p-logo">
+            <h1 class="tp">        
+                <a href="index.html" title="" rel="home" id="logo"><img src="images/transaction_logo.png" alt=""></a>
+            </h1>
+            <div class="name tp">
+                <a href="index.html" class="tp-name">Reality <span>Solution</span></a>
+                <div class="subtitle">We Value Your Transactions </div>
+           </div>
+        </div>
+      </div>
+      <div class="modal-body">
+      		<p class="p-p">Explore Over <span>100+ properties</span> in Delhi NCR & get free site visit</p>
+                        <form class="p-form" action="#" method="post" >
+            	<input type="text" name="p-number" placeholder="Enter Your Mobile No." pattern="[789][0-9]{9}" required="required" />
+                <input type="text" name="p-name" placeholder="Enter Your Name" />
+                <input type="Submit" name="p-submit" value="Start Now" />
+            </form>
+            <a href="tel:+919899891133"><p class="p-phone"><i class="fa fa-phone-square"></i> +91 9899891133, 9999378278, 9878092227</p></a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default skip" data-dismiss="modal">Skip, try later</button>
+       <!-- <button type="button" class="btn btn-primary">Save changes</button>-->
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Window Load popup Ends Here-->
+	<header>
+    	<div class="top-strip">
+        	<div class="container">
+            	<div class="row">
+                	<div class="col-lg-8 col-md-6 col-sm-12">
+                    	<div class="tp logo">
+                            <h1 class="tp">        
+                                <a href="index.html" title="" rel="home" id="logo"><img src="images/transaction_logo.png" alt=""></a>
+                            </h1>
+                            <div class="name tp">
+                                <a href="index.html" class="tp-name">Reality <span>Solution</span></a>
+                                <div class="subtitle">We Value Your Transactions </div>
+                           </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 ">
+                    	<div class="right-header text-right">
+                            <a href="tel:+919899891133"><p><i class="fa fa-phone-square"></i> +91 9899891133, 9999378278, 9878092227</p></a>
+                            <a href="mailto:gurgaon40@gmail.com" target="_blank"><p><i class="fa fa-envelope"></i> gurgaon40@gmail.com</p></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="menu-bar " id="menuBar">
+        	<div class="container" style="border-top: 1px solid #585656;">
+            	<div class="row">
+                	<nav class="navbar navbar-inverse ">
+                        <div class="container-fluid" >
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                                	<a href="index.html" style="position: absolute;left: -300px; z-index: 1000; color: #fff; font-size: 20px; top: 0px;">Transaction Point</a>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>                        
+                                </button>                    
+                            </div>
+                            <div class="collapse navbar-collapse" id="myNavbar">
+                                <ul class="nav navbar-nav" >
+                                    <!--<li ><a href="index.php">Home</a></li> -->
+                                    <li><a href="about.html">About Us</a></li>
+                                    <li><a href="commercial.html">Commercial</a></li>
+                                    <li><a href="residential-projects.html">Residential</a></li>
+                                    <!--<li><a href="#">Projects</a></li>-->
+                                    
+									<li><a href="news-events.html">News/Event</a></li>
+                                    <li><a href="nri.html">NRIs</a></li>
+									<li><a href="aipl/index.html">all Projects <!-- <img src="images/icon-new-animate.gif" style="vertical-align:middle;    height: 20px;    margin-top: -35px;    margin-right: -10px;" /> --> </a></li>
+                                    <!--<li><a href="client.php">Clients</a></li>
+                                    <li><a href="contact.php">Contacts</a></li>
+									<li><a href="careers.php">Careers</a></li>-->
+                                    
+                                </ul>
+                                <ul class="pull-right rera" style="padding: 0px;">
+                                	<li><span class="menuno" id="menuNo"><a href="tel:+919899891133"><i class="fa fa-phone-square"></i> +91 9899891133, 9999378278, 9878092227</a></span></li>
+                                   <!--  <li>
+                                    	<div class="search-form">
+                                            <form method="post" action="https://www.transactionpoint.in/search.php">
+                                                <input type="text" placeholder="Type Location or Project/Society or Keyword" name="search"  /> 
+                                                <button class="search-btn" type="submit" name="searchbtn"><i class="fa fa-search"></i> <span>Search</span></button>
+                                            </form>
+                                        </div>
+                                    </li -->>
+                                	<!--<li><a href="about.php" >RERA No. - 249/2017</a></li>-->
+                                </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+			<!-- <div>
+				<div class="container" style="border-top: 1px solid #585656;color:#fff;">
+					<div class="row notification-marquee">
+						<div class="col-lg-3 col-md-5 col-sm-12" style="padding-left:0px">                
+							<p class="blinking" style="font-size: 18px;"><i class="fa fa-info"></i> Exclusive Deals of the Month</p>
+						</div>
+						<div class="col-lg-9 col-md-7 col-sm-12">                
+							<marquee onMouseOver="this.stop()" onMouseOut="this.start()">
+								<a href="projectdetails16d7.html?projectname=elan-epic-gurgaon"><img src="images/icon-new-animate.gif" style="vertical-align:middle;height: 20px;margin-top: -10px;" /> Elan Epic </a>
+							    <a href="projectdetails9a49.html?projectname=emaar-digi-homes-gurgaon"><img src="images/icon-new-animate.gif" style="vertical-align:middle;height: 20px;margin-top: -10px;" /> Emaar Digi Homes</a>								
+								<a href="projectdetails5803.html?projectname=aipl-joy-central-hypermarket">AIPL Joy Central | Hypermarket</a>
+								<a href="projectdetails1065.html?projectname=aipl-joy-street" style="border-right:0px">AIPL Joy Street</a>
+							</marquee>
+						</div>
+						<marquee onMouseOver="this.stop()" onMouseOut="this.start()">
+								<a style="border-right:none;font-size: 20px;font-weight: bold;color: #f58634;"><img src="images/fireworks.gif" style="height:60px" > <img src="images/fireworks.gif" style="height:60px" > <img src="images/fireworks.gif" style="height:60px" >We wish you all "Happy Mahavir Jayanti" <img src="images/fireworks.gif" style="height:60px" > <img src="images/fireworks.gif" style="height:60px" ><img src="images/fireworks.gif" style="height:60px" ></a>
+							</marquee>
+					</div>
+				</div>
+			</div> -->
+        </div>
+    </header>    
+    
+<link rel="stylesheet" type="text/css" href="css/nri-style.css"  />
+<article class="bc" style="    margin-bottom: 0px;">
+	<div class="container">
+    	<div class="row">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            	<ul class="bc-ul">
+                	<li><a href="#">You Are Here  <i class="fa fa-caret-right" aria-hidden="true"></i> </a> </li>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#">/</a></li>
+                    <li><a href="#" class="activebc">NRI's Corner</a></li>
+                </ul>
+            	
+            </div>
+        </div>
+    </div>
+</article>
+<article>
+
+   <div class="container">
+
+      <div class="row">
+
+         <div class="col-lg-12 col-md-12 col-sm-12">
+
+            <!--<h2 class="heading-main">NRI</h2>-->
+
+            <div class="margin20" ></div>
+
+         </div>
+
+         <div class="clearfix"></div>
+
+         <div class="row details-header">
+
+            <div class="col-lg-8 col-md-8 col-sm-12">
+
+               <div class="details">
+
+                  <img src="images/slider-2.jpg" class="project-banner bottom-line" style="height: 188px;" alt="" width="100%"  />
+
+               </div>
+
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-12">
+
+			<h2>NRI</h2><p>Property prices are at the lowest</p>
+
+			<ul style="list-style: none; background-color:#fff; border: 1px solid #dedede; margin-bottom: 0px;">
+
+
+
+			<li class="before-images"><img src="images/righ-loc-icn.png" class="col-images-5"></li>
+
+		
+
+			<li class="before-images"><img src="images/right-prop-icn.png" class="col-images-5"></li>
+
+			<!--<li class="before-images"><img src="images/neg-icn.png" class="col-images-5"></li>-->
+
+			<li class="before-images"><img src="images/doc-icn.png" class="col-images-5"></li>
+
+			<li class="before-images"><img src="images/Tax.png" class="col-images-5"></li>
+
+			</ul>
+
+			<ul style="list-style: none; background-color:#fff; border: 1px solid #dedede;     padding: 5px;">
+
+
+
+			<li class="text-fon">Right Location</li>
+
+		
+
+			<li class="text-fon">Right Property</li>
+
+			<!--<li>Negotiation</li>-->
+
+			<li class="text-fon">Documentation</li>
+
+			<li class="text-fon">Tax exemption</li>
+
+			</ul>
+
+           
+
+            </div>
+
+         </div>
+
+         <div class="clearfix"></div>
+
+         <hr />
+
+         <div class="col-lg-8 col-md-8 col-sm-12">
+
+            <h3>Property prices are at the lowest</h3>
+
+            <p class="nri-para">NRI's investors should make the most of the slow real estate market. Historically, the price rise rate in India has always been higher than the matured markets of the West. This is the reason why India can offer more value for money to the investors, with better returns in less time as compared to other prominent real estate markets of the world. For those looking for an investment in affordable housing might find it appealing to know that according to the Maharashtra Chamber of Housing Industry (MCHI), there was a surge of 300 per cent in the total supply of affordable units in Mumbai as compared to last year. Around 10,000 units have already been launched in this category till September 2017. Overall, there is a rise of 27 per cent in total project launches in top eight cities of India. </p>
+
+            <h3>Tax exemption</h3>
+
+            <p class="nri-para"> NRI's can invest in real estate in India and can still manage to save tax like a regular Indian resident. Tax deduction on home loans on principle repayment and interest component can be claimed by the NRI's. Apart from this, for a property sold after two years from the date of purchase, profit so earned on the capital gain is exempted from the income tax.</p>
+
+            <h3>Rental income</h3>
+
+            <p class="nri-para">NRI's can invest and earn rental income in India without any trouble. Though the 30 per cent TDS (tax deducted at source) has to be deducted by the tenant, the remaining amount can be repatriated under the Foreign Exchange Management Act rules. This proceeds earned through the sale of immovable property in India can also be repatriated under the act.</p>
+
+            <h3>Retirement benefits</h3>
+
+            <p class="nri-para">Though reverse mortgage is a more popular concept in the US, India is still gearing up for this kind of system. NRI's that tend to plan their retirement can invest in India and take advantage of reverse mortgage. The amount taken from the bank as a consequence of this type of mortgage is not factored in the taxable income of NRI's. This way, ageing NRI's can enjoy the benefits of their property in India. At the same time, they can take money from banks as a part of reverse mortgage of the property. </p>
+
+            <div >
+
+				<h3>
+
+                  Types of properties where NRI's can invest
+
+               </h3>
+
+               <p class="nri-para"> An NRI's is allowed to invest in both residential and commercial properties in India. However, any agricultural land, farm house and plantation property can be owned, only if it is inherited or gifted to the NRI's.</p>
+
+               <button class="accordion1">Financial transactions by NRI's</button>
+
+              
+
+               <div class="panel1">
+
+                  <p>When it comes to property transactions in India, NRI's/ PIO can make payments out of:</p>
+
+					<ul>
+
+					<li>Funds remitted to India through normal banking channel.</li>
+
+					<li>Funds held in NRE/ FCNR (B) / NRO account maintained in India.</li>
+
+					<li>No payment can be made either by traveller’s cheque or by foreign currency notes.</li>
+
+					<li>No payment can be made outside India.</li>
+
+
+
+
+
+					</ul>
+
+               </div>
+
+               <button class="accordion1">Currency and exchange control</button>
+
+               <div class="panel1">
+
+                  <p>Framed under Section 47 of the Foreign Exchange Management Act, 1999, the Foreign Exchange Management (Acquisition and Transfer of Immoveable Property in India) Regulations, 2000, apply on immoveable property transactions by non-residents or other transactions involving foreign exchange. The Reserve Bank of India classifies FEMA transactions into two types: capital account transactions and current account transactions. Real estate investment is a capital account transaction.</p>
+
+               </div>
+
+               <button class="accordion1">Tax regime</button>
+
+               <div class="panel1">
+
+                  <p>In India, anyone is taxed on the basis of residence and not citizenship. Indians are subjected to tax in India on their global income while non-residents are taxed on their Indian source of income.</p>
+
+				<p>Do note that if you are a Non Resident Indian (NRI's) travelling to India to manage your property? Such travel expenses incurred will not be deductible from total income under the provisions of Income Tax Act, 1961. This is established by the Lal Nathirmal Moolchandani versus the International Taxation case.</p>
+
+				<p>In this case, the assessee had claimed deduction under section 57. He has income from property, short term capital gains as also income from other sources. The deduction was claimed for travelling to manage the property in India and the expense was claimed to be Rs 2 lakh but the Assessing Officer did not allow the claim with respect to travelling. The assessee had also claimed that the amount was spent only on travelling to manage his property and that the expenses on boarding and lodging were separate and not added to the claim.</p>
+
+				<p>The claim was disallowed by the Commissioner of Income Tax (Appeals) who said, “I have gone through the facts of the case and the merits of the arguments of the appellant. On going through the provisions of Sec.57 it is seen that the only Clause under which the appellant could have claimed the said expenditure would be if it can be demonstrated that the said expenditure was laid out or expended wholly and exclusively for the purpose of making or earning such income. There is nothing to suggest that this is the fact of the circumstances of the appellant. Therefore, in the light of this I am in agreement with the AO that Rs. 2 lakhs of expenses claimed on account of travelling and other expenses would not be liable. The ground of appeal is thereby rejected.”</p>
+
+
+
+
+
+
+
+               </div>
+
+				  <button class="accordion1">Investment in independent premises for NRI's and PIOs</button>
+
+               <div class="panel1">
+
+                <ul>
+
+				<li>Non-resident Indians (NRI's), persons of Indian origin (POIs) and foreign nationals have to ensure that the land on which the purchased property is built is not agricultural land or plantation property, as these types of land can only be purchased by an agriculturist who is an Indian citizen.</li>
+
+				<li>An Indian citizen resident outside India or a PIO does not require any special permission to buy immovable property in India. However, the payment has to be made in Indian currency through normal banking channels, or funds maintained in any non-resident account under the FEMA and the RBI regulations. Foreign nationals and foreign companies are barred from purchasing a property in India. </li>
+
+				<li>Any residential or commercial property can be bought by an NRI's but no business can be carried out on the premises. </li>
+
+				<li>As far as disposal of property is concerned, an NRI's can sell his property to a fellow NRI's or any Indian citizen.</li>
+
+
+
+
+
+				</ul>
+
+               </div>
+
+				
+
+               <script>
+
+                  var acc = document.getElementsByClassName("accordion1");
+
+                  var i;
+
+                  
+
+                  for (i = 0; i < acc.length; i++) {
+
+                    acc[i].addEventListener("click", function() {
+
+                      this.classList.toggle("active");
+
+                      var panel = this.nextElementSibling;
+
+                      if (panel.style.maxHeight){
+
+                        panel.style.maxHeight = null;
+
+                      } else {
+
+                        panel.style.maxHeight = panel.scrollHeight + "px";
+
+                      } 
+
+                    });
+
+                  }
+
+               </script>
+
+
+
+				
+
+            </div>
+
+			<p class="nri-para">NRI's and foreign nationals investing in real estate business</p>
+
+			<p class="nri-para">With a ban on direct business, non-residents are permitted to invest in real estate development activity through Indian companies. According to the new policy, any project under construction, regardless of size, can have access to FDI.</p>
+
+			<p class="nri-para">There is a lock-in period of three years before which the minimum investment can be repatriated. Investments may be routed through Mauritius or Singapore so as to make use of tax treaty provisions.</p>
+
+			
+
+			<h3>How can NRI's /PIOs acquire real estate in India?</h3>
+
+
+
+				<p class="nri-para">Direct purchase: They can directly purchase any real estate in India (barring farm land, farm house and plantation property) with no restriction on the number of properties. The payment can be made through funds received in India through normal banking channels or funds held in any non-resident account maintained under FEMA.</p>
+
+
+
+				<p class="nri-para">Gift: Gifts are permitted under the exchange control regime, with relevant Indian stamp laws applicable.</p>
+
+
+
+				<p class="nri-para">Inheritance: They may inherit Indian real estate from a resident or non-resident (provide the deceased had acquired the property under exchange control regulations).</p>
+
+				<h3>Investment options to foreign nationals</h3>
+
+				<p class="nri-para">Any direct acquisition is not permitted to a foreign national, nor can they be joint owners in a property. However, foreign nationals in India who are citizens of Pakistan, Bangladesh, Sri Lanka, Afghanistan, China, Iran, Nepal and Bhutan would require prior approval to buy a property in India. Foreign nationals are permitted to sell or gift residential or commercial property to any Indian citizen, NRI, PIO with RBIs approval</p>
+
+				<h3>Other factors</h3>
+
+				<p class="nri-para">Along with exchange control regime and tax laws, it is important to note that succession laws in India are region and community-specific. For instance, Hindus and Muslims are governed by different succession rules, which will have to be read with FEMA regulations. Anticipation and planning in advance can protect from such situations. 
+
+
+
+				</p>
+
+
+
+         </div>
+<STYLE>
+.form-control{
+width: 90%;
+    MARGIN-LEFT: 5%;
+}
+</STYLE>
+         <div class="col-lg-4 col-md-4 col-sm-12">
+<div class="col-md-12" style="background: #000;    margin-bottom: 30px;     border-radius: 5px;">
+<h4 style="    margin-bottom: 15px; color:#fff; margin-top: 25px;        font-size: 25px;     text-align: center;     line-height: 23px;FONT-WEIGHT: BOLD;">DEAL WITH US</h4>
+<h3 style="margin-bottom: 15px;
+    color: #fff;
+    font-size: 17px;
+    text-align: center;
+    line-height: 23px;
+    FONT-FAMILY: -webkit-pictograph;
+    FONT-WEIGHT: BOLD;">Where Real Estate is all about Transparency and Trustworthiness</h3>
+<form class="forms" action="#" method="post" >
+
+            	<input type="text" required="required" name="name" id="name" placeholder="Enter your name..." class="form-control input" />
+
+                
+
+                <input type="email" required="required" name="email" id="email" placeholder="Enter your email..." class="form-control input"/>
+
+                <input type="number" required="required" name="contact" id="contact" placeholder="Enter your Mobile no..." class="form-control input" />
+
+                <input type="text" required="required" name="subject" id="subject" placeholder="Enter your Country..." class="form-control input" />
+                <div id="msg" style="color: #fff;"></div>
+
+                
+                
+
+                <input type="submit" name="submitb" id="submitb" value="Submit" class="b2"  style="   WIDTH: 130PX;
+    DISPLAY: TABLE;
+    MARGIN: 20PX AUTO 20PX;
+    FLOAT: NONE;FONT-WEIGHT: BOLD;" onclick="popUp()" /> 
+
+                
+
+            </form>
+</div>
+            
+
+              <img src="images/change-images-of-nri.jpg" style="    border: 1px solid #dddd;">
+
+				
+
+				
+
+				<div class="sidebar-box">
+
+						<h3>Featured Properties</h3>
+
+						<div class="box-content">
+
+							<div class="featured-properties">
+
+								<div class="property-box">
+
+									
+
+									<a href="projectdetails2638.html?projectname=pioneer-araya" target="_blank" class="clearfix">
+
+										<span class="img-container col-md-4">
+
+											<img src="images/nri11.jpg" style="height:80px">
+
+										</span>
+
+										<span class="details col-md-8">
+
+											<span class="title1">Pioneer Araya</span>
+
+											<span class="location">Gurugram</span><br>
+
+											<span class="price">
+
+												<i class="fa fa-inr"></i>
+
+												3.53Cr - 6.10Cr
+
+											</span>
+
+										</span>
+
+									</a>
+
+									
+
+									<a href="projectdetailsf580.html?projectname=m3mteepointgurgaon" target="_blank" class="clearfix">
+
+										<span class="img-container col-xs-4">
+
+											<img src="images/nri12.jpg" style="height:80px">
+
+										</span>
+
+										<span class="details col-xs-8">
+
+											<span class="title1">M3M Tee Point</span>
+
+											<span class="location">Gurugram</span><br>
+
+											<span class="price">
+
+												<i class="fa fa-inr"></i>
+
+												3.53Cr - 6.10Cr
+
+											</span>
+
+										</span>
+
+									</a>
+
+									
+
+									<a href="projectdetails94cb.html?projectname=vipul-aarohan" target="_blank" class="clearfix">
+
+										<span class="img-container col-xs-4">
+
+											<img src="images/nri13.jpg" style="height:80px">
+
+										</span>
+
+										<span class="details col-xs-8">
+
+											<span class="title1">Vipul Aarohan</span>
+
+											<span class="location">Gurugram</span><br>
+
+											<span class="price">
+
+												<i class="fa fa-inr"></i>
+
+												 3.53Cr - 6.10Cr
+
+											</span>
+
+										</span>
+
+									</a>
+
+									
+
+								</div>
+
+							</div>
+
+						</div>
+
+					</div>
+
+<img src="images/nri1.jpg">
+
+            <div class="margin10">
+
+	
+
+
+
+			
+
+			</div>
+
+
+
+
+
+         </div>
+
+      </div>
+
+   </div>
+
+</article>
+
+ <footer>
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-lg-3 col-md-3 col-sm-12">
+				<!--<h5>REAL ESTATE</h5>-->
+				   <ul style=" padding: 12px;">
+						<li><a href="about.html" style="font-size: 16px;">About Us</a></li>
+                    	<li><a href="commercial.html" style="font-size: 16px;">Commercial</a></li>
+                        <li><a href="residential-projects.html" style="font-size: 16px;">Residential</a></li>
+                        <li><a href="news-events.html" style="font-size: 16px;">News & Event</a></li>
+						<li><!-- <span id="siteseal"><script async type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=hP4Fcbu4nPVCRJz4uURlqdBig3mv4mlkmCZ419YXInSLlLNfRWxlFvi833Mu"></script></span> --></li>
+                    </ul>
+                <!--	<a class="download-icon" href="" download >
+                        <h4>Innovative, Easy and Personalized</h4>
+                        <p>Now search properties on the go with our new Mobile Apps.</p>
+                        <img src="images/Google-play-store-icon.png" alt="" lowsrc="100%" />
+                    </a>-->
+                </div>
+               <div class="col-lg-3 col-md-3 col-sm-12">
+                	<!--<h5>REAL ESTATE</h5>-->
+                    <ul style="    padding: 12px;">
+                    	
+                        <li><a href="nri.html" style="font-size: 16px;">NRIs</a></li>
+                        <li><a href="contact.html" style="font-size: 16px;">Contacts</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-12">
+                	<!--<h5 class="text-right">OFFICE ADDRESS</h5>-->
+					<h5 style="border-bottom: none;">OFFICE ADDRESS</h5></h5>
+                    <ul>
+                    	<li style="display:inline-block"><a href="contact.html" style="font-size: 16px;">KinshipSquare,PremisesNo7(2Bays),<br>Sector32,Gurgaon.<br>OppositeJetAirwaysTrainingCentre.</a></li>
+                                         </ul>
+                </div>
+				<div class="col-lg-3 col-md-3 col-sm-12">	
+				<!--<h5 class="text-right">CONTACT INFORMATION</h5>-->
+				<h5 style="border-bottom: none;">CONTACT INFORMATION</h5>
+                    <ul>
+          
+                        <li style="display:inline-block"><a href="mailto:gurgaon40@gmail.com" style="font-size: 16px;">gurgaon40@gmail.com</a></li>
+                        <li style="display:inline-block"><a href="tel:+919899891133" style="font-size: 16px;"> +91-9899891133, 9999378278, 9878092227</a></li>
+                    </ul></div>
+					<div class="col-lg-12 col-md-12 col-sm12">
+					<div class="col-lg-3 col-md-3 col-sm-12"></div>
+					<div class="col-lg-3 col-md-3 col-sm-12"></div>
+					<div class="col-lg-3 col-md-3 col-sm-12">
+					<ul>
+                    	<li style="display:inline-block"><a href="#" target="_blank" style="font-size: 16px;"><i class="fa fa-facebook-square" style="font-size: 27px; padding: 0px 5px 0px 0px; margin-right: 4px;     margin-bottom: 15px;"></i> </a></li>
+						         	<li style="display:inline-block"><a href="contact.html" style="font-size: 16px;"><i class="fa fa-twitter-square" style="font-size: 27px; padding: 0px 5px 0px 0px; margin-right: 4px;     margin-bottom: 15px;"></i> </a></li>
+									<li style="display:inline-block"><a href="contact.html" style="font-size: 16px;"><i class="fa fa-google-plus-square" style="font-size: 27px; padding: 0px 5px 0px 0px; margin-right: 4px;     margin-bottom: 15px;"></i> </a></li>
+									                    	<li style="display:inline-block"><a href="contact.html" style="font-size: 16px;"><i class="fa fa-linkedin-square" style="font-size: 27px; padding: 0px 5px 0px 0px; margin-right: 4px;     margin-bottom: 15px;"></i> </a></li>	
+								   </ul>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-12"></div>
+					
+					</div>
+                <div class="clearfix"></div>
+                <hr />
+                <div class="col-lg-12 col-md-12 col-sm12">
+                	<p class="text-center">Copyright &copy; 2019 Reality Solution - Real Estate India - Property - Properties in India - All Rights Reserved. <!-- <a href="http://starworldweb.com/" target="_blank"><img src="images/sww-icon.png" alt="Star World Web"  /></a> --></p>
+					<!-- <p style="font-size: 11px;">Disclaimer: Transaction Point makes no guarantee, express or implied, nor assumes any legal liability or responsibility for the accuracy, correctness, completeness or use of any information available in the EDM’s or in our website. Builder has all the rights to change the details (payment plan, floor plans, master plans, sizes…etc) without any information & Transaction Point will not to be responsible for any of these changes made by the Builder.</p> -->
+                </div>
+            </div>
+        </div>
+    </footer> 
+<!--	<img src="https://www.transactionpoint.in/images/gold-coin2.png" class="gold-coin" style="position: fixed;z-index: 1000;bottom: 10px;left: 1px;" /> -->
+    <script type="text/javascript">
+		$(window).scroll(function() {
+			var nav = $('#menuBar');
+			var menuno = $('#menuNo');
+			//var searchbar = $('#searchbar');
+			var top = 135;
+			if ($(window).scrollTop() >= top) {
+				nav.addClass('navbar-fixed-top');
+				menuno.addClass('mdisplay');
+				//searchbar.addClass('top41');
+			} else {
+				nav.removeClass('navbar-fixed-top');
+				//menuno.removeClass('top41');
+				menuno.removeClass('mdisplay');
+				//searchbar.removeClass('top41');
+			}
+		});
+		$(function() {
+			$('marquee').mouseover(function() {
+				$(this).attr('scrollamount',0);
+			}).mouseout(function() {
+				 $(this).attr('scrollamount',5);
+			});
+		});
+		
+	</script>
+
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script src="jquery.min.js"></script>
+  <script type="text/javascript">
+  $(document).ready(function(){
+    $("#submitb").click(function(){
+      event.preventDefault();
+      if ($("#name").val() == "" || $("#email").val() == "" || $("#contact").val() == "" || $("#subject").val() == ""){
+      } else { 
+        var ac = "name=" + $("#name").val() + "&email=" + $("#email").val()  + "&contact=" + $("#contact").val()  + "&subject=" + $("#subject").val();
+        $.ajax({
+          type: "post",
+          url: "dealwithus.php",
+          dataType: "text",
+          data: ac,
+          beforeSend: function() {
+            $("#msg").html("");
+            $("#msg").html("");
+          },
+          success: function(data) {
+            $("#msg").html(data);
+
+          },
+        });
+      }
+    });
+  });
+</script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<script>
+  function popUp(){
+    swal("Deals With Us", "Your Information Send successfuly!", "success")
+  }
+</script>
+</body>
+</html>
