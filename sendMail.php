@@ -40,7 +40,7 @@ function sendMailToMe() {
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = $_POST['subject'];
     $mail->Body    = '<div style="text-align: left;">
-<h1>Reality Solution</h1>
+<h1 style="color: orange;"><span style="color: yellow;">Reality</span> Solution</h1>
 <p><b>Name</b> :'.$_POST['name'].'</p>
 <p><b>Email</b> :'.$_POST['email'].'</p>
 <p><b>Contact</b> :'.$_POST['contact'].'</p>
