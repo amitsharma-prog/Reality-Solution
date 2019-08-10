@@ -20,6 +20,7 @@ header{
 .top-strip{
 	padding-top:10px;
 	padding-bottom:5px;
+	background: #fff;
 }
 .logo{
 	display:inline-block;
@@ -30,7 +31,7 @@ header{
 	color: #0098DB;
 }
 .name{
-	background: url(../images/sepreter.png) no-repeat left center;
+	/*background: url(../images/sepreter.png) no-repeat left center;*/
 	font-family: calibri;
 	font-size: 35px;
 	font-weight: bold;
@@ -89,16 +90,10 @@ header{
 
 /*--------------css for menu starts------------*/
 .menu-bar{
-	background-color: #000;
-	    border: 1px solid #ffffff;
-    border-left: none;
-    border-right: none;
-	border-top:none;
-}
-.navbar-inverse{
-	background:none;
-	    border: none;
-}
+/*	background-color: #000;
+	border: none;
+*/}
+
 .navbar{
 	margin-bottom: -1px;
 }
@@ -106,7 +101,7 @@ header{
 	padding:10px 20px;
 	
 	font-size: 16px;
-	color:#ffffff;
+	color:#000;
 }
 .navbar-inverse .navbar-nav > li > a {
     color: #ffffff;
@@ -144,7 +139,7 @@ header{
 	font-size: 27px;
 	font-weight: normal;
 	line-height: 42px;
-	background:url(../images/arrow-stripe.png) no-repeat center bottom;
+	/*background:url(../images/arrow-stripe.png) no-repeat center bottom;*/
 	padding-bottom:23px;
 }
 .title span{
@@ -803,9 +798,6 @@ footer hr{
     padding: 0px 10px;
     line-height: 40px;
 }
-.navbar-fixed-top{
-	
-}
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus{
 	color:#000;
 }
@@ -936,6 +928,8 @@ footer hr{
 		display:none;
 	}
 }
+
+
 .mt90{
 	margin-top:90px;
 }
@@ -986,3 +980,13 @@ footer hr{
     right: -356.7%;
     top: -212%;
 }*/
+.container {
+    width: 1470px;
+}   
+ul.nav.navbar-nav {
+    padding-top: 19px;
+    float: right;
+}
+.navbar-header {
+    float: right;
+}

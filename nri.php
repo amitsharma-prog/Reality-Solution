@@ -1,176 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>NRI | Reality Solution</title>
-<link rel="shortcut icon" type="image" href="images/fav%20(1).ico"  />
-<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"  />
-<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"  />
-<link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css"  />
-<link href="css/responsive_bootstrap_carousel_mega_min.css" rel="stylesheet" media="all">
-<link rel="stylesheet" type="text/css" href="css/style.css"  />
-<link href="css/jquery.bxslider.css" rel="stylesheet" />
-<link rel="stylesheet" type="text/css" href="css/styletesti.css">
-<script type="text/javascript" src="js/jquery-1.11.3.min.js" ></script>
-<script type="text/javascript" src="js/bootstrap.min.js" ></script>
-<link href="https://fonts.googleapis.com/css?family=Roboto:300i,400,400i,500,500i,700,700i" rel="stylesheet">
-<!----- Local Business Listing ----->
-<style>
-	.notification-marquee{
-	}
-	.notification-marquee p{
-		margin: 0px;
-		font-weight: bold;
-		text-align: center;
-		background-color: #0098da;
-		padding: 8px 0px;
-	}
-	.notification-marquee a{
-		color:#fff;
-		color: #fff;
-		margin-right: 20px;
-		border-right: 1px solid #fff;
-		padding-right: 20px;
-		margin-top: 8px;
-		display: inline-block;
-	}
-	.blinking{
-		animation:blinkingText 0.8s infinite;
-	}
-	@keyframes blinkingText{
-		0%{     color: #feb600;    }
-		50%{    color: transparent; }
-		100%{   color: #feb600;    }
-	}
-</style>
+	<title>Reality Solution | NRIS</title>
+<?php require_once 'include/header.php'; ?>
 </head>
 
 <body>
-<!-- Window Load popup -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <div class="logo p-logo">
-            <h1 class="tp">        
-                <a href="index.html" title="" rel="home" id="logo"><img src="images/transaction_logo.png" alt=""></a>
-            </h1>
-            <div class="name tp">
-                <a href="index.html" class="tp-name">Reality <span>Solution</span></a>
-                <div class="subtitle">We Value Your Transactions </div>
-           </div>
-        </div>
-      </div>
-      <div class="modal-body">
-      		<p class="p-p">Explore Over <span>100+ properties</span> in Delhi NCR & get free site visit</p>
-                        <form class="p-form" action="#" method="post" >
-            	<input type="text" name="p-number" placeholder="Enter Your Mobile No." pattern="[789][0-9]{9}" required="required" />
-                <input type="text" name="p-name" placeholder="Enter Your Name" />
-                <input type="Submit" name="p-submit" value="Start Now" />
-            </form>
-            <a href="tel:+919899891133"><p class="p-phone"><i class="fa fa-phone-square"></i> +91 9899891133,9873092221,8076952087</p></a>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default skip" data-dismiss="modal">Skip, try later</button>
-       <!-- <button type="button" class="btn btn-primary">Save changes</button>-->
-      </div>
-    </div>
-  </div>
-</div>
-<!-- Window Load popup Ends Here-->
-	<header>
-    	<div class="top-strip">
-        	<div class="container">
-            	<div class="row">
-                	<div class="col-lg-8 col-md-6 col-sm-12">
-                    	<div class="tp logo">
-                            <h1 class="tp">        
-                                <a href="index.html" title="" rel="home" id="logo"><img src="images/transaction_logo.png" alt=""></a>
-                            </h1>
-                            <div class="name tp">
-                                <a href="index.html" class="tp-name">Reality <span>Solution</span></a>
-                                <div class="subtitle">We Value Your Transactions </div>
-                           </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 ">
-                    	<div class="right-header text-right">
-                            <a href="tel:+919899891133"><p><i class="fa fa-phone-square"></i> +91 9899891133, 9873092221, 8076952087</p></a>
-                            <a href="mailto:gurgaon40@gmail.com" target="_blank"><p><i class="fa fa-envelope"></i> gurgaon40@gmail.com</p></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="clearfix"></div>
-        <div class="menu-bar " id="menuBar">
-        	<div class="container" style="border-top: 1px solid #585656;">
-            	<div class="row">
-                	<nav class="navbar navbar-inverse ">
-                        <div class="container-fluid" >
-                            <div class="navbar-header">
-                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                                	<a href="index.html" style="position: absolute;left: -300px; z-index: 1000; color: #fff; font-size: 20px; top: 0px;">Reality Solution</a>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>
-                                    <span class="icon-bar"></span>                        
-                                </button>                    
-                            </div>
-                            <div class="collapse navbar-collapse" id="myNavbar">
-                                <ul class="nav navbar-nav" >
-                                    <!--<li ><a href="index.php">Home</a></li> -->
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="commercial.html">Commercial</a></li>
-                                    <!-- <li><a href="residential-projects.html">Residential</a></li> -->
-                                    <!--<li><a href="#">Projects</a></li>-->
-                                    
-									<!-- <li><a href="news-events.html">News/Event</a></li> -->
-                                    <li><a href="nri.html">NRIs</a></li>
-									<li><a href="contact.html">Contact <!-- <img src="images/icon-new-animate.gif" style="vertical-align:middle;    height: 20px;    margin-top: -35px;    margin-right: -10px;" /> --> </a></li>
-                                    <!--<li><a href="client.php">Clients</a></li>
-                                    <li><a href="contact.php">Contacts</a></li>
-									<li><a href="careers.php">Careers</a></li>-->
-                                    
-                                </ul>
-                                <ul class="pull-right rera" style="padding: 0px;">
-                                	<li><span class="menuno" id="menuNo"><a href="tel:+919899891133"><i class="fa fa-phone-square"></i> +91 9899891133,9873092221,8076952087</a></span></li>
-                                   <!--  <li>
-                                    	<div class="search-form">
-                                            <form method="post" action="https://www.transactionpoint.in/search.php">
-                                                <input type="text" placeholder="Type Location or Project/Society or Keyword" name="search"  /> 
-                                                <button class="search-btn" type="submit" name="searchbtn"><i class="fa fa-search"></i> <span>Search</span></button>
-                                            </form>
-                                        </div>
-                                    </li -->>
-                                	<!--<li><a href="about.php" >RERA No. - 249/2017</a></li>-->
-                                </ul>
-                            </div>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-			<!-- <div>
-				<div class="container" style="border-top: 1px solid #585656;color:#fff;">
-					<div class="row notification-marquee">
-						<div class="col-lg-3 col-md-5 col-sm-12" style="padding-left:0px">                
-							<p class="blinking" style="font-size: 18px;"><i class="fa fa-info"></i> Exclusive Deals of the Month</p>
-						</div>
-						<div class="col-lg-9 col-md-7 col-sm-12">                
-							<marquee onMouseOver="this.stop()" onMouseOut="this.start()">
-								<a href="projectdetails16d7.html?projectname=elan-epic-gurgaon"><img src="images/icon-new-animate.gif" style="vertical-align:middle;height: 20px;margin-top: -10px;" /> Elan Epic </a>
-							    <a href="projectdetails9a49.html?projectname=emaar-digi-homes-gurgaon"><img src="images/icon-new-animate.gif" style="vertical-align:middle;height: 20px;margin-top: -10px;" /> Emaar Digi Homes</a>								
-								<a href="projectdetails5803.html?projectname=aipl-joy-central-hypermarket">AIPL Joy Central | Hypermarket</a>
-								<a href="projectdetails1065.html?projectname=aipl-joy-street" style="border-right:0px">AIPL Joy Street</a>
-							</marquee>
-						</div>
-						<marquee onMouseOver="this.stop()" onMouseOut="this.start()">
-								<a style="border-right:none;font-size: 20px;font-weight: bold;color: #f58634;"><img src="images/fireworks.gif" style="height:60px" > <img src="images/fireworks.gif" style="height:60px" > <img src="images/fireworks.gif" style="height:60px" >We wish you all "Happy Mahavir Jayanti" <img src="images/fireworks.gif" style="height:60px" > <img src="images/fireworks.gif" style="height:60px" ><img src="images/fireworks.gif" style="height:60px" ></a>
-							</marquee>
-					</div>
-				</div>
-			</div> -->
-        </div>
-    </header>    
+<?php require_once 'include/loadPopup.php'; ?>
+	   <?php require_once 'include/navBar.php'; ?>
     
 <link rel="stylesheet" type="text/css" href="css/nri-style.css"  />
 <article class="bc" style="    margin-bottom: 0px;">
@@ -179,7 +16,7 @@
         	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             	<ul class="bc-ul">
                 	<li><a href="#">You Are Here  <i class="fa fa-caret-right" aria-hidden="true"></i> </a> </li>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="#">/</a></li>
                     <li><a href="#" class="activebc">NRI's Corner</a></li>
                 </ul>
@@ -489,7 +326,7 @@ width: 90%;
 
 									
 
-									<a href="projectdetails2638.html?projectname=pioneer-araya" target="_blank" class="clearfix">
+									<a href="projectdetails2638.php?projectname=pioneer-araya" target="_blank" class="clearfix">
 
 										<span class="img-container col-md-4">
 
@@ -517,7 +354,7 @@ width: 90%;
 
 									
 
-									<a href="projectdetailsf580.html?projectname=m3mteepointgurgaon" target="_blank" class="clearfix">
+									<a href="projectdetailsf580.php?projectname=m3mteepointgurgaon" target="_blank" class="clearfix">
 
 										<span class="img-container col-xs-4">
 
@@ -545,7 +382,7 @@ width: 90%;
 
 									
 
-									<a href="projectdetails94cb.html?projectname=vipul-aarohan" target="_blank" class="clearfix">
+									<a href="projectdetails94cb.php?projectname=vipul-aarohan" target="_blank" class="clearfix">
 
 										<span class="img-container col-xs-4">
 
@@ -641,99 +478,7 @@ width: 90%;
 
 </article>
 
- <footer>
-    	<div class="container">
-        	<div class="row">
-            	<div class="col-lg-3 col-md-3 col-sm-12">
-				<!--<h5>REAL ESTATE</h5>-->
-				   <ul style=" padding: 12px;">
-						<li><a href="about.html" style="font-size: 16px;">About Us</a></li>
-                    	<li><a href="commercial.html" style="font-size: 16px;">Commercial</a></li>
-                        <li><a href="residential-projects.html" style="font-size: 16px;">Residential</a></li>
-                        <li><a href="news-events.html" style="font-size: 16px;">News & Event</a></li>
-						<li><!-- <span id="siteseal"><script async type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=hP4Fcbu4nPVCRJz4uURlqdBig3mv4mlkmCZ419YXInSLlLNfRWxlFvi833Mu"></script></span> --></li>
-                    </ul>
-                <!--	<a class="download-icon" href="" download >
-                        <h4>Innovative, Easy and Personalized</h4>
-                        <p>Now search properties on the go with our new Mobile Apps.</p>
-                        <img src="images/Google-play-store-icon.png" alt="" lowsrc="100%" />
-                    </a>-->
-                </div>
-               <div class="col-lg-3 col-md-3 col-sm-12">
-                	<!--<h5>REAL ESTATE</h5>-->
-                    <ul style="    padding: 12px;">
-                    	
-                        <li><a href="nri.html" style="font-size: 16px;">NRIs</a></li>
-                        <li><a href="contact.html" style="font-size: 16px;">Contacts</a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-12">
-                	<!--<h5 class="text-right">OFFICE ADDRESS</h5>-->
-					<h5 style="border-bottom: none;">OFFICE ADDRESS</h5></h5>
-                    <ul>
-                    	<li style="display:inline-block"><a href="contact.html" style="font-size: 16px;">KinshipSquare,PremisesNo7(2Bays),<br>Sector32,Gurgaon.<br>OppositeJetAirwaysTrainingCentre.</a></li>
-                                         </ul>
-                </div>
-				<div class="col-lg-3 col-md-3 col-sm-12">	
-				<!--<h5 class="text-right">CONTACT INFORMATION</h5>-->
-				<h5 style="border-bottom: none;">CONTACT INFORMATION</h5>
-                    <ul>
-          
-                        <li style="display:inline-block"><a href="mailto:gurgaon40@gmail.com" style="font-size: 16px;">gurgaon40@gmail.com</a></li>
-                        <li style="display:inline-block"><a href="tel:+919899891133" style="font-size: 16px;"> +91-9899891133, 9999378278, 9878092227</a></li>
-                    </ul></div>
-					<div class="col-lg-12 col-md-12 col-sm12">
-					<div class="col-lg-3 col-md-3 col-sm-12"></div>
-					<div class="col-lg-3 col-md-3 col-sm-12"></div>
-					<div class="col-lg-3 col-md-3 col-sm-12">
-					<ul>
-                    	<li style="display:inline-block"><a href="#" target="_blank" style="font-size: 16px;"><i class="fa fa-facebook-square" style="font-size: 27px; padding: 0px 5px 0px 0px; margin-right: 4px;     margin-bottom: 15px;"></i> </a></li>
-						         	<li style="display:inline-block"><a href="contact.html" style="font-size: 16px;"><i class="fa fa-twitter-square" style="font-size: 27px; padding: 0px 5px 0px 0px; margin-right: 4px;     margin-bottom: 15px;"></i> </a></li>
-									<li style="display:inline-block"><a href="contact.html" style="font-size: 16px;"><i class="fa fa-google-plus-square" style="font-size: 27px; padding: 0px 5px 0px 0px; margin-right: 4px;     margin-bottom: 15px;"></i> </a></li>
-									                    	<li style="display:inline-block"><a href="contact.html" style="font-size: 16px;"><i class="fa fa-linkedin-square" style="font-size: 27px; padding: 0px 5px 0px 0px; margin-right: 4px;     margin-bottom: 15px;"></i> </a></li>	
-								   </ul>
-					</div>
-					<div class="col-lg-3 col-md-3 col-sm-12"></div>
-					
-					</div>
-                <div class="clearfix"></div>
-                <hr />
-                <div class="col-lg-12 col-md-12 col-sm12">
-                	<p class="text-center">Copyright &copy; 2019 Reality Solution - Real Estate India - Property - Properties in India - All Rights Reserved. <!-- <a href="http://starworldweb.com/" target="_blank"><img src="images/sww-icon.png" alt="Star World Web"  /></a> --></p>
-					<!-- <p style="font-size: 11px;">Disclaimer: Transaction Point makes no guarantee, express or implied, nor assumes any legal liability or responsibility for the accuracy, correctness, completeness or use of any information available in the EDM’s or in our website. Builder has all the rights to change the details (payment plan, floor plans, master plans, sizes…etc) without any information & Transaction Point will not to be responsible for any of these changes made by the Builder.</p> -->
-                </div>
-            </div>
-        </div>
-    </footer> 
-<!--	<img src="https://www.transactionpoint.in/images/gold-coin2.png" class="gold-coin" style="position: fixed;z-index: 1000;bottom: 10px;left: 1px;" /> -->
-    <script type="text/javascript">
-		$(window).scroll(function() {
-			var nav = $('#menuBar');
-			var menuno = $('#menuNo');
-			//var searchbar = $('#searchbar');
-			var top = 135;
-			if ($(window).scrollTop() >= top) {
-				nav.addClass('navbar-fixed-top');
-				menuno.addClass('mdisplay');
-				//searchbar.addClass('top41');
-			} else {
-				nav.removeClass('navbar-fixed-top');
-				//menuno.removeClass('top41');
-				menuno.removeClass('mdisplay');
-				//searchbar.removeClass('top41');
-			}
-		});
-		$(function() {
-			$('marquee').mouseover(function() {
-				$(this).attr('scrollamount',0);
-			}).mouseout(function() {
-				 $(this).attr('scrollamount',5);
-			});
-		});
-		
-	</script>
-
-<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+ <?php require_once 'include/footer.php'; ?>
 <script src="jquery.min.js"></script>
   <script type="text/javascript">
   $(document).ready(function(){
