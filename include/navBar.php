@@ -23,10 +23,11 @@
                             <ul class="nav navbar-nav" >
                                 <li ><a href="index.php">Home</a></li> 
                                 <li><a href="about.php">About Us</a></li>
+                                <li><a href="team.php">Our Team</a></li>
                                 <li><a href="commercial.php">Commercial</a></li>
                                 <li><a href="residential-projects.php">Residential</a></li>
                                 <li><a href="nri.php">NRIs</a></li>
-                                <li><a href="contact.php">Contact</a></li> 
+                                <li><a href="contact.php">Contact Us</a></li> 
                             </ul>                 
                         </div>
                     </nav>

@@ -1,4 +1,37 @@
-    
+<style>
+    .fix-nav {
+  width: 100%;
+  position: fixed !important;
+  z-index: 999999;
+  animation: navigationFlipIn 0.5s;
+  -webkit-animation: navigationFlipIn 0.5s;
+  -moz-animation: navigationFlipIn 0.5s;
+  -ms-animation: navigationFlipIn 0.5s;
+  -o-animation: navigationFlipIn 0.5s;
+    box-shadow: 0px -7px 12px 3px rgba(0,0,0,.5);
+  -webkit-box-shadow: 0px -7px 12px 3px rgba(0,0,0,.5);
+    -moz-box-shadow: 0px -7px 12px 3px rgba(0,0,0,.5);
+      -ms-box-shadow: 0px -7px 12px 3px rgba(0,0,0,.5);
+        -o-box-shadow: 0px -7px 12px 3px rgba(0,0,0,.5);
+  left: 0;
+}
+@keyframes navigationFlipIn {
+    from {
+        top: -100px;
+        -webkit-top: -100px;
+        -moz-top: -100px;
+        -ms-top: -100px;
+        -o-top: -100px;
+    }
+    to {
+        top: 0;
+        -webkit-top: 0px;
+        -moz-top: 0px;
+        -ms-top: 0px;
+        -o-top: 0px;
+    }
+}
+</style>    
     <script type="text/javascript" >	
 		$(document).ready(function(){
 		  $('.bxslider').bxSlider();
@@ -18,8 +51,11 @@
 				<!--<h5>REAL ESTATE</h5>-->
 				   <ul style=" padding: 12px;">
 						<li><a href="about.html" style="font-size: 16px;">About Us</a></li>
+                        <li><a href="about.html" style="font-size: 16px;">Our Team</a></li>
                     	<li><a href="commercial.html" style="font-size: 16px;">Commercial</a></li>
                         <li><a href="residential-projects.html" style="font-size: 16px;">Residential</a></li>
+                        <li><a href="nri.html" style="font-size: 16px;">NRIs</a></li>
+                        <li><a href="contact.html" style="font-size: 16px;">Contacts Us</a></li>   
                         <!-- <li><a href="news-events.html" style="font-size: 16px;">News & Event</a></li> -->
 						<!-- <li><span id="siteseal"> --><!-- <script async type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=hP4Fcbu4nPVCRJz4uURlqdBig3mv4mlkmCZ419YXInSLlLNfRWxlFvi833Mu"></script> --><!-- </span></li> -->
                     </ul>
@@ -28,14 +64,6 @@
                         <p>Now search properties on the go with our new Mobile Apps.</p>
                         <img src="images/Google-play-store-icon.png" alt="" lowsrc="100%" />
                     </a>-->
-                </div>
-               <div class="col-lg-3 col-md-3 col-sm-12">
-                	<!--<h5>REAL ESTATE</h5>-->
-                    <ul style="    padding: 12px;">
-                    	
-                        <li><a href="nri.html" style="font-size: 16px;">NRIs</a></li>
-                        <li><a href="contact.html" style="font-size: 16px;">Contacts</a></li>
-                    </ul>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-12">
                 	<!--<h5 class="text-right">OFFICE ADDRESS</h5>-->
@@ -52,10 +80,8 @@
                         <li style="display:inline-block"><a href="#" style="font-size: 16px;">gurgaon40@gmail.com</a></li>
                         <li style="display:inline-block"><a href="tel:+919899891133" style="font-size: 16px;"> +91 9899891133,9873092221<br>8076952087</a></li>
                     </ul></div>
-					<div class="col-lg-12 col-md-12 col-sm12">
-					<div class="col-lg-3 col-md-3 col-sm-12"></div>
-					<div class="col-lg-3 col-md-3 col-sm-12"></div>
 					<div class="col-lg-3 col-md-3 col-sm-12">
+                    <h5 style="border-bottom: none; margin-bottom: 15px;">Follow Us</h5>
 					<ul>
                     	<li style="display:inline-block"><a href="#" style="font-size: 16px;"><i class="fa fa-facebook-square" style="font-size: 27px; padding: 0px 5px 0px 0px; margin-right: 4px;     margin-bottom: 15px;"></i> </a></li>
 						         	<li style="display:inline-block"><a href="contact.html" style="font-size: 16px;"><i class="fa fa-twitter-square" style="font-size: 27px; padding: 0px 5px 0px 0px; margin-right: 4px;     margin-bottom: 15px;"></i> </a></li>
@@ -102,18 +128,18 @@
 
     <script type="text/javascript">
 		$(window).scroll(function() {
-			var nav = $('#menuBar');
-			var menuno = $('#menuNo');
+			var nav = $('.top-strip');
+			// var menuno = $('#menuNo');
 			//var searchbar = $('#searchbar');
 			var top = 135;
 			if ($(window).scrollTop() >= top) {
-				nav.addClass('navbar-fixed-top');
-				menuno.addClass('mdisplay');
+				nav.addClass('fix-nav');
+				// menuno.addClass('mdisplay');
 				//searchbar.addClass('top41');
 			} else {
-				nav.removeClass('navbar-fixed-top');
+				nav.removeClass('fix-nav');
 				//menuno.removeClass('top41');
-				menuno.removeClass('mdisplay');
+				// menuno.removeClass('mdisplay');
 				//searchbar.removeClass('top41');
 			}
 		});

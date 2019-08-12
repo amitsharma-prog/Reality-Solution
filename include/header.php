@@ -8,7 +8,7 @@
 <meta property="og:image" content="index.html" />
 <meta property="og:url" content="index.html" />
 
-<link rel="shortcut icon" type="image" href="http://realitysolution.in/images/transaction_logo.png"  />
+<link rel="shortcut icon" type="image" href="http://realitysolution.in/images/Reality Solution Logo.png"  />
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"  />
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"  />
 <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css"  />
