@@ -541,17 +541,37 @@ footer p{
 }
 /*----------------about starts now-------------------*/
 .img{
-	float:right;
-	width:35%;
+	float:left;
+	width:20%;
+	margin: 0px 0px 10px 25px;
+}
+#col-lg-12 {
+	border: none;
+}
+#ourmissionimg {
+	float: right;
+	width: 38%;
 	margin: 0px 0px 10px 25px;
 }
 .abouthead{
 	margin: 62px 0px 16px;
 }
-.pabout{
-	    line-height: 25px;
+.pabout {
+    line-height: 30px;
     text-align: justify;
-    font-size: 15px;
+    font-size: 18px;
+    width: 60%;
+    float: right;
+    padding-top: 48px;
+}
+#paboutcontent {
+	line-height: 25px;
+    text-align: justify;
+    /*font-size: 15px;*/
+    /*width: 60%;*/
+    /*float: right;*/
+    /*padding-top: 48px;*/
+    /*width: none*/
 }
 .pabout1{
 	font-weight:bold;
@@ -1021,4 +1041,7 @@ ul.nav.navbar-nav {
 .text-center {
 	padding: 10px 0;
 	font-size: 20px;
+}
+.col-lg-12.col-md-12.col-sm-12 {
+    border-bottom: 1px solid lightgray;
 }

@@ -111,8 +111,8 @@
             email: "gurgaon40@gmail.com", // Email
             sms: "+9119899891133", // Sms phone number
             call: "+919899891133", // Call phone number
-            // company_logo_url: "//", // URL of company logo (png, jpg, gif)
-            greeting_message: "Hello, how may we help you? Just send us a message now to get assistance.", // Text of greeting message
+            company_logo_url: "http://realitysolution.in/images/Reality%20Solution%20Logo.png", // URL of company logo (png, jpg, gif)
+            greeting_message: "Hi, How may we help you? Just send us a message to get help.", // Text of greeting message
             call_to_action: "Message us", // Call to action
             button_color: "#8cc600", // Color of button
             position: "right", // Position may be 'right' or 'left'
