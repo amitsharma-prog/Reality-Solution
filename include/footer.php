@@ -50,12 +50,12 @@
             	<div class="col-lg-3 col-md-3 col-sm-12">
 				<!--<h5>REAL ESTATE</h5>-->
 				   <ul style=" padding: 12px;">
-						<li><a href="about.html" style="font-size: 16px;">About Us</a></li>
-                        <li><a href="about.html" style="font-size: 16px;">Our Team</a></li>
-                    	<li><a href="commercial.html" style="font-size: 16px;">Commercial</a></li>
-                        <li><a href="residential-projects.html" style="font-size: 16px;">Residential</a></li>
-                        <li><a href="nri.html" style="font-size: 16px;">NRIs</a></li>
-                        <li><a href="contact.html" style="font-size: 16px;">Contacts Us</a></li>   
+						<li><a href="about.php" style="font-size: 16px;">About Us</a></li>
+                        <li><a href="#" style="font-size: 16px;">Our Team</a></li>
+                    	<li><a href="commercial.php" style="font-size: 16px;">Commercial</a></li>
+                        <li><a href="residential-projects.php" style="font-size: 16px;">Residential</a></li>
+                        <li><a href="nri.php" style="font-size: 16px;">NRIS</a></li>
+                        <li><a href="contact.php" style="font-size: 16px;">Contacts Us</a></li>   
                         <!-- <li><a href="news-events.html" style="font-size: 16px;">News & Event</a></li> -->
 						<!-- <li><span id="siteseal"> --><!-- <script async type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=hP4Fcbu4nPVCRJz4uURlqdBig3mv4mlkmCZ419YXInSLlLNfRWxlFvi833Mu"></script> --><!-- </span></li> -->
                     </ul>
@@ -69,7 +69,7 @@
                 	<!--<h5 class="text-right">OFFICE ADDRESS</h5>-->
 					<h5 style="border-bottom: none;">OFFICE ADDRESS</h5></h5>
                     <ul>
-                    	<li style="display:inline-block"><a href="contact.html" style="font-size: 16px;"> KinshipSquare,PremisesNo7(2Bays),</br>Sector32,Gurgaon. <br>OppositeJetAirwaysTrainingCentre.</a></li>
+                    	<li style="display:inline-block"><a href="contact.php" style="font-size: 16px;"> KinshipSquare,PremisesNo7(2Bays),</br>Sector32,Gurgaon. <br>OppositeJetAirwaysTrainingCentre.</a></li>
                                          </ul>
                 </div>
 				<div class="col-lg-3 col-md-3 col-sm-12">	
@@ -111,10 +111,10 @@
             email: "gurgaon40@gmail.com", // Email
             sms: "+9119899891133", // Sms phone number
             call: "+919899891133", // Call phone number
-            company_logo_url: "//storage.whatshelp.io/widget/e8/e81f/e81fb4919773dbaf10616997fcfad01a/14681648_1142053985859811_3128662912686222861_n.png", // URL of company logo (png, jpg, gif)
+            // company_logo_url: "//", // URL of company logo (png, jpg, gif)
             greeting_message: "Hello, how may we help you? Just send us a message now to get assistance.", // Text of greeting message
             call_to_action: "Message us", // Call to action
-            button_color: "#f58635", // Color of button
+            button_color: "#8cc600", // Color of button
             position: "right", // Position may be 'right' or 'left'
             order: "whatsapp,sms,call,email" // Order of buttons
         };

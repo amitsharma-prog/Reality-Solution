@@ -11,11 +11,11 @@
 <script type="text/javascript" src="js/jquery.easing.1.3.js" ></script>
 <div id="slider" style="    position: relative;">
 		<ul class="bxslider">
-          <li><img src="images/slider7.jpg" /></li>
-          <li><img src="images/slider10.jpg" /></li>
-          <li><img src="images/slider13.jpg" /></li>
-          <li><img src="images/slider12.jpg" /></li>
-          <li><img src="images/slider11.jpg" /></li>
+          <li><img src="images/banner.jpg" /></li>
+          <li><img src="images/banner5.jpg" /></li>
+          <li><img src="images/banner3.jpg" /></li>
+          <li><img src="images/banner1.jpg" /></li>
+          <!-- <li><img src="images/banner4.jpg" /></li> -->
         </ul>
         <!--<div class="container search-container">
         	<div class="row">
@@ -36,36 +36,36 @@
     </div> -->
     <div class="container">
         <div class="col-lg-12 col-md-12 col-sm-12">
-            <h3 class="heading-main">About Reality Solution</h3>
+            <h1 class="heading-main"><b>About Reality Solution</b></h1><br>
             <div class="img"> <img src="images/about.jpg" class="img-rounded" width="100%"/></div> 
-            <p class="pabout"><strong style="font-size: 20px;">Sumit Arora - </strong>He is a dedicated and hardworking professional having 19 years of experience in Real Estate business. Based out of Gurgaon by birth, engaged, organized B.COM graduate from Delhi University in 2000. The second generation in Real Estate business. He is a powerhouse of a visionary leader and works relentlessly to deliver with nothing less than the best.Promoted and managed outreach campaigns to market real estate opportunities to investors, retailers and apartment building owners. Worked with all major developers like DLF, UNITECH, ANSALS, HINES M3M, DEALING IN PLOTS, and COMMERCIALS AND INDUSTRIAL UNITS.</p>
+            <p class="pabout"><strong style="font-size: 20px;">Sumit Arora - </strong>He is a dedicated and hardworking professional having 19 years of experience in Real Estate business. Based out of Gurgaon by birth, engaged, organized B.COM graduate from Delhi University in 2000. The second generation in Real Estate business. He is a powerhouse of a visionary leader and works relentlessly to deliver with nothing less than the best.Promoted and managed outreach campaigns to market real estate opportunities to investors, retailers and apartment building owners. Worked with all major developers like DLF, UNITECH, ANSALS, HINES M3M, DEALING IN PLOTS, and COMMERCIALS AND INDUSTRIAL UNITS.</p><br>
           
-         <p class="pabout"><strong style="font-size: 20px;">Deepak Arora - </strong> Based out of Gurgaon by birth, B.A. graduate, having 10 years of experience in Real Estate business. He is excelled at understanding the needs of clients serving as a guide through the effective and efficient purchase or sale of their homes. Exercised a standard of professional, courteous and efficient service, under stressful and demanding circumstances.Helped with the removal of errors, credit restoration, misrepresentations and unverifiable information which appears on the client's credit report.Worked with all major developers like DLF, UNITECH, ANSALS, HINES, and M3M.</p>
+         <p class="pabout"><strong style="font-size: 20px;">Deepak Arora - </strong> Based out of Gurgaon by birth, B.A. graduate, having 10 years of experience in Real Estate business. He is excelled at understanding the needs of clients serving as a guide through the effective and efficient purchase or sale of their homes. Exercised a standard of professional, courteous and efficient service, under stressful and demanding circumstances.Helped with the removal of errors, credit restoration, misrepresentations and unverifiable information which appears on the client's credit report.Worked with all major developers like DLF, UNITECH, ANSALS, HINES, and M3M.</p><br>
     
-    <p class="pabout"><strong style="font-size: 20px;">Mayank Arora - </strong> Expert in planning and integrating new customer prospecting campaigns increasing the agency's acquisition rate. Engaged, organized B.Arch graduate from L.P University.Adept in contract drafting, negotiation, market research, client analysis. Accompany buyers during visits to and inspections of the property, advising them on the suitability and value of the homes they are visiting based on current market conditions. Worked with RSP ARCHITECTS, SINGAPORE till JULY 2017. Doing Real Estate Turnkey Projects in Delhi NCR.</p>
+    <p class="pabout"><strong style="font-size: 20px;">Mayank Arora - </strong> Expert in planning and integrating new customer prospecting campaigns increasing the agency's acquisition rate. Engaged, organized B.Arch graduate from L.P University.Adept in contract drafting, negotiation, market research, client analysis. Accompany buyers during visits to and inspections of the property, advising them on the suitability and value of the homes they are visiting based on current market conditions. Worked with RSP ARCHITECTS, SINGAPORE till JULY 2017. Doing Real Estate Turnkey Projects in Delhi NCR.</p><br>
     
         
         
         
         </div>
         <div class="col-lg-12 col-md-12 col-sm-12">
-            <h3 class="abouthead">Our Mission</h3>
+            <h3 class="abouthead"><b>Our Mission</b></h3>
             <div class="img" > <img src="images/Cifras.jpg" class="img-rounded" width="100%" style="border:1px solid black"/></div>
-            <p class="pabout"> From the beginning, Transaction Point has sought to maintain the highest ethical standards in the residential & commercial property sector. We strive to shine in every area of our business, continually reinventing ourselves and regularly reviewing our structure and systems .</p>
+            <p class="pabout"> From the earliest starting point, Reality Solution has looked to keep up the most astounding moral models in the residential & commercial property sector. We endeavor to sparkle in each region of our business, continually reinventing ourselves and normally constantly our structure and systems.</p><br>
           
-         <p class="pabout">We invest in technology to maximise results whilst offering a very personal level of attention to all our clients, regardless of the size or value of the property and we constantly seek ways of improving and extending our services. </p>
+         <p class="pabout">We invest in technology to maximize results whilst offering a very personal level of attention to all our clients, regardless of the size or value of the property and we constantly seek ways of improving and extending our services.</p><br>
     
-    <p class="pabout">Transaction Point mission is making the whole process of buying and selling property in India as efficient as possible. In order for us to achieve this, we focus on:</p>
-    <span class=" glyphicon glyphicon-arrow-right"></span><h7 class="head7">Offer first class Service & Support</h7>
-    <p class="pabout2">Through our Services & Support, we are able to maximise efficiency & effectiveness and always on a first class level. We aim to support all of our clients before, during and after they have bought property in North India.</p>
-    <span class=" glyphicon glyphicon-arrow-right"></span><h7 class="head7">Our staff and our Partners</h7>
-    <p class="pabout2">Transaction Point have and will continue to recruit, and retain and associate with Indi's top real estate agents, consultants, experts, lawyers, financial advisors, developers, and all other first class property services.</p>
+    <p class="pabout">Reality Solution mission is making the whole process of buying and selling property in India as efficient as possible. For us to achieve this, we focus on:</p>
+    <span class=" glyphicon glyphicon-arrow-right"></span><h7 class="head7">Offer First Class Service & Support</h7>
+    <p class="pabout2">Through our Services & Support, we can maximize efficiency & effectiveness and always on a first class level. We aim to support all of our clients before, during and after they have bought property in North India.</p><br>
+    <span class=" glyphicon glyphicon-arrow-right"></span><h7 class="head7">Our Staff & Our Partners</h7>
+    <p class="pabout2">Reality Solution have and will continue to recruit, and retain and associate with Indi's top real estate agents, consultants, experts, lawyers, financial advisors, developers, and all other first class property services.</p>
     
           
         
         
         </div>
-      <div class="col-lg-12 col-md-12 col-sm-12">
+      <!-- <div class="col-lg-12 col-md-12 col-sm-12">
         <div class="col-lg-6 col-md-12 col-sm-12">
            <h3 class="abouthead">Our Vision</h3>
            <ul class="list-group u1">
@@ -91,7 +91,7 @@
          </div>
          </div>
         
-    </div>
+    </div> -->
 </article>
 <?php require_once 'include/footer.php'; ?>
 </body>

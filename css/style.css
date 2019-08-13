@@ -55,7 +55,7 @@ header{
 	margin-top: 5px;
 }
 .tp-name{
-	color: #0098DB;
+	color: #8cc600;
 }
 .name{
 	/*background: url(../images/sepreter.png) no-repeat left center;*/
@@ -70,7 +70,7 @@ header{
 	margin-bottom: 8px;
 }
 .name span{
-	color:#f58635;
+	color:#5a4b42;
 }
 .tp{
 	float:left;
@@ -568,6 +568,7 @@ footer p{
 	.head7{
 		margin-left:4px;
 		font-weight:bold;
+		font-size: 18px;
 	}
 ul.u1{
 	list-style:none;
@@ -841,21 +842,21 @@ footer hr{
 	text-align: center;
 	padding: 8px 40px;
 	font-weight: bold;
-	    color: #fff;
+	    color: #000;
 }
 .p-p span{
-	color: #ffffff;
+	color: #000;
 	font-size: 29px;
 }
 .p-phone{
 	    text-align: center;
     font-size: 27px;
-    color: #ffffff;
+    color: #000;
     font-weight: bold;
 }
 .skip{
 	    border: none;
-    background: none;
+    background: #ddd;
     box-shadow: none;
 }
 .p-form input[type="text"]{

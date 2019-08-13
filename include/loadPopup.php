@@ -6,11 +6,11 @@
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
         <div class="logo p-logo">
             <h1 class="tp">        
-                <a href="index.html" title="" rel="home" id="logo"><img src="images/transaction_logo.png" alt=""></a>
+                <a href="index.php" title="" rel="home" id="logo"><img src="images/Reality Solution Logo.png" alt=""></a>
             </h1>
             <div class="name tp">
-                <a href="index.html" class="tp-name" id="atag">Reality <span style="font-size: 35px;">Solution</span></a>
-                <div class="subtitle">We Value Your Reality </div>
+                <a href="index.php" class="tp-name" id="atag">Reality <span style="font-size: 35px;">Solution</span></a>
+                <div class="subtitle"></div>
            </div>
         </div>
       </div>
