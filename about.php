@@ -11,10 +11,10 @@
 <script type="text/javascript" src="js/jquery.easing.1.3.js" ></script>
 <div id="slider" style="    position: relative;">
 		<ul class="bxslider">
+          <li><img src="images/banner9.jpg" /></li>
+          <li><img src="images/banner6.jpg" /></li>
           <li><img src="images/banner.jpg" /></li>
-          <li><img src="images/banner5.jpg" /></li>
-          <li><img src="images/banner3.jpg" /></li>
-          <li><img src="images/banner1.jpg" /></li>
+          <li><img src="images/banner7.jpg" /></li>
           <!-- <li><img src="images/banner4.jpg" /></li> -->
         </ul>
         <!--<div class="container search-container">

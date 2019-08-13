@@ -1,0 +1,33 @@
+@media only screen and (max-width: 320px) {
+	.top-strip {
+		height: 100px;
+		padding: 0px;
+	}
+	.tp.logo {
+		width: 320px;
+		height: 100px;
+	}
+	.name {
+		font-size: 0px;
+		float: right;
+		position: absolute;
+		top: 8px;
+		left: 35px;
+	}
+	.tp-name {
+		font-size: 23px!important;
+	}
+	.name span {
+		font-size: 23px!important;
+	}
+	.navbar {
+		height: 100px;
+		width: 320px;
+		clear: both;
+	}
+	.tp {
+		float: left;
+		height: 100px;
+		line-height: 70px;
+	}
+}

@@ -121,8 +121,10 @@ header{
 	border: none;
 */}
 
-.navbar{
-	margin-bottom: -1px;
+.navbar {
+    min-height: auto;
+    width: 60%;
+    float: right;
 }
 .nav > li > a{
 	padding:10px 20px;
@@ -868,11 +870,12 @@ footer hr{
 	color: #000;
 	font-size: 29px;
 }
-.p-phone{
-	    text-align: center;
-    font-size: 27px;
+.p-phone {
+    text-align: center;
+    font-size: 21px;
     color: #000;
     font-weight: bold;
+    letter-spacing: 2px;
 }
 .skip{
 	    border: none;

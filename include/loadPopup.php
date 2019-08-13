@@ -22,7 +22,7 @@
                 <div id="msg" style="color: #fff;"></div>
                 <input type="Submit" name="p-submit" value="Start Now" id="startnow"  />
             </form>
-            <a href="tel:+919899891133"><p class="p-phone"><i class="fa fa-phone-square"></i>+919899891133,9873092221,8076952087</p></a>
+            <a href="tel:+919899891133"><p class="p-phone"><i class="fa fa-phone-square"></i>+91 9899891133, 9873092221, 8076952087</p></a>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default skip" data-dismiss="modal" style="text-transform: lowercase;">Skip, try later</button>

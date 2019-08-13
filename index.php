@@ -20,10 +20,10 @@
 		  <li><a href="projectdetails.php?projectname=aipljoycentral"><img src="images/aipl-joy-central.jpg" /></a></li>
 		  <li><a href="projectdetails.php?projectname=aipl-joy-square"><img src="images/aipl-joy-square-holi.jpg" /></a></li> -->
 		  
-          <li><img src="images/banner5.jpg" /></li>
-          <li><img src="images/banner1.jpg" /></li>
           <li><img src="images/banner.jpg" /></li>
-          <li><img src="images/banner3.jpg" /></li>
+          <li><img src="images/banner6.jpg" /></li>
+          <li><img src="images/banner7.jpg" /></li>
+          <li><img src="images/banner9.jpg" /></li>
         </ul>
         
 	</div> 
