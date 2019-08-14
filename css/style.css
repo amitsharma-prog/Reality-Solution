@@ -870,6 +870,9 @@ footer hr{
 	color: #000;
 	font-size: 29px;
 }
+#bars {
+	display: none;
+}
 .p-phone {
     text-align: center;
     font-size: 21px;
@@ -1044,7 +1047,4 @@ ul.nav.navbar-nav {
 .text-center {
 	padding: 10px 0;
 	font-size: 20px;
-}
-.col-lg-12.col-md-12.col-sm-12 {
-    border-bottom: 1px solid lightgray;
 }

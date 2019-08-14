@@ -10,7 +10,9 @@
 	    line-height: 40px;
 	    margin: 32px 5px 0px 0px;
 	    cursor: pointer;
+	    display: block;
 	}
+
 	.top-strip {
 		height: 100px;
 		padding: 0px !important;
@@ -23,6 +25,7 @@
 	}
 	.container {
 		padding: 0;
+		width: 100% !important;
 	}
 	.name {
 		font-size: 0px;
@@ -79,6 +82,9 @@
 	}
 	.navbar-nav {
 		margin: 0px;
+	}
+	article {
+   	 	padding: 0 5px;
 	}
 
 }
