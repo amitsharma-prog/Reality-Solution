@@ -11,14 +11,11 @@
                             <a href="index.php" class="tp-name" style="font-size: 35px;">Reality <span style="font-size: 35px;">Solution</span></a>
                             <div class="subtitle"></div>
                        </div>
+                       <div id="bars"><i class="fa fa-bars" aria-hidden="true"></i></div>
                     </div>
+
                     <nav class="navbar ">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>                        
-                            </button>   
+                        <div class="navbar-header">  
                             <ul class="nav navbar-nav" >
                                 <li ><a href="index.php">Home</a></li> 
                                 <li><a href="about.php">About Us</a></li>
@@ -34,3 +31,10 @@
         </div>
     </div>
 </header> 
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#bars').click(function() {
+			$('.navbar').toggleClass('active');
+		})
+	})
+</script>

@@ -14,7 +14,7 @@
 <link rel="shortcut icon" type="image" href="http://realitysolution.in/images/Reality Solution Logo.png"  />
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"  />
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"  />
-<link rel="stylesheet" type="text/css" href="css/mainres">
+<link rel="stylesheet" type="text/css" href="css/mainres.css">
 <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.css"  />
 <link href="css/responsive_bootstrap_carousel_mega_min.css" rel="stylesheet" media="all">
 <link rel="stylesheet" type="text/css" href="css/style.css"  />

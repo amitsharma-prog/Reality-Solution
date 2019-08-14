@@ -1,11 +1,28 @@
 @media only screen and (max-width: 320px) {
+	div#bars {
+	    float: right;
+	    font-size: 25px;
+	    border: 1px solid;
+	    width: 40px;
+	    height: 40px;
+	    text-align: center;
+	    border-radius: 4px;
+	    line-height: 40px;
+	    margin: 32px 5px 0px 0px;
+	    cursor: pointer;
+	}
 	.top-strip {
 		height: 100px;
-		padding: 0px;
+		padding: 0px !important;
 	}
 	.tp.logo {
 		width: 320px;
 		height: 100px;
+    	padding: 0px 10px;
+	    border-bottom: 1px solid lightgray;
+	}
+	.container {
+		padding: 0;
 	}
 	.name {
 		font-size: 0px;
@@ -13,6 +30,8 @@
 		position: absolute;
 		top: 8px;
 		left: 35px;
+	    margin-top: 5px !important;
+        margin-left: 29px !important;
 	}
 	.tp-name {
 		font-size: 23px!important;
@@ -21,13 +40,45 @@
 		font-size: 23px!important;
 	}
 	.navbar {
-		height: 100px;
-		width: 320px;
-		clear: both;
+    	overflow: hidden;
+    	/* height: 100px; */
+   		width: 320px !important;
+    	clear: both;
+    	float: left !important;
+   		z-index: 1;
+    	transition: all 0.5s;
+    	height: 0;
+    	overflow-y: scroll;
+    	background: #fff;
+    	margin: 0px;
+	}
+	.navbar.active {
+		height: 165px;
 	}
 	.tp {
 		float: left;
 		height: 100px;
 		line-height: 70px;
 	}
+	/*.navbar-header {
+	     float: inherit !important; 
+	    margin: 0 30px;
+	    overflow: hidden;
+	}*/
+	.nav>li {
+		border-bottom: 1px solid lightgray;
+	}
+	.navbar-header {
+	    float: left !important;
+	    width: 320px;
+	    overflow: hidden;
+	}
+	ul.nav.navbar-nav {
+	    padding-top: 0px !important;
+	    float: unset !important;
+	}
+	.navbar-nav {
+		margin: 0px;
+	}
+
 }
