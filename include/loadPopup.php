@@ -9,7 +9,7 @@
                 <a href="index.php" title="" rel="home" id="logo"><img src="images/Reality Solution Logo.png" alt=""></a>
             </h1>
             <div class="name tp">
-                <a href="index.php" class="tp-name" id="atag">Reality <span style="font-size: 35px;">Solution</span></a>
+                <a href="index.php" class="tp-name" id="atag">Realty <span style="font-size: 35px;">Solutions</span></a>
                 <div class="subtitle"></div>
            </div>
         </div>
