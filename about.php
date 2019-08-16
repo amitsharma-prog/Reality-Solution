@@ -11,7 +11,7 @@
 <script type="text/javascript" src="js/jquery.easing.1.3.js" ></script>
 <div id="slider" style="    position: relative;">
 		<ul class="bxslider">
-          <li><img src="images/banner9.jpg" /></li>
+          <li><img src="images/banner12.jpg" /></li>
           <li><img src="images/banner6.jpg" /></li>
           <li><img src="images/banner.jpg" /></li>
           <li><img src="images/banner7.jpg" /></li>

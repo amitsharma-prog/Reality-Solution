@@ -8,7 +8,7 @@
                             <a href="index.php" title="" rel="home" id="logo"><img src="images/Reality Solution Logo.png" alt=""></a>
                         </h1>
                         <div class="name tp">
-                            <a href="index.php" class="tp-name" style="font-size: 35px;">Reality <span style="font-size: 35px;">Solution</span></a>
+                            <a href="index.php" class="tp-name" style="font-size: 35px;">Realty <span style="font-size: 35px;">Solutions</span></a>
                             <div class="subtitle"></div>
                        </div>
                        <div id="bars"><i class="fa fa-bars" aria-hidden="true"></i></div>
@@ -21,7 +21,7 @@
                                 <li><a href="about.php">About Us</a></li>
                                 <li><a href="commercial.php">Commercial</a></li>
                                 <li><a href="residential-projects.php">Residential</a></li>
-                                <li><a href="nri.php">NRIs</a></li>
+                                <li><a href="nri.php">NRIS</a></li>
                                 <li><a href="contact.php">Contact Us</a></li> 
                             </ul>                 
                         </div>

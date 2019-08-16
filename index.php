@@ -23,7 +23,7 @@
           <li><img src="images/banner.jpg" /></li>
           <li><img src="images/banner6.jpg" /></li>
           <li><img src="images/banner7.jpg" /></li>
-          <li><img src="images/banner9.jpg" /></li>
+          <li><img src="images/banner12.jpg" /></li>
         </ul>
         
 	</div> 

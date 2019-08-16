@@ -51,7 +51,7 @@
 				<!--<h5>REAL ESTATE</h5>-->
 				   <ul style=" padding: 12px;">
 						<li><a href="about.php" style="font-size: 16px;">About Us</a></li>
-                        <li><a href="#" style="font-size: 16px;">Our Team</a></li>
+                        <!-- <li><a href="#" style="font-size: 16px;">Our Team</a></li> -->
                     	<li><a href="commercial.php" style="font-size: 16px;">Commercial</a></li>
                         <li><a href="residential-projects.php" style="font-size: 16px;">Residential</a></li>
                         <li><a href="nri.php" style="font-size: 16px;">NRIS</a></li>
