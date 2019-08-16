@@ -93,3 +93,19 @@
     }
 
 }
+
+
+
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+	.logo {
+	    margin-left: 50px;
+	}
+	.name {
+	    padding: 0px 18px 0 6px;
+        margin-top: 10px;
+	}
+	.navbar {
+		width: 54% !important;
+	}
+}
