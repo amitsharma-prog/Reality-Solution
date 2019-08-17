@@ -170,17 +170,19 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
                     <h3>For more query fill this form</h3>
-					<div class="margin10"></div>
-										<form class="forms" action="#" method="post">
-						<input type="text" required="required" id="lead_name" name="name" placeholder="Enter your name..." class="form-control input" />                    
-						<input type="email" required="required" id="lead_email"  name="email" placeholder="Enter your email..." class="form-control input"/>
-						<input type="number" required="required" id="lead_mobile"  name="contact" placeholder="Enter your contact no..." class="form-control input" />
-						<input type="text" required="required" name="project" class="form-control input" value="M3M Urbana Business Park" />
-						<textarea rows="5" placeholder="Enter your message..." name="message" class="form-control"></textarea>                    
-						<input type="submit" name="submit-project" value="Submit" onclick="myFunction()" class="button" />                     
+						<div class="margin10"></div>
+						<form class="forms" action="#" method="post">
+						<input type="text" required="required" id="FullName" name="FullName" placeholder="Enter your name..." class="form-control input" />                    
+						<input type="email" required="required" id="Email"  name="Email" placeholder="Enter your email..." class="form-control input"/>
+						<input type="number" required="required" id="Mobile"  name="Mobile" placeholder="Enter your contact no..." class="form-control input" />
+						<input type="text" required="required" name="ProjectName" id="ProjectName" class="form-control input" value="M3M Urbana Business Park" />
+						<textarea rows="5" placeholder="Enter your message..." name="Message" id="Message" class="form-control"></textarea>
+						<div id="msg" style="width: 200px; height: 40px; border: 1px solid #000; color: #fff;"></div>                    
+						<input type="submit" name="submit" value="Submit" id="submit" class="button" />   
+						
 					</form>
                 </div>
-            </div>
+
             <div class="clearfix"></div>
             <hr />
 			<div class="sharethis-inline-share-buttons"></div>
@@ -260,7 +262,36 @@ the major micro markets of Gurugram.</p>
         </div>
 	
     </div>
-</article>   
+</article>  
+ <script src="jquery.min.js"></script>
+				<script type="text/javascript">
+					$(document).ready(function(){
+						$("#submit").click(function(){
+						  event.preventDefault();
+						  if ($("#FullName").val() == "" || $("#Email").val() == "" || $("#Mobile").val() == "" || $("#ProjectName").val() == "" || $("#Message").val() == ""){
+						  } else { 
+						    var ac = "FullName=" + $("#FullName").val() + "&Email=" + $("#Email").val()  + "&Mobile=" + $("#Mobile").val()  + "&ProjectName=" + $("#ProjectName").val() + "&Message=" + $("#Message").val();
+						    $.ajax({
+						      type: "post",
+						      url: "infosend.php",
+						      dataType: "text",
+						      data: ac,
+						      beforeSend: function() {
+						        // $("#msg").html("please wait!");
+						        // $("#msg").html("");
+						        alert("please With")
+						      },
+						      success: function(data) {
+						        // $("#msg").html(data);
+						        alert("inset")
+
+						      },
+						    });
+						  }
+						});
+					});
+				</script>
+            </div> 
 <?php require_once 'include/footer.php'; ?>
 </body>
 </html>

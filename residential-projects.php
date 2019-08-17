@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Reality Solution | Residential</title>
+  <title>Realty Solutions | Residential</title>
 <?php require_once 'include/header.php'; ?>
 </head>
 
@@ -407,7 +407,7 @@
 
         
 
-        <!-- <div class="col-lg-4 col-md-4 col-sm-12">
+        <div class="col-lg-4 col-md-4 col-sm-12">
 
             <div class="home-block">
 
@@ -429,7 +429,7 @@
 
             </div>
 
-        </div> -->
+        </div>
 
         
 

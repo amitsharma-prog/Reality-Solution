@@ -21,7 +21,7 @@
 		  <li><a href="projectdetails.php?projectname=aipl-joy-square"><img src="images/aipl-joy-square-holi.jpg" /></a></li> -->
 		  
           <li><img src="images/banner.jpg" /></li>
-          <li><img src="images/banner6.jpg" /></li>
+          <li><img src="images/banner15.jpg" /></li>
           <li><img src="images/banner7.jpg" /></li>
           <li><img src="images/banner12.jpg" /></li>
         </ul>
@@ -429,7 +429,7 @@
                 
                 <div class="col-lg-4 col-md-4 col-sm-12">
                 	<div class="home-block1">
-                    	<img src="images/driver.jpg" alt=""  />
+                    	<img src="images/lagecy.jpg" alt=""  />
                         <h2 class="text-center">We have a legacy for two decades.</h2>
                         <!-- <p>Homes for sale? You bet. We also have for sale by owner and Coming Soon listings, foreclosures, rentals — plus listings you won't find anywhere <br />else.</p> -->
                         <!-- <a href="#">Search Now</a> -->

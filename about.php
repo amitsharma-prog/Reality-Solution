@@ -12,7 +12,7 @@
 <div id="slider" style="    position: relative;">
 		<ul class="bxslider">
           <li><img src="images/banner12.jpg" /></li>
-          <li><img src="images/banner6.jpg" /></li>
+          <li><img src="images/banner15.jpg" /></li>
           <li><img src="images/banner.jpg" /></li>
           <li><img src="images/banner7.jpg" /></li>
           <!-- <li><img src="images/banner4.jpg" /></li> -->
