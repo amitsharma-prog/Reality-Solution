@@ -2,6 +2,7 @@
 <php>
 <head>
     <title>Realty Solutions</title>
+<link rel="shortcut icon" type="image" href="http://realtysolutions.in/images/Reality%20Solution%20Logo.png"  />
 <?php require_once 'include/header.php'; ?>
 </head>
 
