@@ -460,7 +460,7 @@
   <div class="container">
       <div id="people-talk" data-ride="carousel" data-interval="5000" class="slider-talk-about-us-wrapper carousel slide">
           <div role="listbox" class="slider-talk-about-us-content carousel-inner">
-              <div class="peopel-item item active"><p class="peopel-comment">"We had a fantastic experience buying our first home. We worked with Sumit Arora, who was fantastic and went to a considerable amount of time and effort to help us find our dream commercial property. He was very patient and knowledgeable and supported us every step of the way! Helped us navigated through the process of buying a new build with ease. He was there every step of the way and was always prompt with his replies! I highly recommend to anyone looking to purchase a commercial place!"</p>
+              <div class="peopel-item item active"><p class="peopel-comment">"We had a fantastic experience buying our first home. We worked with Sumit Arora, who was fantastic and went to a considerable amount of time and effort to help us find our dream home. He was very patient and knowledgeable and supported us every step of the way! Helped us navigated through the process of buying a new build with ease. He was there every step of the way and was always prompt with his replies! I highly recommend to anyone looking to purchase a residential property!"</p>
 
                   <div class="group-peole-info">
                       <div class="peopel-avatar"><img src="images/testimonials1.jpg" alt="" class="img-responsive"/></div>
