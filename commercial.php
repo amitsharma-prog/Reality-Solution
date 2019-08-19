@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <php>
 <head>
-  <title>Reality Solution | Cummercial</title>
+  <title>Realty Solutions | Commercial</title>
 <?php require_once 'include/header.php'; ?>
 </head>
 <body>

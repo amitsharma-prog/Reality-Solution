@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<title>Reality Solution | Real Estate Agency | Property Dealers in Gurugram</title>
+<title>Realty Solutions | Real Estate Agency | Property Dealers in Gurugram</title>
 <?php require_once 'include/header.php'; ?>
 </head>
 <body>
@@ -162,7 +162,7 @@
 				</div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="details">
-                        <img src="list/m3mteepointgurgaon/m3mtee-small-banner.jpg" class="project-banner" alt="M3M Tee Point" width="100%"  />
+                        <img src="images/M3m-tee-point.jpeg" class="project-banner" alt="M3M Tee Point" width="100%"  />
                         
                     </div>
                 </div>

@@ -564,7 +564,7 @@ footer p{
     font-size: 18px;
     width: 60%;
     float: right;
-    padding-top: 48px;
+    padding-top: 5px;
 }
 #paboutcontent {
 	line-height: 25px;
@@ -574,6 +574,7 @@ footer p{
     /*float: right;*/
     /*padding-top: 48px;*/
     /*width: none*/
+    margin-bottom: 30px;
 }
 .pabout1{
 	font-weight:bold;
@@ -741,11 +742,23 @@ margin-left:19px;
 	margin-left:0px;
 }
 .heading-main{
-	margin:20px auto 10px;
+	margin: 20px 40px 0px 40px;
 	text-align:left;
 }
 .heading-main span, .red-main{
 	color: #ffffff;
+}
+.about {
+    padding: 0 40px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 20px;
+}
+p.ap {
+    font-size: 20px;
+}
+div#border1, #border2, #border3, #border4 {
+	border-bottom: 1px solid lightgray;
+	margin-bottom: 20px;
 }
 .banner{
 	

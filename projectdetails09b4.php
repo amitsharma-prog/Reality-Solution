@@ -163,7 +163,7 @@
 				</div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="details">
-                        <img src="list/conscient-hines-elevate/bsnner.jpg" class="project-banner" alt="Conscient Hines Elevate" width="100%"  />
+                        <img src="images/residential8.jpg" class="project-banner" alt="Conscient Hines Elevate" width="100%"  />
                         
                     </div>
                 </div>

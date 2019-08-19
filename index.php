@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <php>
 <head>
+    <title>Realty Solutions</title>
 <?php require_once 'include/header.php'; ?>
 </head>
 
@@ -60,7 +61,7 @@
                                                                         	<div class="item1 ">
                                             <div class="col-lg-4 col-md-4 col-sm-12 ">
                                                 <div class="home-block hover03">
-                                                    <a href="projectdetails6774.php?projectname=M3M-Urbana-Business-Park" ><img src="list/M3M-Urbana-Business-Park/m3m-urbana.jpg" alt="M3M Urbana Business Park" style="height:242px;"  /></a>
+                                                    <a href="projectdetails6774.php?projectname=M3M-Urbana-Business-Park" ><img src="images/Urbaana Park.jpg" alt="M3M Urbana Business Park" style="height:242px;"  /></a>
                                                     <h2 class="text-center">M3M Urbana Business Park</h2>
                                                     <div style="min-height: 170px;">
                                                         <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- Retail Shops, Commercial Spaces</p>                   		
@@ -90,7 +91,7 @@
                                                                         	<div class="item1 ">
                                             <div class="col-lg-4 col-md-4 col-sm-12 ">
                                                 <div class="home-block hover03">
-                                                    <a href="projectdetailsf580.php?projectname=m3mteepointgurgaon" ><img src="list/m3mteepointgurgaon/m3mtee-small-banner.jpg" alt="M3M Tee Point" style="height:242px;"  /></a>
+                                                    <a href="projectdetailsf580.php?projectname=m3mteepointgurgaon" ><img src="images/M3m-tee-point.jpeg" alt="M3M Tee Point" style="height:242px;"  /></a>
                                                     <h2 class="text-center">M3M Tee Point</h2>
                                                     <div style="min-height: 170px;">
                                                         <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- Retail Shops, Office Spaces</p>                   		
@@ -167,7 +168,7 @@
                                                     <div class="item1 active"> 
                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                     <div class="home-block">
-                                        <img src="images/emaar-digi-homes.jpg" style="height:242px;" alt="Emaar India Residential Property"  />
+                                        <img src="images/residential5.jpg" style="height:242px;" alt="Emaar India Residential Property"  />
                                         <h2 class="text-center">Emaar India</h2>
                                         <div style="min-height: 170px;">
                                             <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- Apartments</p>                   		
@@ -195,7 +196,7 @@
                                                     <div class="item1 "> 
                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                     <div class="home-block">
-                                        <img src="images/joyville.jpg" style="height:242px;" alt="Shapoorji Pallonji Joyville"  />
+                                        <img src="list/shapoorji-joy-ville/Shapoor%20jii.jpg" style="height:242px;" alt="Shapoorji Pallonji Joyville"  />
                                         <h2 class="text-center">Shapoorji Pallonji Joyville</h2>
                                         <div style="min-height: 170px;">
                                             <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- Complex</p>                   		
@@ -237,7 +238,7 @@
                                                     <div class="item1 "> 
                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                     <div class="home-block">
-                                        <img src="images/elevate-images.jpg" style="height:242px;" alt="Conscient Hines Elevate"  />
+                                        <img src="images/residential8.jpg" style="height:242px;" alt="Conscient Hines Elevate"  />
                                         <h2 class="text-center"> Elevate Apartment</h2>
                                         <div style="min-height: 170px;">
                                             <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- 3, 4 BHK Residential Apartments</p>                   		

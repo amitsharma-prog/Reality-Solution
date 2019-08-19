@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<title>Reality Solution | Real Estate Agency | Property Dealers in Gurugram</title>
+<title>Realty Solutions | Real Estate Agency | Property Dealers in Gurugram</title>
 <?php require_once 'include/header.php'; ?>
 </head>
 

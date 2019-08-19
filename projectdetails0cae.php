@@ -162,7 +162,7 @@
 				</div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="details">
-                        <img src="list/AIPL-Club-Residences/club-residences.jpg" class="project-banner" alt="AIPL Club Residences" width="100%"  />
+                        <img src="images/residential3.jpg" class="project-banner" alt="AIPL Club Residences" width="100%"  />
                         
                     </div>
                 </div>

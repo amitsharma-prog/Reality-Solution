@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Reality Solution | Real Estate Agency | Property Dealers in Gurugram</title>
+<title>Realty Solutions | Real Estate Agency | Property Dealers in Gurugram</title>
 <?php require_once 'include/header.php'; ?>
 </head>
 
@@ -164,7 +164,7 @@
 				</div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="details">
-                        <img src="list/M3M-Urbana-Business-Park/m3m-urbana.jpg" class="project-banner" alt="M3M Urbana Business Park" width="100%"  />
+                        <img src="images/Urbaana Park.jpg" class="project-banner" alt="M3M Urbana Business Park" width="100%"  />
                         
                     </div>
                 </div>

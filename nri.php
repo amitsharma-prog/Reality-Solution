@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Reality Solution | NRIS</title>
+	<title>Realty Solutions | NRIS</title>
 <?php require_once 'include/header.php'; ?>
 </head>
 

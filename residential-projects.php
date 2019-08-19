@@ -24,15 +24,11 @@
 					<li><a href="#">/</a></li>
                     <li><a href="#" class="activebc">Residential</a></li>
                 </ul>
-            	
             </div>
         </div>
     </div>
 </article>
- 
-<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDD_ZWpMKm13icIlXRTHk-VKvWLvKgEw1Q&amp;callback=initMap"></script>
-
-<!--<div class="banner">
+ <!--<div class="banner">
 	<div class="map-container">
     	<div id="map-canvas" style="width: 100%; height: 350px; margin-bottom: 30px; position:relative; border:1px solid #ccc;">
     </div>
@@ -47,7 +43,7 @@
 
             <div class="home-block">
 
-               <a href="projectdetails09b4.php?projectname=conscient-hines-elevate" > <img src="images/elevate-images.jpg" alt="Conscient Hines Elevate" style="height:242px;"  /></a>
+               <a href="projectdetails09b4.php?projectname=conscient-hines-elevate" > <img src="images/residential8.jpg" alt="Conscient Hines Elevate" style="height:242px;"  /></a>
 
                 <h2 class="text-center">Elevate Apartments</h2>
 
@@ -281,7 +277,7 @@
 
             <div class="home-block">
 
-               <a href="projectdetails9f6e.php?projectname=emaar-palm-heights" > <img src="images/emaar-digi-homes.jpg" alt="Emaar Palm Heights" style="height:242px;"  /></a>
+               <a href="projectdetails9f6e.php?projectname=emaar-palm-heights" > <img src="images/residential5.jpg" alt="Emaar Palm Heights" style="height:242px;"  /></a>
 
                 <h2 class="text-center">Emaar India</h2>
 
@@ -359,7 +355,7 @@
 
             <div class="home-block">
 
-               <a href="projectdetailsf68d.php?projectname=shapoorji-joy-ville" > <img src="images/joyville.jpg" alt="Shapoorji Pallonji Joyville" style="height:242px;"  /></a>
+               <a href="projectdetailsf68d.php?projectname=shapoorji-joy-ville" > <img src="list/shapoorji-joy-ville/Shapoor%20jii.jpg" alt="Shapoorji Pallonji Joyville" style="height:242px;"  /></a>
 
                 <h2 class="text-center">Shapoorji Pallonji Joyville</h2>
 
@@ -411,7 +407,7 @@
 
             <div class="home-block">
 
-               <a href="projectdetails0cae.php?projectname=AIPL-Club-Residences" > <img src="list/AIPL-Club-Residences/club-residences.jpg" alt="AIPL Club Residences" style="height:242px;"  /></a>
+               <a href="projectdetails0cae.php?projectname=AIPL-Club-Residences" > <img src="images/residential3.jpg" alt="AIPL Club Residences" style="height:242px;"  /></a>
 
                 <h2 class="text-center">AIPL Club Residences</h2>
 
@@ -515,7 +511,7 @@
 
             <div class="home-block">
 
-               <a href="projectdetails8528.php?projectname=M3M-golf-estate" > <img src="images/Golf-Estate-Image-03.jpg" alt="M3M Golf Estate" style="height:242px;"  /></a>
+               <a href="projectdetails8528.php?projectname=M3M-golf-estate" > <img src="images/residential7.jpg" alt="M3M Golf Estate" style="height:242px;"  /></a>
 
                 <h2 class="text-center">M3M Golf Estate</h2>
 

@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>Reality Solution | Contact </title>
+<title>Realty Solutions | Contact </title>
 <?php require_once 'include/header.php'; ?>
 </head>
 

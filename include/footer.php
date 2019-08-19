@@ -95,7 +95,7 @@
                 <div class="clearfix"></div>
                 <hr />
                 <div class="col-lg-12 col-md-12 col-sm12">
-                	<p class="text-center">Copyright &copy; 2019 Reality Solution - Real Estate India - Property - Properties in India - All Rights Reserved.<!--  <a href="http://starworldweb.com/" target="_blank"><img src="images/sww-icon.png" alt="Star World Web"  /></a> --></p>
+                	<p class="text-center">Copyright &copy; 2019 Realty Solutions - Real Estate India - Property - Properties in India - All Rights Reserved.<!--  <a href="http://starworldweb.com/" target="_blank"><img src="images/sww-icon.png" alt="Star World Web"  /></a> --></p>
 					<!-- <p style="font-size: 11px;">Disclaimer: Transaction Point makes no guarantee, express or implied, nor assumes any legal liability or responsibility for the accuracy, correctness, completeness or use of any information available in the EDM’s or in our website. Builder has all the rights to change the details (payment plan, floor plans, master plans, sizes…etc) without any information & Transaction Point will not to be responsible for any of these changes made by the Builder.</p> -->
                 </div>
             </div>
@@ -111,7 +111,7 @@
             email: "gurgaon40@gmail.com", // Email
             sms: "+9119899891133", // Sms phone number
             call: "+919899891133", // Call phone number
-            company_logo_url: "http://realitysolution.in/images/Reality%20Solution%20Logo.png", // URL of company logo (png, jpg, gif)
+            company_logo_url: "http://realtysolutions.in/images/Reality%20Solution%20Logo.png", // URL of company logo (png, jpg, gif)
             greeting_message: "Hi, How may we help you? Just send us a message to get help.", // Text of greeting message
             call_to_action: "Message us", // Call to action
             button_color: "#8cc600", // Color of button

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<title>Transaction Point | Real Estate Agency | Property Dealers in Gurugram</title>
+<title>Realty Solutions | Real Estate Agency | Property Dealers in Gurugram</title>
 <?php require_once 'include/header.php'; ?>
 </head>
 
@@ -163,7 +163,7 @@
 				</div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="details">
-                        <img src="list/emaar-palm-heights/Emaar%20Banner%20Image.jpg" class="project-banner" alt="Emaar Palm Heights" width="100%"  />
+                        <img src="images/residential5.jpg" class="project-banner" alt="Emaar India" width="100%"  />
                         
                     </div>
                 </div>
@@ -187,7 +187,7 @@
             <hr />
 		<div class="p-details">
 			<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3>Emaar Palm Heights Overview</h3>
+				<h3>Emaar India Overview</h3>
 				<div>
 				   <p><b>Lowest Rate Guaranteed <br>
                                  
