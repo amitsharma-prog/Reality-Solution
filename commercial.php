@@ -78,26 +78,26 @@
 
         <div class="col-lg-4 col-md-4 col-sm-12">
             <div class="home-block">
-                <a href="projectdetails16d7.php?projectname=elan-epic" ><img src="list/elan-epic-gurgaon/elan-epic.jpg" alt="Elan Epic" style="height:242px;"  /></a>
-                <h2 class="text-center">Elan Epic</h2>
+                <a href="projectdetails16d7.php?projectname=Vatika One On One" ><img src="images/vatika_one_on_one.jpg" alt="Elan Epic" style="height:242px;"  /></a>
+                <h2 class="text-center">Vatika One On One</h2>
                 <div style="min-height: 170px;">
-                    <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- Retail Space, POP</p>                      
-                    <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 3914 sq. ft. - 5917 sq. ft.</p>
-                    <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 70, Gurgaon</p> 
-                    <a href="projectdetails16d7.php?projectname=elan-epic" class="details-btn">View More</a> 
+                    <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- Retail Space, Office</p>                      
+                    <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 1775 sq. ft. - 24000 sq. ft.</p>
+                    <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 16, Gurgaon</p> 
+                    <a href="projectdetails16d7.php?projectname=Vatika One On One" class="details-btn">View More</a> 
                 </div>
             </div>
         </div>
 
         <div class="col-lg-4 col-md-4 col-sm-12">
             <div class="home-block">
-                <a href="projectdetails5803.php?projectname=AIPL Joy Central" ><img src="list/aipl-joy-central-hypermarket/joy-central.jpg" alt="Elan Epic" style="height:242px;"  /></a>
-                <h2 class="text-center">AIPL Joy Central | Retail, Hypermarket</h2>
+                <a href="projectdetails5803.php?projectname=EMINENCE KIMBERLY SUITES" ><img src="images/541936ade2e13Eminence Kimberly Suites-3.jpeg" alt="Elan Epic" style="height:242px;"  /></a>
+                <h2 class="text-center">EMINENCE KIMBERLY SUITES</h2>
                 <div style="min-height: 170px;">
-                    <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- Retail Shop, Office Spaces, Multiplex</p>                      
-                    <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 3-4 Acres</p>
-                    <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 65, Gurgaon</p> 
-                    <a href="projectdetails5803.php?projectname=aipl-joy-central-hypermarket" class="details-btn">View More</a> 
+                    <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- excellent space management</p>                      
+                    <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 601 sqft - 795 sqft.</p>
+                    <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 32, Gurgaon</p> 
+                    <a href="projectdetails5803.php?projectname=EMINENCE KIMBERLY SUITES" class="details-btn">View More</a> 
                 </div>
             </div>
         </div>

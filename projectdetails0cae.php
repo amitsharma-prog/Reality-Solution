@@ -93,7 +93,7 @@
                     <li><a href="#">/</a></li>
                     <li><a href="residential-projects.php">Residential</a></li>
 					<li><a href="#">/</a></li>
-                    <li><a href="#" class="activebc">AIPL Club Residences</a></li>
+                    <li><a href="#" class="activebc">GURGAON ONE ALPHA</a></li>
                 </ul>
             	
             </div>
@@ -107,13 +107,13 @@
             <div class="clearfix"></div>
             <div class="details-header">
 				<div class="col-lg-12 col-md-12 col-sm-12">
-					<h2 class="">AIPL Club Residences</h2>
+					<h2 class="">Gurgaon One ALPHA</h2>
 					<div class="margin20" ></div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
                         <div class="details center-block">
-							<img src="list/AIPL-Club-Residences/logo-club-residences.png" class="project-logo " style="max-width: 200px;"  alt="" />          
+							<img src="images/alpha.png" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
@@ -130,28 +130,28 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- Premium 2 BHK Flats</p>                    
+								<p class=""><i class="far fa-building"></i> Unit Type:- 2BHK/3BHK/4BHK apartments</p>                    
 							</div>                        
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	                		
-								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 930 sq. ft.</p>                    
+								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 1250 sq. ft.</p>                    
 							</div>                        
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Possession:- 2020</p>                       
+								<!-- <p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Possession:- 2020</p>                        -->
 							</div>                        
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">
-								<p class=""><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 70A, Gurgaon</p>                        
+								<p class=""><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 84, Gurgaon</p>                        
 							</div>                        
 						</div>
 					</div>
@@ -162,7 +162,7 @@
 				</div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="details">
-                        <img src="images/residential3.jpg" class="project-banner" alt="AIPL Club Residences" width="100%"  />
+                        <img src="images/alphahomes.jpg" class="project-banner" alt="AIPL Club Residences" width="100%"  />
                         
                     </div>
                 </div>
@@ -186,15 +186,16 @@
             <hr />
 		<div class="p-details">
 			<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3>AIPL Club Residences Overview</h3>
+				<h3>Gurgaon One ALPHA</h3>
 				<div>
-				   <p>Walk into a setting quite like this: a quiet, purely residential community with lush natural landscapes, life-giving water all around, and breathtaking view of the Aravallis. With nothing separating you from nature, you can retreat into your peaceful surroundings or venture a few steps beyond and engage with the excitement around you.</p><p>Apartments at AIPL Club Residences on Golf Course Extension Road, Gurgaon are premium compact apartments with a contemporary architecture, an extensive range of luxury amenities and the panoramic view of Aravallis. These 2 BHK flats in Gurgaon are an exclusive choice for young couples and nuclear families.</p> 
+				   <p>AlphaCorp GurgaonOne Sector 84 stands apart as one of the best residential projects, with smart apartments for sale in Gurgaon and surrounding areas, with more than 90 percent open and green space, a host of sporting and recreational facilities. The sale of GurgaonOne Sector 84’s luxurious residential apartments in Gurgaon – ready to move 2BHK, 3BHK and 4BHK apartments.</p> 
+				   <p>Designed by ARCOP, leading architects of Montreal, Canada, the project will feature zonal greens, three-sided open apartments for sale in Gurgaon, sustainable energy and water conservation, complete waste management, a recreational club with excellent social and health facilities, and safe pedestrian walkways. Other facilities for the physically-challenged include a professional facility management team is also provided to ensure a strong sense of security, hygiene and belonging among the residents within this new residential project by Alpha Corp.</p>
 				</div>
 			</div>
 						<div class="col-lg-4 col-md-6 col-sm-12">
 				<h3><i class="fas fa-map-marker"></i> Location Map</h3>
 				<div>
-					<img src="list/AIPL-Club-Residences/club_residences.jpg" class="site-plan" alt="" />
+					<img src="images/alphalocation.png" class="site-plan" alt="" />
 					
 					<!--<h3 class="heading-main">Find Us on Google Map</h3>
 					 -->
@@ -204,7 +205,7 @@
 						<div class="col-lg-4 col-md-6 col-sm-12">
 				<h3><i class="far fa-building"></i> Site Plan</h3>
 				<div>
-					<img src="list/AIPL-Club-Residences/SitePlan.jpg" class="site-plan" alt="" />
+					<img src="images/alphasiteplanesector84.png" class="site-plan" alt="" />
 				</div>
 			</div>
 						
@@ -212,17 +213,17 @@
 				<h3><i class="far fa-building"></i> Features & Amenities</h3>
 				<div>
 					<ul style="box-sizing: border-box; border-radius: 0px; margin-top: 0px; margin-bottom: 10px; color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
-  <li><p>Part of 11.5 acres group housing in sector 70-A, Gurugram.</p></li>
+  <li><p>GurgaonOne Sector 84’s luxurious residential apartments in Gurgaon.</p></li>
 
-  <li><p>No. of Units : 52 units of 2 BHK Apartments in a size 930 sq. ft.</p></li>
+  <li><p>Designed by ARCOP, leading architects of Montreal, Canada.</p></li>
 
-  <li><p>Club on Ground &amp; First floor and Suites on the upper floors.</p></li>
+  <li><p>90 percent open and green space.</p></li>
 
-  <li><p>Adjoining the swimming pool and other club amenities.</p></li>
+  <li><p>Facilities for the physically-challenged include a professional facility.</p></li>
 
-  <li><p>Right at the entrance of The Peaceful Homes with easy access to the club facilities.</p></li>
+  <li><p> With 7 independent towers, ranging from 19 to 26 floors, with combinations of 2, 2+study, 3, 3+study and 4 bedroom apartments.</p></li>
 
-  <li><p>Concierge Service, Business Centre, Yoga Centre, Gymnasium etc.</p></li>
+  <li><p> Prime ready-to-move 2BHK/3BHK/4BHK apartments.</p></li>
 </ul> 
 				</div>
 			</div>

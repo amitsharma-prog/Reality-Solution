@@ -94,7 +94,7 @@
                     <li><a href="#">/</a></li>
                     <li><a href="commercial.php">Commercial</a></li>
 					<li><a href="#">/</a></li>
-                    <li><a href="#" class="activebc">AIPL Joy Central | Retail, Hypermarket</a></li>
+                    <li><a href="#" class="activebc">EMINENCE KIMBERLY SUITES</a></li>
                 </ul>
             	
             </div>
@@ -108,13 +108,13 @@
             <div class="clearfix"></div>
             <div class="details-header">
 				<div class="col-lg-12 col-md-12 col-sm-12">
-					<h2 class="">AIPL Joy Central | Retail, Hypermarket</h2>
+					<h2 class="">EMINENCE KIMBERLY SUITES</h2>
 					<div class="margin20" ></div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
                         <div class="details center-block">
-							<img src="list/aipl-joy-central-hypermarket/180007668323.jpg" class="project-logo " style="max-width: 200px;"  alt="" />          
+							<img src="images/kimberly-suites-logo.png" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
@@ -131,28 +131,28 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- Retail Shops, Office Spaces, Multiplex, Food Courts & Restaurants</p>                    
+								<p class=""><i class="far fa-building"></i> Unit Type:- excellent space management</p>                    
 							</div>                        
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	                		
-								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 4 Acres</p>                    
+								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 601 sqft - 795 sqft.</p>                    
 							</div>                        
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Possession:- Dec 2020 Expected</p>                       
+								<!-- <p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Possession:- Dec 2020 Expected</p>   -->                     
 							</div>                        
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">
-								<p class=""><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 65, Gurgaon</p>                        
+								<p class=""><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 32, Gurgaon</p>                        
 							</div>                        
 						</div>
 					</div>
@@ -163,7 +163,7 @@
 				</div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="details">
-                        <img src="list/aipl-joy-central-hypermarket/joy-central.jpg" class="project-banner" alt="AIPL Joy Central | Retail, Hypermarket" width="100%"  />
+                        <img src="images/541936ade2e13Eminence Kimberly Suites-3.jpeg" class="project-banner" alt="KIMBERLY SUITES" width="100%"  />
                         
                     </div>
                 </div>
@@ -187,15 +187,15 @@
             <hr />
 		<div class="p-details">
 			<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3>AIPL Joy Central | Retail, Hypermarket Overview</h3>
+				<h3>KIMBERLEY SUITES | Overview</h3>
 				<div>
-				   <p>If you are dreaming of being in a place which is commercial and beautiful enough then your search is over now. AIPL Joy Central | Aipl Joy Central Sector 65 Gurgaon | Aipl Joy Central Gurgaon | will full-fill all your requirements; either they are related to your business or your dreams. It is located at 75-meter wide sector road on Golf Course Extension Road, sector 65, Gurgaon.</p><p>The attractive things of AIPL Joy Central | Aipl Joy Central Sector 65 Gurgaon | Aipl Joy Central Gurgaon | commercial plan project will force to people to visit this place and it will enhance the opportunities of the shopper. This will give a different experience to you.</p><p>Business needs attention and presence of customer audiences. Your business place should be the one where you can get more and more premium, classy people around you.</p><p>This is the place what you are searching for. The ambiance of AIPL Joy Central will grab all kind of crowd either they are youngsters or officer class people.</p><p>It can be the best place for any kind of business you are thinking about. This is the complete package of all new kind of facilities and business trends.</p><p>Grab the opportunity today and grow your business in a more fast way.</p> 
+				   <p>Eminence Group was founded by people who have been pioneers in the real estate industry for over 25 years. The foundation of the group was laid in 1987 when our promoters entered the real estate and construction sector. The vast experience and expertise of our people and the deep comprehension of the client's needs brings indispensable and valuable wisdom to the group and this is what makes us fit to survive in today's challenging market. We are dedicated to building not just grand structures, but a great repertoire of work too. Which is why, at Eminence, we strictly adhere to the highest quality standards in everything we do.</p><p>Our motto of Strength, Stability & Solidarity serves as a testament in all spheres of our business. By integrating all features of our motto, we aim to live to our name 'Eminence' by making our projects and our company reach the greatest of the heights. We not only seek to build stable and solid structures but our ambition is to also implement the concept of strength, stability, and solidarity in the relationship that we share with our clients. Delivering exactly what our clients want in the time they </p> 
 				</div>
 			</div>
 						<div class="col-lg-4 col-md-6 col-sm-12">
 				<h3><i class="fas fa-map-marker"></i> Location Map</h3>
 				<div>
-					<img src="list/aipl-joy-central-hypermarket/location-map-aipl-joy-central.jpg" class="site-plan" alt="" />
+					<img src="images/location-map-kimbrlty.jpg" class="site-plan" alt="" />
 					
 					<!--<h3 class="heading-main">Find Us on Google Map</h3>
 					 -->
@@ -205,11 +205,11 @@
 						<div class="col-lg-4 col-md-6 col-sm-12">
 				<h3><i class="far fa-building"></i> Site Plan</h3>
 				<div>
-					<img src="list/aipl-joy-central-hypermarket/514462646Site%20Plan%20-%20AIPL%20Joy%20Street.jpg" class="site-plan" alt="" />
+					<img src="images/kimberly suites_siteplan.jpg" class="site-plan" alt="" />
 				</div>
 			</div>
 						
-						<div class="col-lg-8 col-md-6 col-sm-12">
+						<!-- <div class="col-lg-8 col-md-6 col-sm-12">
 				<h3><i class="far fa-building"></i> Features & Amenities</h3>
 				<div>
 					<h3>What will approach the audience in AIPL Joy Central</h3><ul>
@@ -232,7 +232,7 @@
   <li><p>This project AIPL Joy Central is going to get the huge attention and growth in coming years.</p></li>
 </ul> 
 				</div>
-			</div>
+			</div> -->
 			        </div>
         </div>
 	

@@ -93,7 +93,7 @@
                     <li><a href="#">/</a></li>
                     <li><a href="commercial.php">Commercial</a></li>
 					<li><a href="#">/</a></li>
-                    <li><a href="#" class="activebc">Elan Epic</a></li>
+                    <li><a href="#" class="activebc">Vatika One On One</a></li>
                 </ul>
             	
             </div>
@@ -107,13 +107,13 @@
             <div class="clearfix"></div>
             <div class="details-header">
 				<div class="col-lg-12 col-md-12 col-sm-12">
-					<h2 class="">Elan Epic</h2>
+					<h2 class="">Vatika One On One</h2>
 					<div class="margin20" ></div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
                         <div class="details center-block">
-							<img src="list/elan-epic-gurgaon/epic-logo.png" class="project-logo " style="max-width: 200px;"  alt="" />          
+							<img src="images/vatika.svg" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
@@ -130,28 +130,28 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- Retail Space, POD</p>                    
+								<p class=""><i class="far fa-building"></i> Unit Type:- Retail Store, Office</p>                    
 							</div>                        
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	                		
-								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 4.5 Acre</p>                    
+								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 1775/Sq.Ft - 24000/Sq.Ft</p>                    
 							</div>                        
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Possession:- 2023</p>                       
+								<!-- <p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Possession:- 2016</p>                        -->
 							</div>                        
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">
-								<p class=""><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 70 Gurgaon</p>                        
+								<p class=""><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 16, Gurgaon</p>                        
 							</div>                        
 						</div>
 					</div>
@@ -162,7 +162,7 @@
 				</div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="details">
-                        <img src="list/elan-epic-gurgaon/elan-epic.jpg" class="project-banner" alt="Elan Epic" width="100%"  />
+                        <img src="images/vatika_one_on_one.jpg" class="project-banner" alt="Elan Epic" width="100%"  />
                         
                     </div>
                 </div>
@@ -186,15 +186,15 @@
             <hr />
 		<div class="p-details">
 			<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3>Elan Epic Overview</h3>
+				<h3>Vatika One On One Overview</h3>
 				<div>
-				   <p>The new epic development from elan is the best choice as it offers 4 national highways connectivity and possesses 800 feet wide front. Having an east facing square site with a two-level basement parking, this new project of Elan has been designed by best in field UHA London. It even has 9 hanging pods with a reflective glass surface and 7 silver screens multiplex. Another distinctive feature includes 2 sides open corner plot with 275 feet wide road and a huge atrium with a large water body. Equipped with 18 escalators for easy connectivity and 2 glass capsule lift rising from the middle of the water body, it is ultra-modern in style. To get rid of heat, water-cooled DX air-conditioning system for all retail area is also there. Awesome multiplex on 3rd and 4th floor along with gaming zone to enhance your sports skills is also there. In fact, a fun zone and kids’ entertainment zone further add shine to its beauty. Even a terrace restaurant is there to provide access to delicious cuisines and satiate the appetite. It also has roof surface frames with eco-friendly hanging creepers or plants to maintain a pleasant ambiance.</p><p>Surrounded by 1 lac residential unit within close vicinity and has a building facade enveloped with jewel-like structure. It also takes care of two core needs of today’s era- wifi and music as it has musical fountains and free wifi zones. Entertainment is also given keen consideration with Times Square New York Style LED screens for movie premieres. Even it also offers world-class fine dining hanging pod restaurants, lounge bars, cafes, bakeries, bistros, pubs and brassieres and that too are accompanied by fast food outlets for those on the go open-air. And what else is not there? With high-street retail shopping experience and Uber-stylish commercial space, nothing is left.</p><p>Everything is right there round the corner and you don’t have to wait for anything. So, overall, this Elan Epic is “Epic” is real sense with a touch of security, stability and luxury.</p> 
+				   <p>Vatika One on One is the biggest commercial project by Vatika spread over 13.08 acres of land area.</p> 
 				</div>
 			</div>
 						<div class="col-lg-4 col-md-6 col-sm-12">
 				<h3><i class="fas fa-map-marker"></i> Location Map</h3>
 				<div>
-					<img src="list/elan-epic-gurgaon/Picture2.jpg" class="site-plan" alt="" />
+					<img src="images/location_vatica_one_on_one.jpg" class="site-plan" alt="" />
 					
 					<!--<h3 class="heading-main">Find Us on Google Map</h3>
 					 -->
@@ -209,21 +209,33 @@
 			</div>
 						
 						<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Features & Amenities</h3>
+				<h3><i class="far fa-building"></i> Features of the Project</h3>
 				<div>
 					<ul>
-  <li><p>Indeed, located on Southern Peripheral Road (SPR)</p></li>
+  <li><p>Assured Rental: Rs.124/-per sq.ft</p></li>
 
-  <li><p>Just, 3 minutes distance from NH-8</p></li>
+  <li><p>The complex shall have the distinction of housing the tallest commercial building of Gurgaon;</p></li>
 
-  <li><p>Close Proximity to Golf Course Extension Road</p></li>
+  <li><p>The Iconic Tower will be G+25 with floor plates of approximately 20000 sq.ft.</p></li>
 
-  <li><p>Seamless connectivity Dwarka Expressway</p></li>
+  <li><p>The complex shall have 5 Mid-rise blocks – These are G+6 with floor plates ranging varying from 23000sq.ft. to 26000 sq.ft.</p></li>
 
-  <li><p>Actually, Easy connectivity to IGI Airport</p></li>
+  <li><p>The landmark tower at 103 meters height shall have the first sky lounge of Gurgaon on the top floor, offering unparalleled views of the majestic city.</p></li>
 
-  <li><p>Moreover, located in prime area of Delhi NCR</p></li>
+  <li><p>Advanced security and access control systems for every office block.</p></li>
+  <li><p> Floor Pates allowing efficient planning- Optimised Grid sizes, Efficient Service Cores.</p></li>
+  <li><p>The complex shall have adequate parking for 2500 cars spread over three basement levels.</p></li>
 </ul> 
+				</div>
+				<h3><i class="far fa-building"></i> Location Advantage </h3>
+				<div>
+					<ul>
+  <li><p>Strategically located on the Main NH8 at Sector-16 in the heart of Gurgaon.</p></li>
+
+  <li><p>Only 3 minutes drive from IFFCO Chowk.</p></li>
+
+  <li><p>Close to most of the major hotels in Gurgaon: The Westin, The Trident, The Oberoi, The Galaxy, and The Crown Plaza.</p></li>
+  </ul> 
 				</div>
 			</div>
 			        </div>

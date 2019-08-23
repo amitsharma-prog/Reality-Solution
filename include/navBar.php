@@ -21,6 +21,7 @@
                                 <li><a href="about.php">About Us</a></li>
                                 <li><a href="commercial.php">Commercial</a></li>
                                 <li><a href="residential-projects.php">Residential</a></li>
+                                <!-- <li><a href="sitemap.php">About Gurgaon</a></li> -->
                                 <li><a href="nri.php">NRIS</a></li>
                                 <li><a href="contact.php">Contact Us</a></li> 
                             </ul>                 

@@ -191,9 +191,10 @@
 				<div>
 				   <p><b>Lowest Rate Guaranteed <br>
                                  
-Let us help you to find best in gurgaon residential and commercial properties. </b></p><br><br>Delighted to present our brand new project "EMAAR PALM HEIGHTS", in Sector 77, National Highway 8, Gurugram. <br><br>
+Let us help you to find best in gurgaon residential and commercial properties. </b></p><br><br>Delighted to present our brand new project "EMAAR INDIA", in Sector 77, National Highway 8, Gurugram. <br><br>
  
 The architectural marvels stand G+24 floors high, on one of the best access (National Highway, Nearing Completion 60 Mtr Wide Sector Road, Under Active Construction Northern Peripheral Road) and comes with never before value propositions. <br><br>
+<h3><i class="far fa-building"></i> Features & Amenities</h3>
  
 "LUXURIOUS AMENITIES"<br><br>
  
@@ -207,7 +208,7 @@ Multi- Facility Grand Clubhouse, <br>Fully Equipped Gym, <br>Steam and Sauna Roo
 						<div class="clearfix"></div>
 						
 						<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Features & Amenities</h3>
+				
 				<div>
 					<p><br></p> 
 				</div>

@@ -407,17 +407,17 @@
 
             <div class="home-block">
 
-               <a href="projectdetails0cae.php?projectname=AIPL-Club-Residences" > <img src="images/residential3.jpg" alt="AIPL Club Residences" style="height:242px;"  /></a>
+               <a href="projectdetails0cae.php?projectname=Gurgaon One ALPHA" > <img src="images/alphahomes.jpg" alt="AIPL Club Residences" style="height:242px;"  /></a>
 
-                <h2 class="text-center">AIPL Club Residences</h2>
+                <h2 class="text-center">Gurgaon One ALPHA</h2>
 
                 <div style="min-height: 170px;">
 
-                    <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- Premium 2 BHK Flats</p>                   		
+                    <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- 2BHK/3BHK/4BHK apartments</p>                   		
 
-                    <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 930 sq. ft.</p>
+                    <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 1250 sq. ft.</p>
 
-                    <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 70A, Gurgaon</p> 
+                    <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 84, Gurgaon</p> 
 
                     <a href="projectdetails0cae.php?projectname=AIPL-Club-Residences" class="details-btn">View More</a> 
 
@@ -508,12 +508,12 @@
         
 
         <div class="col-lg-4 col-md-4 col-sm-12">
-
+ 
             <div class="home-block">
 
-               <a href="projectdetails8528.php?projectname=M3M-golf-estate" > <img src="images/residential7.jpg" alt="M3M Golf Estate" style="height:242px;"  /></a>
+               <a href="projectdetails8528.php?projectname=Sobha Internation City" > <img src="images/residential7.jpg" alt="M3M Golf Estate" style="height:242px;"  /></a>
 
-                <h2 class="text-center">M3M Golf Estate</h2>
+                <h2 class="text-center">Sobha International City</h2>
 
                 <div style="min-height: 170px;">
 

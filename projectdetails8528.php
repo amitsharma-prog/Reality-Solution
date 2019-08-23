@@ -94,7 +94,7 @@
                     <li><a href="#">/</a></li>
                     <li><a href="residential-projects.php">Residential</a></li>
 					<li><a href="#">/</a></li>
-                    <li><a href="#" class="activebc">M3M Golf Estate</a></li>
+                    <li><a href="#" class="activebc">Sobha International City</a></li>
                 </ul>
             	
             </div>
@@ -108,13 +108,13 @@
             <div class="clearfix"></div>
             <div class="details-header">
 				<div class="col-lg-12 col-md-12 col-sm-12">
-					<h2 class="">M3M Golf Estate</h2>
+					<h2 class="">SOBHA INTERNATIONAL CITY</h2>
 					<div class="margin20" ></div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
                         <div class="details center-block">
-							<img src="list/M3M-golf-estate/logo.jpg" class="project-logo " style="max-width: 200px;"  alt="" />          
+							<img src="images/Sobhalogo.png" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
@@ -131,14 +131,14 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- 3/4/5 BHK Apartments & Penthouses</p>                    
+								<p class=""><i class="far fa-building"></i> Unit Type:- 3 BHK, 4 BHK, 5 BHK Apartments</p>                    
 							</div>                        
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	                		
-								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 2950 to 10000 square feet</p>                    
+								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 30,193 sq.m</p>                    
 							</div>                        
 						</div>
 					</div>
@@ -152,7 +152,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">
-								<p class=""><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 65, Gurgaon</p>                        
+								<p class=""><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 109, Gurgaon</p>                        
 							</div>                        
 						</div>
 					</div>
@@ -163,7 +163,7 @@
 				</div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="details">
-                        <img src="images/residential7.jpg" class="project-banner" alt="M3M Golf Estate" width="100%"  />
+                        <img src="images/sobhahomes.jpg" class="project-banner" alt="M3M Golf Estate" width="100%"  />
                         
                     </div>
                 </div>
@@ -187,15 +187,15 @@
             <hr />
 		<div class="p-details">
 			<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3>M3M Golf Estate Overview</h3>
+				<h3>Sobha International City Overview</h3>
 				<div>
-				   <p>It is a great assortment of apartments and exclusive penthouse with modern facilities to walk around, for the matchless lifestyle and along with round the clock security for safe and healthy life ahead. One place with wide advantage to explore and gather the comfortable life each day. And most importantly, its groundbreaking design tempts the wide viewers. M3M Golf Estate residential apartment Gurgaon cements indeed an altitude of the growth to its residents hand in the profits to this project. Altogether, M3M Group to have come as the foremost one in providing the scale of the contemporary architectures such as M3M Golf Estate in Gurgaon real estate. M3M Golf Estate is equipped with high-end luxury and furnishing. Project contains 3/4 bhk apartments starting from 2950 to 10000 square feet. Community is designed in such a manner that each apartment will get adequate sunlingh and fresh air.</p> 
+				   <p>International City in sector 109, Gurgaon, is one of the most popular projects by the fastest growing real estate development company Sobha Developers has made every possible effort to make International City a project that stands out from the rest in its neighborhood. Spread across 150 acres of area, International City. International City also offers a power backup provision to provide the uninterrupted power supply. Luxurious amenities such as children’s play area, clubhouse, terrace gymnasium, swimming pool etc. within the project area are quite an attention grabber, thus making it a wise investment option for people seeking luxurious and spacious homes!</p> 
 				</div>
 			</div>
 						<div class="col-lg-4 col-md-6 col-sm-12">
 				<h3><i class="fas fa-map-marker"></i> Location Map</h3>
 				<div>
-					<img src="list/M3M-golf-estate/location-map-full.jpg" class="site-plan" alt="" />
+					<img src="images/location-big.jpg" class="site-plan" alt="" />
 					
 					<!--<h3 class="heading-main">Find Us on Google Map</h3>
 					 -->
@@ -205,7 +205,7 @@
 						<div class="col-lg-4 col-md-6 col-sm-12">
 				<h3><i class="far fa-building"></i> Site Plan</h3>
 				<div>
-					<img src="list/M3M-golf-estate/siteplan-lrg.jpg" class="site-plan" alt="" />
+					<img src="images/sobha-international-city-dwarka-expressway-gurgaon-sector-109-3-638.jpg" class="site-plan" alt="" />
 				</div>
 			</div>
 						
