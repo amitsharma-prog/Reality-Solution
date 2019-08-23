@@ -49,7 +49,7 @@
         	<div class="row">
             	<div class="col-lg-3 col-md-3 col-sm-12">
 				<!--<h5>REAL ESTATE</h5>-->
-				   <ul style=" padding: 12px;">
+				   <ul>
 						<li><a href="about.php" style="font-size: 16px;">About Us</a></li>
                         <!-- <li><a href="#" style="font-size: 16px;">Our Team</a></li> -->
                     	<li><a href="commercial.php" style="font-size: 16px;">Commercial</a></li>

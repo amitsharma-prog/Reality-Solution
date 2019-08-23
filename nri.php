@@ -53,11 +53,11 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-4 col-sm-12">
+            <div class="col-lg-4 col-md-4 col-sm-12" id="col1">
 
 			<h2>NRI</h2><p>Property Prices are at the Lowest</p>
 
-			<ul style="list-style: none; background-color:#fff; border: 1px solid #dedede; margin-bottom: 0px;">
+			<ul id="nrisp" style="list-style: none; background-color:#fff; border: 1px solid #dedede; margin-bottom: 0px;">
 
 
 
@@ -103,7 +103,7 @@
 
          <hr />
 
-         <div class="col-lg-8 col-md-8 col-sm-12">
+         <div class="col-lg-8 col-md-8 col-sm-12" id="col2">
 
             <h3>Property Prices Are At The Lowest</h3>
 
@@ -436,7 +436,7 @@ width: 90%;
 
          </div>
          <div class="col-lg-4 col-md-4 col-sm-12">
-<div class="col-md-12" style="background: #000;    margin-bottom: 30px;     border-radius: 5px;">
+<div class="col-md-12" id="col3" style="background: #000;    margin-bottom: 30px;     border-radius: 5px;">
 <h4 style="    margin-bottom: 15px; color:#fff; margin-top: 25px;        font-size: 25px;     text-align: center;     line-height: 23px;FONT-WEIGHT: BOLD;">DEAL WITH US</h4>
 <h3 style="margin-bottom: 15px;
     color: #fff;
