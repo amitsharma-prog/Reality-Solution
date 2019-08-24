@@ -177,7 +177,7 @@
 						<input type="number" required="required" id="Mobile"  name="Mobile" placeholder="Enter your contact no..." class="form-control input" />
 						<input type="text" required="required" name="ProjectName" id="ProjectName" class="form-control input" value="M3M Urbana Business Park" />
 						<textarea rows="5" placeholder="Enter your message..." name="Message" id="Message" class="form-control"></textarea>
-						<div id="msg" style="width: 200px; height: 40px; border: 1px solid #000; color: #fff;"></div>                    
+						<!-- <div id="msg" style="width: 200px; height: 40px; border: 1px solid #000; color: #fff;"></div>   -->                  
 						<input type="submit" name="submit" value="Submit" id="submit" class="button" />   
 						
 					</form>

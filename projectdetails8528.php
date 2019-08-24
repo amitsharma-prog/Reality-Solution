@@ -163,7 +163,7 @@
 				</div>
                 <div class="col-lg-8 col-md-8 col-sm-12">
                     <div class="details">
-                        <img src="images/sobhahomes.jpg" class="project-banner" alt="M3M Golf Estate" width="100%"  />
+                        <img src="images/sobhahomes.jpg" class="project-banner" alt="sobha International City" width="100%"  />
                         
                     </div>
                 </div>
@@ -212,7 +212,7 @@
 						<div class="col-lg-8 col-md-6 col-sm-12">
 				<h3><i class="far fa-building"></i> Features & Amenities</h3>
 				<div>
-					<ul><li><p>Entry from 60 meter wide sector road</p></li><li><p>3 BHK &amp; 4 BHK</p></li><li><p>Limited Units</p></li><li><p>East facing units</p></li><li><p>Apartments facing Huge central green &amp; club house</p></li><li><p>75 % landscaped greens &amp; Open Space</p></li><li><p>24 x 7 x 365 gated security</p></li><li><p>Earthquake resistant buildings</p></li><li><p>Rain water Harvesting</p></li><li><p>VRV/VRF air units</p></li><li><p>Modular Kitchen</p></li></ul><p><span data-fr-verified="true">M3M Golf Estate residential apartment Gurgaon Project contains 3/4 bhk apartments starting from 2950 to 10000 square feet. Community is designed in such a manner that each apartment will get adequate sunlingh and fresh air.</span><br></p> 
+					<ul><li><p>Entry from 60 meter wide sector road</p></li><li><p>3 BHK &amp; 4 BHK</p></li><li><p>Limited Units</p></li><li><p>East facing units</p></li><li><p>Apartments facing Huge central green &amp; club house</p></li><li><p>75 % landscaped greens &amp; Open Space</p></li><li><p>24 x 7 x 365 gated security</p></li><li><p>Earthquake resistant buildings</p></li><li><p>Rain water Harvesting</p></li><li><p>VRV/VRF air units</p></li><li><p>Modular Kitchen</p></li></ul><!-- <p><span data-fr-verified="true">M3M Golf Estate residential apartment Gurgaon Project contains 3/4 bhk apartments starting from 2950 to 10000 square feet. Community is designed in such a manner that each apartment will get adequate sunlingh and fresh air.</span><br></p> --> 
 				</div>
 			</div>
 			        </div>
