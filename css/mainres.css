@@ -9,6 +9,25 @@
 	.p-details p {
 		padding: 0 15px;
 	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 10px;
+	}
 /*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
@@ -220,7 +239,36 @@
 }
 
 @media only screen and (min-width: 321px) and (max-width: 360px) {
-	/*******************************Home section start*******************************/
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 10px;
+	}
+/*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
 	    font-size: 25px;
@@ -433,7 +481,36 @@
 }
 
 @media only screen and (min-width: 361px) and (max-width: 380px) {
-	/*******************************Home section start*******************************/
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 45px;
+	}
+/*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
 	    font-size: 25px;
@@ -649,7 +726,36 @@
 }
 
 @media only screen and (min-width: 381px) and (max-width: 420px) {
-	/*******************************Home section start*******************************/
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 65px;
+	}
+/*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
 	    font-size: 25px;
@@ -865,7 +971,36 @@
 }
 
 @media only screen and (min-width: 421px) and (max-width: 460px) {
-	/*******************************Home section start*******************************/
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 85px;
+	}
+/*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
 	    font-size: 25px;
@@ -1084,7 +1219,36 @@
 }
 
 @media only screen and (min-width: 461px) and (max-width: 480px) {
-	/*******************************Home section start*******************************/
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 100px;
+	}
+/*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
 	    font-size: 25px;
@@ -1303,7 +1467,36 @@
 }
 
 @media only screen and (min-width: 481px) and (max-width: 520px) {
-	/*******************************Home section start*******************************/
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 110px;
+	}
+/*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
 	    font-size: 25px;
@@ -1522,7 +1715,36 @@
 }
 
 @media only screen and (min-width: 521px) and (max-width: 540px) {
-	/*******************************Home section start*******************************/
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 120px;
+	}
+/*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
 	    font-size: 25px;
@@ -1741,7 +1963,36 @@
 }
 
 @media only screen and (min-width: 541px) and (max-width: 580px) {
-	/*******************************Home section start*******************************/
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 140px;
+	}
+/*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
 	    font-size: 25px;
@@ -1961,7 +2212,36 @@
 
 
 @media only screen and (min-width: 581px) and (max-width: 610px) {
-	/*******************************Home section start*******************************/
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 160px;
+	}
+/*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
 	    font-size: 25px;
@@ -1981,7 +2261,7 @@
 		padding: 0px !important;
 	}
 	.tp.logo {
-		width: 580px;
+		width: 610px;
 		height: 98px;
     	padding: 0px 10px;
 	    border-bottom: 1px solid lightgray;
@@ -2022,7 +2302,7 @@
 	.navbar {
     	overflow: hidden;
     	/* height: 100px; */
-   		width: 580px !important;
+   		width: 610px !important;
     	clear: both;
     	float: left !important;
    		z-index: 1;
@@ -2050,7 +2330,7 @@
 	}
 	.navbar-header {
 	    float: left !important;
-	    width: 580px;
+	    width: 610px;
 	    overflow: hidden;
 	}
 	ul.nav.navbar-nav {
@@ -2180,7 +2460,36 @@
 }
 
 @media only screen and (min-width: 611px) and (max-width: 640px) {
-	/*******************************Home section start*******************************/
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 180px;
+	}
+/*******************************Home section start*******************************/
 	div#bars {
 	    float: right;
 	    font-size: 25px;
