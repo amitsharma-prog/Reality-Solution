@@ -257,7 +257,14 @@
 
 /*******************************contact section end*******************************/
 }
-
+@media only screen and (min-width: 321px) and (max-width: 350px) {
+	div#border3 {
+	    height: 810px;
+	}
+	div#border1 {
+	    height: 1460px;
+	}
+}
 @media only screen and (min-width: 321px) and (max-width: 360px) {
 /*******************************Project section start*******************************/
 	.f-list {
