@@ -105,7 +105,7 @@
 
          <div class="col-lg-8 col-md-8 col-sm-12" id="col2">
 
-            <h3>Property Prices Are At The Lowest</h3>
+            <h3 class="nrih3">Property Prices Are At The Lowest</h3>
 
             <p class="nri-para">NRI&#39;s investors should make the most of the slow real estate market.
 Historically, the price rise rate in India has always been higher than
@@ -113,21 +113,21 @@ the matured markets of the West. This is the reason why India can
 offer more value for money to the investors, with better returns in less
 time as compared to other prominent real estate markets of the world. </p>
 
-            <h3>Tax Exemption</h3>
+            <h3 class="nrih3">Tax Exemption</h3>
 
             <p class="nri-para">NRI&#39;s can invest in real estate in India and can still manage to save tax
 like a regular Indian resident. Tax deduction on home loans on
 principal repayment and interest component can be claimed by the
 NRI&#39;s.</p>
 
-            <h3>Rental Income</h3>
+            <h3 class="nrih3">Rental Income</h3>
 
             <p class="nri-para">NRI&#39;s can invest and earn rental income in India without any trouble.
 Though the 30 percent TDS (tax deducted at source) has to be
 deducted by the tenant, the remaining amount can be repatriated under
 the Foreign Exchange Management Act rules.</p>
 
-            <h3>Retirement Benefits</h3>
+            <h3 class="nrih3">Retirement Benefits</h3>
 
             <p class="nri-para">Though reverse mortgage is a more popular concept in the US, India
 is still gearing up for this kind of system. NRI&#39;s that tend to plan their
@@ -438,7 +438,7 @@ width: 90%;
          <div class="col-lg-4 col-md-4 col-sm-12">
 <div class="col-md-12" id="col3" style="background: #000;    margin-bottom: 30px;     border-radius: 5px;">
 <h4 style="    margin-bottom: 15px; color:#fff; margin-top: 25px;        font-size: 25px;     text-align: center;     line-height: 23px;FONT-WEIGHT: BOLD;">DEAL WITH US</h4>
-<h3 style="margin-bottom: 15px;
+<h3 class="nrih3" style="margin-bottom: 15px;
     color: #fff;
     font-size: 17px;
     text-align: center;

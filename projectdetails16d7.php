@@ -86,7 +86,7 @@
 <article class="bc">
 	<div class="container">
     	<div class="row">
-        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="project-width">
             	<ul class="bc-ul">
                 	<li><a href="#">You Are Here  <i class="fa fa-caret-right" aria-hidden="true"></i> </a> </li>
                     <li><a href="index.php">Home</a></li>
@@ -106,18 +106,18 @@
         <div class="row">            
             <div class="clearfix"></div>
             <div class="details-header">
-				<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="col-lg-12 col-md-12 col-sm-12" id="project-width"> 
 					<h2 class="">Vatika One On One</h2>
 					<div class="margin20" ></div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
                     <div class="details">
                         <div class="details center-block">
 							<img src="images/vatika.svg" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
 				</div>				
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
@@ -130,7 +130,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- Retail Store, Office</p>                    
+								<p class=""><i class="fa fa-building-o"></i> Unit Type:- Retail Store, Office</p>                    
 							</div>                        
 						</div>
 					</div>
@@ -160,13 +160,13 @@
 				<div class="col-lg-12" style="margin-bottom: 18px;">
 					
 				</div>
-                <div class="col-lg-8 col-md-8 col-sm-12">
+                <div class="col-lg-8 col-md-8 col-sm-12" id="project-width">
                     <div class="details">
                         <img src="images/vatika_one_on_one.jpg" class="project-banner" alt="Elan Epic" width="100%"  />
                         
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
+                <div class="col-lg-4 col-md-4 col-sm-12" id="project-width" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
                     <h3>For more query fill this form</h3>
 					<div class="margin10"></div>
 										<form class="forms" action="#" method="post">
@@ -185,14 +185,14 @@
 			<div class="clearfix"></div>
             <hr />
 		<div class="p-details">
-			<div class="col-lg-8 col-md-6 col-sm-12">
+			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>Vatika One On One Overview</h3>
 				<div>
 				   <p>Vatika One on One is the biggest commercial project by Vatika spread over 13.08 acres of land area.</p> 
 				</div>
 			</div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="fas fa-map-marker"></i> Location Map</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-map-marker"></i> Location Map</h3>
 				<div>
 					<img src="images/location_vatica_one_on_one.jpg" class="site-plan" alt="" />
 					
@@ -201,15 +201,15 @@
 				</div>
 			</div>
 						<div class="clearfix"></div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Site Plan</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Site Plan</h3>
 				<div>
 					<img src="list/elan-epic-gurgaon/Sales%20plan-7.jpg" class="site-plan" alt="" />
 				</div>
 			</div>
 						
-						<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Features of the Project</h3>
+						<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Features of the Project</h3>
 				<div>
 					<ul>
   <li><p>Assured Rental: Rs.124/-per sq.ft</p></li>

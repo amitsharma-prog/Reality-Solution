@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <head>
 <title>Realty Solutions | Real Estate Agency | Property Dealers in Gurugram</title>
@@ -86,7 +87,7 @@
 <article class="bc">
 	<div class="container">
     	<div class="row">
-        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="project-width">
             	<ul class="bc-ul">
                 	<li><a href="#">You Are Here  <i class="fa fa-caret-right" aria-hidden="true"></i> </a> </li>
                     <li><a href="index.php">Home</a></li>
@@ -106,18 +107,18 @@
         <div class="row">            
             <div class="clearfix"></div>
             <div class="details-header">
-				<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="col-lg-12 col-md-12 col-sm-12" id="project-width">
 					<h2 class="">M3M Tee Point</h2>
 					<div class="margin20" ></div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
                     <div class="details">
                         <div class="details center-block">
 							<img src="list/m3mteepointgurgaon/logo.png" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
 				</div>				
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
@@ -126,11 +127,11 @@
 						</div>                        
                     </div>
                 </div>
-				<div class="col-lg-12 col-md-12 col-sm-12 f-list">
+				<div class="col-lg-12 col-md-12 col-sm-12 f-list" id="project-width">
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- Retail Shops, Office Spaces</p>                    
+								<p class=""><i class="fa fa-building-o"></i> Unit Type:- Retail Shops, Office Spaces</p>                    
 							</div>                        
 						</div>
 					</div>
@@ -148,7 +149,7 @@
 							</div>                        
 						</div>
 					</div>
-					<div class="col-lg-3 col-md-6 col-sm-12">
+					<div class="col-lg-3 col-md-6 col-sm-12" >
 						<div class="details">
 							<div class="details center-block ">
 								<p class=""><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 65, Gurgaon</p>                        
@@ -160,13 +161,13 @@
 				<div class="col-lg-12" style="margin-bottom: 18px;">
 					
 				</div>
-                <div class="col-lg-8 col-md-8 col-sm-12">
+                <div class="col-lg-8 col-md-8 col-sm-12" id="project-width">
                     <div class="details">
                         <img src="images/M3m-tee-point.jpeg" class="project-banner" alt="M3M Tee Point" width="100%"  />
                         
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
+                <div class="col-lg-4 col-md-4 col-sm-12" id="project-width" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
                     <h3>For more query fill this form</h3>
 					<div class="margin10"></div>
 										<form class="forms" action="#" method="post">
@@ -185,7 +186,7 @@
 			<div class="clearfix"></div>
             <hr />
 		<div class="p-details">
-			<div class="col-lg-8 col-md-6 col-sm-12">
+			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>M3M Tee Point Overview</h3>
 				<div>
 				   <p>M3M India Pvt Limited never fails to impress with their flamboyant building style and chic
@@ -201,8 +202,8 @@ Extension Road, just minutes away from proposed Metro Station Sector 55-56 and N
 Highway - 8, it provides one with an amazing location advantage.</p>
 				</div>
 			</div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="fas fa-map-marker"></i> Location Map</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-map-marker"></i> Location Map</h3>
 				<div>
 					<img src="list/m3mteepointgurgaon/location-map.jpg" class="site-plan" alt="" />
 					
@@ -211,15 +212,15 @@ Highway - 8, it provides one with an amazing location advantage.</p>
 				</div>
 			</div>
 						<div class="clearfix"></div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Site Plan</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Site Plan</h3>
 				<div>
 					<img src="list/m3mteepointgurgaon/siteplan.jpg" class="site-plan" alt="" />
 				</div>
 			</div>
 						
-						<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Features & Amenities</h3>
+						<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
 				<div>
 					<h3>Location &amp; Connectivit</h3><ul><li><p>An environemt with cutting edge technology</p></li><li><p>State of the art architecture and facilities</p></li><li><p>Equipped with modern life safety and security system </p><li><p>Integrated building management system</p></li><li><p>Corporate and IT industry preferred choice</p>
 				</div>

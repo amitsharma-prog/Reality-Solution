@@ -87,7 +87,7 @@
 <article class="bc">
 	<div class="container">
     	<div class="row">
-        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="project-width">
             	<ul class="bc-ul">
                 	<li><a href="#">You Are Here  <i class="fa fa-caret-right" aria-hidden="true"></i> </a> </li>
                     <li><a href="index.php">Home</a></li>
@@ -107,18 +107,18 @@
         <div class="row">            
             <div class="clearfix"></div>
             <div class="details-header">
-				<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="col-lg-12 col-md-12 col-sm-12" id="project-width">
 					<h2 class="">Emaar India</h2>
 					<div class="margin20" ></div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
                     <div class="details">
                         <div class="details center-block">
 							<img src="list/emaar-palm-heights/Emaar%20logo.jpg" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
 				</div>				
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
@@ -131,7 +131,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- Apartments</p>                    
+								<p class=""><i class="fa fa-building-o"></i> Unit Type:- Apartments</p>                    
 							</div>                        
 						</div>
 					</div>
@@ -161,13 +161,13 @@
 				<div class="col-lg-12" style="margin-bottom: 18px;">
 					
 				</div>
-                <div class="col-lg-8 col-md-8 col-sm-12">
+                <div class="col-lg-8 col-md-8 col-sm-12" id="project-width">
                     <div class="details">
                         <img src="images/residential5.jpg" class="project-banner" alt="Emaar India" width="100%"  />
                         
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
+                <div class="col-lg-4 col-md-4 col-sm-12" id="project-width" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
                     <h3>For more query fill this form</h3>
 					<div class="margin10"></div>
 										<form class="forms" action="#" method="post">
@@ -186,28 +186,28 @@
 			<div class="clearfix"></div>
             <hr />
 		<div class="p-details">
-			<div class="col-lg-8 col-md-6 col-sm-12">
+			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width"> 
 				<h3>Emaar India Overview</h3>
 				<div>
 				   <p><b>Lowest Rate Guaranteed <br>
                                  
-Let us help you to find best in gurgaon residential and commercial properties. </b></p><br><br>Delighted to present our brand new project "EMAAR INDIA", in Sector 77, National Highway 8, Gurugram. <br><br>
+Let us help you to find best in gurgaon residential and commercial properties. </b></p><br><br><p>Delighted to present our brand new project "EMAAR INDIA", in Sector 77, National Highway 8, Gurugram.</p> <br><br>
  
-The architectural marvels stand G+24 floors high, on one of the best access (National Highway, Nearing Completion 60 Mtr Wide Sector Road, Under Active Construction Northern Peripheral Road) and comes with never before value propositions. <br><br>
-<h3><i class="far fa-building"></i> Features & Amenities</h3>
+<p>The architectural marvels stand G+24 floors high, on one of the best access (National Highway, Nearing Completion 60 Mtr Wide Sector Road, Under Active Construction Northern Peripheral Road) and comes with never before value propositions.</p> <br><br>
+<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
  
-"LUXURIOUS AMENITIES"<br><br>
+<h4 class="h4amenties">"LUXURIOUS AMENITIES"</h4><br><br>
  
-Multi- Facility Grand Clubhouse, <br>Fully Equipped Gym, <br>Steam and Sauna Rooms, Creche, Play Room, Kids Pool, Part Terrace Garden, Category defining L Shaped Swimming Pool, Large Central Garden's, Covered Car Parking Usage, Play Courts (Tennis, Badminton and Basket Ball), High Grade Finished Tower Lobby.<br><br>
+<p>Multi- Facility Grand Clubhouse, <br>Fully Equipped Gym, <br>Steam and Sauna Rooms, Creche, Play Room, Kids Pool, Part Terrace Garden, Category defining L Shaped Swimming Pool, Large Central Garden's, Covered Car Parking Usage, Play Courts (Tennis, Badminton and Basket Ball), High Grade Finished Tower Lobby.</p><br><br>
  
-"LUXURIOUS FEATURES" <br><br>
+<h4 class="h4amenties">"LUXURIOUS FEATURES"</h4> <br><br>
  
-5 Split Air Conditioners, Integrated Modular Kitchen with Chimney, Hob and Kitchen Geyser, Vitrified Tiled Flooring with Marble Finish, Laminated Wooden Flooring In all Bedrooms, Shower Cubicle in Master Bathroom, Premium CP and Sanitary Fittings, Power Back Up, Modular Switches to bring all modern day comfort in your busy lives. 
+<p>5 Split Air Conditioners, Integrated Modular Kitchen with Chimney, Hob and Kitchen Geyser, Vitrified Tiled Flooring with Marble Finish, Laminated Wooden Flooring In all Bedrooms, Shower Cubicle in Master Bathroom, Premium CP and Sanitary Fittings, Power Back Up, Modular Switches to bring all modern day comfort in your busy lives.</p> 
 				</div>
 			</div>
 						<div class="clearfix"></div>
 						
-						<div class="col-lg-8 col-md-6 col-sm-12">
+						<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				
 				<div>
 					<p><br></p> 

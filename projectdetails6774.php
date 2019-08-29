@@ -88,7 +88,7 @@
 <article class="bc">
 	<div class="container">
     	<div class="row">
-        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="project-width">
             	<ul class="bc-ul">
                 	<li><a href="#">You Are Here  <i class="fa fa-caret-right" aria-hidden="true"></i> </a> </li>
                     <li><a href="index.php">Home</a></li>
@@ -108,18 +108,18 @@
         <div class="row">            
             <div class="clearfix"></div>
             <div class="details-header">
-				<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="col-lg-12 col-md-12 col-sm-12" id="project-width">
 					<h2 class="">M3M Urbana Business Park</h2>
 					<div class="margin20" ></div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
                     <div class="details">
                         <div class="details center-block">
 							<img src="list/M3M-Urbana-Business-Park/logo-urbana-business-park.gif" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
 				</div>				
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
@@ -132,7 +132,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- Retail Shops, Commercial Spaces</p>                    
+								<p class=""><i class="fa fa-building-o"></i> Unit Type:- Retail Shops, Commercial Spaces</p>                    
 							</div>                        
 						</div>
 					</div>
@@ -143,7 +143,7 @@
 							</div>                        
 						</div>
 					</div>
-					<div class="col-lg-3 col-md-6 col-sm-12">
+					<div class="col-lg-3 col-md-6 col-sm-12" >
 						<div class="details">
 							<div class="details center-block ">    	
 								<p class=""><i class="fa fa-cubes" aria-hidden="true"></i> Possession:- Dec 2020 Expected</p>                       
@@ -162,13 +162,13 @@
 				<div class="col-lg-12" style="margin-bottom: 18px;">
 					
 				</div>
-                <div class="col-lg-8 col-md-8 col-sm-12">
+                <div class="col-lg-8 col-md-8 col-sm-12" id="project-width">
                     <div class="details">
                         <img src="images/Urbaana Park.jpg" class="project-banner" alt="M3M Urbana Business Park" width="100%"  />
                         
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
+                <div class="col-lg-4 col-md-4 col-sm-12" id="project-width" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
                     <h3>For more query fill this form</h3>
 						<div class="margin10"></div>
 						<form class="forms" action="#" method="post">
@@ -189,7 +189,7 @@
 			<div class="clearfix"></div>
             <hr />
 		<div class="p-details">
-			<div class="col-lg-8 col-md-6 col-sm-12">
+			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>M3M Urbana Business Park Overview</h3>
 				<div>
 				   <p>M3M Urbana Business Park has a trail of facilities to contain the needs of the modern
@@ -205,8 +205,8 @@ hotels as well as hospitals and malls within a 2 km radius and good connectivity
 the major micro markets of Gurugram.</p> 
 				</div>
 			</div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="fas fa-map-marker"></i> Location Map</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-map-marker"></i> Location Map</h3>
 				<div>
 					<img src="list/M3M-Urbana-Business-Park/urbana-premiumlocation-map.jpg" class="site-plan" alt="" />
 					
@@ -215,15 +215,15 @@ the major micro markets of Gurugram.</p>
 				</div>
 			</div>
 						<div class="clearfix"></div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Site Plan</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Site Plan</h3>
 				<div>
 					<img src="list/M3M-Urbana-Business-Park/sitemap.jpg" class="site-plan" alt="" />
 				</div>
 			</div>
 						
-						<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Features & Amenities</h3>
+						<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
 				<div>
 					<h3>M3M Urbana Business Park Details</h3>
 <ul>

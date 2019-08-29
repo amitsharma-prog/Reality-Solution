@@ -87,7 +87,7 @@
 <article class="bc">
 	<div class="container">
     	<div class="row">
-        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="project-width">
             	<ul class="bc-ul">
                 	<li><a href="#">You Are Here  <i class="fa fa-caret-right" aria-hidden="true"></i> </a> </li>
                     <li><a href="index.php">Home</a></li>
@@ -107,18 +107,18 @@
         <div class="row">            
             <div class="clearfix"></div>
             <div class="details-header">
-				<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="col-lg-12 col-md-12 col-sm-12" id="project-width">
 					<h2 class="">Emaar Digital Greens</h2>
 					<div class="margin20" ></div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
                     <div class="details">
                         <div class="details center-block">
 							<img src="list/emaar-digital-greens/digital-greena.png" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
 				</div>				
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
@@ -131,7 +131,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- Officespace, Shop / On Request</p>                    
+								<p class=""><i class="fa fa-building-o"></i> Unit Type:- Officespace, Shop / On Request</p>                    
 							</div>                        
 						</div>
 					</div>
@@ -161,13 +161,13 @@
 				<div class="col-lg-12" style="margin-bottom: 18px;">
 					
 				</div>
-                <div class="col-lg-8 col-md-8 col-sm-12">
+                <div class="col-lg-8 col-md-8 col-sm-12" id="project-width">
                     <div class="details">
                         <img src="images/emaar digital green.jpg" class="project-banner" alt="Emaar Digital Greens" width="100%"  />
                         
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
+                <div class="col-lg-4 col-md-4 col-sm-12" id="project-width" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
                     <h3>For more query fill this form</h3>
 					<div class="margin10"></div>
 										<form class="forms" action="#" method="post">
@@ -186,7 +186,7 @@
 			<div class="clearfix"></div>
             <hr />
 		<div class="p-details">
-			<div class="col-lg-8 col-md-6 col-sm-12">
+			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>Emaar Digital Greens Overview</h3>
 				<div>
 				   <p>A master plan design that is progressive, robust and timeless. It has a semi-public spine running
@@ -200,8 +200,8 @@ station.The nearest metro station from this project is Sector 55-56.Digital Gree
 access to nearby Hospitals,Schools,Malls within a radius of 1.5 Km.</p> 
 				</div>
 			</div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="fas fa-map-marker"></i> Location Map</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-map-marker"></i> Location Map</h3>
 				<div>
 					<img src="list/emaar-digital-greens/digital_green_location_map_big.jpg" class="site-plan" alt="" />
 					
@@ -210,15 +210,15 @@ access to nearby Hospitals,Schools,Malls within a radius of 1.5 Km.</p>
 				</div>
 			</div>
 						<div class="clearfix"></div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Site Plan</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Site Plan</h3>
 				<div>
 					<img src="list/emaar-digital-greens/emaar-mgf-commerce-park-master-plan-page-001.jpg" class="site-plan" alt="" />
 				</div>
 			</div>
 						
-						<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Features & Amenities</h3>
+						<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
 				<div>
 					<ul>
 	<li>An environemt with cutting edge technology</li>

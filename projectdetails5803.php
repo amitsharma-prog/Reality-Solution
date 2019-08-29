@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <head>
 <title>Realty Solutions | Real Estate Agency | Property Dealers in Gurugram</title>
@@ -87,7 +88,7 @@
 <article class="bc">
 	<div class="container">
     	<div class="row">
-        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="project-width">
             	<ul class="bc-ul">
                 	<li><a href="#">You Are Here  <i class="fa fa-caret-right" aria-hidden="true"></i> </a> </li>
                     <li><a href="index.php">Home</a></li>
@@ -107,18 +108,18 @@
         <div class="row">            
             <div class="clearfix"></div>
             <div class="details-header">
-				<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="col-lg-12 col-md-12 col-sm-12" id="project-width">
 					<h2 class="">EMINENCE KIMBERLY SUITES</h2>
 					<div class="margin20" ></div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
                     <div class="details">
                         <div class="details center-block">
 							<img src="images/kimberly-suites-logo.png" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
 				</div>				
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
@@ -131,7 +132,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- excellent space management</p>                    
+								<p class=""><i class="fa fa-building-o"></i> Unit Type:- excellent space management</p>                    
 							</div>                        
 						</div>
 					</div>
@@ -161,13 +162,13 @@
 				<div class="col-lg-12" style="margin-bottom: 18px;">
 					
 				</div>
-                <div class="col-lg-8 col-md-8 col-sm-12">
+                <div class="col-lg-8 col-md-8 col-sm-12" id="project-width">
                     <div class="details">
                         <img src="images/541936ade2e13Eminence Kimberly Suites-3.jpeg" class="project-banner" alt="KIMBERLY SUITES" width="100%"  />
                         
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
+                <div class="col-lg-4 col-md-4 col-sm-12" id="project-width" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
                     <h3>For more query fill this form</h3>
 					<div class="margin10"></div>
 										<form class="forms" action="#" method="post">
@@ -186,14 +187,14 @@
 			<div class="clearfix"></div>
             <hr />
 		<div class="p-details">
-			<div class="col-lg-8 col-md-6 col-sm-12">
+			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>KIMBERLEY SUITES | Overview</h3>
 				<div>
 				   <p>Eminence Group was founded by people who have been pioneers in the real estate industry for over 25 years. The foundation of the group was laid in 1987 when our promoters entered the real estate and construction sector. The vast experience and expertise of our people and the deep comprehension of the client's needs brings indispensable and valuable wisdom to the group and this is what makes us fit to survive in today's challenging market. We are dedicated to building not just grand structures, but a great repertoire of work too. Which is why, at Eminence, we strictly adhere to the highest quality standards in everything we do.</p><p>Our motto of Strength, Stability & Solidarity serves as a testament in all spheres of our business. By integrating all features of our motto, we aim to live to our name 'Eminence' by making our projects and our company reach the greatest of the heights. We not only seek to build stable and solid structures but our ambition is to also implement the concept of strength, stability, and solidarity in the relationship that we share with our clients. Delivering exactly what our clients want in the time they </p> 
 				</div>
 			</div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="fas fa-map-marker"></i> Location Map</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-map-marker"></i> Location Map</h3>
 				<div>
 					<img src="images/location-map-kimbrlty.jpg" class="site-plan" alt="" />
 					
@@ -202,8 +203,8 @@
 				</div>
 			</div>
 						<div class="clearfix"></div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Site Plan</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Site Plan</h3>
 				<div>
 					<img src="images/kimberly suites_siteplan.jpg" class="site-plan" alt="" />
 				</div>

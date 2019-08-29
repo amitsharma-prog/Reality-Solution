@@ -11,6 +11,7 @@
 <meta property="og:url" content="index.html" />
 
 <link rel="shortcut icon" type="image" href="http://realtysolutions.in/images/Reality Solution Logo.png"  />
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"  />
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"  />
 <link rel="stylesheet" type="text/css" href="css/mainres.css">

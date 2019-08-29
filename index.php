@@ -35,7 +35,7 @@
 	<article id="home-map">
     	<div class="container">
             <div class="row">
-                     <div class="col-lg-12 col-md-12 col-sm-12">
+                     <div class="col-lg-12 col-md-12 col-sm-12" id="text-aline-center">
                         <div class="margin20"></div>
                         <h1 class="title text-center"> Explore Latest Commercial Projects</h1>
                         <div class="margin10"></div>
@@ -156,7 +156,7 @@
    <article class="article-bg" style="padding: 25px 0px 35px;">
     	<div class="container">
             <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="col-lg-12 col-md-12 col-sm-12" id="text-aline-center2">
                  	<div class="margin20"></div>
                 	<h1 class="title text-center"> Explore Latest Residential Projects</h1>
                     <div class="margin10"></div>
@@ -423,7 +423,7 @@
     	<div class="container">
             <div class="row">                
                 <div class="clearfix"></div>
-                <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="col-lg-12 col-md-12 col-sm-12" id="text-aline-center3">
                  	<div class="margin20"></div>
                 	<h1 class="title text-center"> Why <span>Reality Solution ?</span> </h1>
                     <div class="margin10"></div>
@@ -499,7 +499,7 @@
     	<div class="container">
             <div class="row">
                 <div class="clearfix"></div>
-                <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="col-lg-12 col-md-12 col-sm-12" id="text-aline-center4">
                 	<div class="margin20"></div>
                 	<h1 class="title text-center"> Explore Projects</h1>
                     <div class="margin10"></div>

@@ -12,7 +12,7 @@
     <article class="bc" style="    margin-bottom: 0px;">
 	<div class="container">
     	<div class="row">
-        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="project-width">
             	<ul class="bc-ul">
                 	<li><a href="#">You Are Here  <i class="fa fa-caret-right" aria-hidden="true"></i> </a> </li>
                     <li><a href="index.php">Home</a></li>
@@ -29,8 +29,8 @@
     	
    
 <div class=" container ">
-<div class="col-lg-12 col-md-12 col-sm-12 t">
-	<div class="col-lg-4 col-md-12 col-sm-12 ">
+<div class="col-lg-12 col-md-12 col-sm-12 t" id="project-width">
+	<div class="col-lg-4 col-md-12 col-sm-12 " id="project-width">
      	
     	<h4 class="head"><button class="sc glyphicon glyphicon-home"></button><span class="heads">ADRESSS</span></h4> 
        
@@ -40,7 +40,7 @@
     	
     	
     </div>
-    <div class="col-lg-4 col-md-12 col-sm-12 ">
+    <div class="col-lg-4 col-md-12 col-sm-12 " id="project-width">
    
     	 <h4 class="head"><button class="sc1 glyphicon glyphicon-earphone"></button>CALL US</h4> 
                                
@@ -49,7 +49,7 @@
     	
     	
     </div>
-    <div class="col-lg-4 col-md-12 col-sm-12 ">
+    <div class="col-lg-4 col-md-12 col-sm-12 " id="project-width">
     	<h4 class="head"><button class="sc2 glyphicon glyphicon-pencil"></button>WRITE US</h4>  
                               
            
@@ -58,7 +58,7 @@
   </div> 
  </div>
     <div class="container  ">    
-    	<div class="col-lg-12 col-md-12 col-sm-12 gap  ">
+    	<div class="col-lg-12 col-md-12 col-sm-12 gap  " id="project-width">
         	<h3 class="heading-main">Something to say? Get in Touch!</h3>
             <p>Looking for business space or home? Simply provide some general requirements and we'll get right back to you. No risk, no obligation, just expert advice.</p>
         	<form class="forms" action="#" method="post" >

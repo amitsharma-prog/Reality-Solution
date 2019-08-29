@@ -86,7 +86,7 @@
 <article class="bc">
 	<div class="container">
     	<div class="row">
-        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12" id="project-width">
             	<ul class="bc-ul">
                 	<li><a href="#">You Are Here  <i class="fa fa-caret-right" aria-hidden="true"></i> </a> </li>
                     <li><a href="index.php">Home</a></li>
@@ -106,18 +106,18 @@
         <div class="row">            
             <div class="clearfix"></div>
             <div class="details-header">
-				<div class="col-lg-12 col-md-12 col-sm-12">
+				<div class="col-lg-12 col-md-12 col-sm-12" id="project-width">
 					<h2 class="">Gurgaon One ALPHA</h2>
 					<div class="margin20" ></div>
 				</div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
                     <div class="details">
                         <div class="details center-block">
 							<img src="images/alpha.png" class="project-logo " style="max-width: 200px;"  alt="" />          
 						</div>                        
                     </div>
                 </div>
-				<div class="col-lg-4 col-md-4 col-sm-12">
+				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
 				</div>				
 				<div class="col-lg-4 col-md-4 col-sm-12">
                     <div class="details">
@@ -130,7 +130,7 @@
 					<div class="col-lg-3 col-md-6 col-sm-12">
 						<div class="details">
 							<div class="details center-block ">    	
-								<p class=""><i class="far fa-building"></i> Unit Type:- 2BHK/3BHK/4BHK apartments</p>                    
+								<p class=""><i class="fa fa-building-o"></i> Unit Type:- 2BHK/3BHK/4BHK apartments</p>                    
 							</div>                        
 						</div>
 					</div>
@@ -160,13 +160,13 @@
 				<div class="col-lg-12" style="margin-bottom: 18px;">
 					
 				</div>
-                <div class="col-lg-8 col-md-8 col-sm-12">
+                <div class="col-lg-8 col-md-8 col-sm-12" id="project-width">
                     <div class="details">
                         <img src="images/alphahomes.jpg" class="project-banner" alt="AIPL Club Residences" width="100%"  />
                         
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-12" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
+                <div class="col-lg-4 col-md-4 col-sm-12" id="project-width" style="background-color: #e8e8e8;padding: 20px 15px;border-radius: 3px;">
                     <h3>For more query fill this form</h3>
 					<div class="margin10"></div>
 										<form class="forms" action="#" method="post">
@@ -185,15 +185,15 @@
 			<div class="clearfix"></div>
             <hr />
 		<div class="p-details">
-			<div class="col-lg-8 col-md-6 col-sm-12">
+			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>Gurgaon One ALPHA</h3>
 				<div>
 				   <p>AlphaCorp GurgaonOne Sector 84 stands apart as one of the best residential projects, with smart apartments for sale in Gurgaon and surrounding areas, with more than 90 percent open and green space, a host of sporting and recreational facilities. The sale of GurgaonOne Sector 84’s luxurious residential apartments in Gurgaon – ready to move 2BHK, 3BHK and 4BHK apartments.</p> 
 				   <p>Designed by ARCOP, leading architects of Montreal, Canada, the project will feature zonal greens, three-sided open apartments for sale in Gurgaon, sustainable energy and water conservation, complete waste management, a recreational club with excellent social and health facilities, and safe pedestrian walkways. Other facilities for the physically-challenged include a professional facility management team is also provided to ensure a strong sense of security, hygiene and belonging among the residents within this new residential project by Alpha Corp.</p>
 				</div>
 			</div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="fas fa-map-marker"></i> Location Map</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-map-marker"></i> Location Map</h3>
 				<div>
 					<img src="images/alphalocation.png" class="site-plan" alt="" />
 					
@@ -202,15 +202,15 @@
 				</div>
 			</div>
 						<div class="clearfix"></div>
-						<div class="col-lg-4 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Site Plan</h3>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Site Plan</h3>
 				<div>
 					<img src="images/alphasiteplanesector84.png" class="site-plan" alt="" />
 				</div>
 			</div>
 						
-						<div class="col-lg-8 col-md-6 col-sm-12">
-				<h3><i class="far fa-building"></i> Features & Amenities</h3>
+						<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
 				<div>
 					<ul style="box-sizing: border-box; border-radius: 0px; margin-top: 0px; margin-bottom: 10px; color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial;">
   <li><p>GurgaonOne Sector 84’s luxurious residential apartments in Gurgaon.</p></li>
