@@ -193,9 +193,9 @@
 Delighted to present our brand new project "EMAAR INDIA", in Sector 77, National Highway 8, Gurugram.
 The architectural marvels stand G+24 floors high, on one of the best access (National Highway, Nearing Completion 60m Wide Sector Road, Under Active Construction Northern Peripheral Road) and come with never before value propositions.
 </p><br><br>
-<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
+<h3><i class="fa fa-building-o"></i> Features & Amenities</h3><br>
  
-<h4 class="h4amenties">"LUXURIOUS AMENITIES</h4><br><br>
+<h4 class="h4amenties">"LUXURIOUS AMENITIES"</h4><br><br>
  
 <p>Multi-Facility Grand Clubhouse,<br>Fully Equipped Gym,<br>Steam and Sauna Rooms, Crèche, Play Room, Kids Pool, Part Terrace Garden, Category defining L Shaped Swimming Pool, Large Central Garden's, Covered Car Parking Usage, Play Courts (Tennis, Badminton and Basket Ball), High-Grade Finished Tower Lobby.</p><br><br>
  

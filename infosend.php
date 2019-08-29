@@ -16,15 +16,15 @@ function sendMailToMe() {
     // $mail->SMTPDebug = 2; 
     $mail = new PHPMailer(true);                          // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
-    $mail->Host = 'mail.realitysolution.in';  // Specify main and backup SMTP servers
+    $mail->Host = 'mail.realtysolutions.in';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = '_mainaccount@realitysolution.in';                 // SMTP username
+    $mail->Username = '_mainaccount@realtysolutions.in';                 // SMTP username
     $mail->Password = 'LL)v7pf23N-gN3';                           // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 465;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('_mainaccount@realitysolution.in');
+    $mail->setFrom('_mainaccount@realtysolutions.in');
     $mail->addAddress('amitsharma18543@gmail.com');     // Add a recipient
     // $mail->addAddress('crassociates56@gmail.com', 'Contact us - C.R. Associates');     // Add a recipient
     // $mail->addAddress('aayush.jaiswal984@gmail.com');               // Name is optional
@@ -62,15 +62,15 @@ try {
     //Server settings
     // $mail->SMTPDebug = 2;                                 // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
-    $mail->Host = 'mail.realitysolution.in';  // Specify main and backup SMTP servers
+    $mail->Host = 'mail.realtysolutions.in';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = '_mainaccount@realitysolution.in';                 // SMTP username
+    $mail->Username = '_mainaccount@realtysolutions.in';                 // SMTP username
     $mail->Password = 'LL)v7pf23N-gN3';                           // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 465;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('_mainaccount@realitysolution.in');
+    $mail->setFrom('_mainaccount@realtysolutions.in');
     $mail->addAddress($_POST['Email'], $_POST['FullName']);     // Add a recipient
     // $mail->addAddress('aayush.jaiswal984@gmail.com');               // Name is optional
     // $mail->addReplyTo('crassociates56@gmail.com', 'Replay');

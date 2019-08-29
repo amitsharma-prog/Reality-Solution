@@ -195,7 +195,7 @@
 						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
 				<h3><i class="fa fa-map-marker"></i> Location Map</h3>
 				<div>
-					<img src="images/alphalocation.png" class="site-plan" alt="" />
+					<img src="images/alphalocation.jpg" class="site-plan" alt="" />
 					
 					<!--<h3 class="heading-main">Find Us on Google Map</h3>
 					 -->
