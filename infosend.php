@@ -8,7 +8,7 @@ use PHPMailer\PHPMailer\Exception;
 require 'autoload.php';
 
 if (sendMailToUser() == true AND sendMailToMe() == true) {
-    echo 'Message send successfull';
+    // echo 'Message send successfull';
 } 
 function sendMailToMe() {
     try {  

@@ -92,7 +92,7 @@
         <div class="col-lg-4 col-md-4 col-sm-12">
             <div class="home-block">
                 <a href="projectdetails5803.php?projectname=EMINENCE KIMBERLY SUITES" ><img src="images/541936ade2e13Eminence Kimberly Suites-3.jpeg" alt="Elan Epic" style="height:242px;"  /></a>
-                <h2 class="text-center">EMINENCE KIMBERLY SUITES</h2>
+                <h2 class="text-center">Eminence Kimberly Suites</h2>
                 <div style="min-height: 170px;">
                     <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- excellent space management</p>                      
                     <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 601 sqft - 795 sqft.</p>

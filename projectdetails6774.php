@@ -254,7 +254,7 @@ the major micro markets of Gurugram.</p>
     <li>30% Savings On Energy Costs</li>
     <li>Increase Natural Light &amp; Improved Air Quality</li>
     <li>Use Of Recycled And Recyclable Materials</li>
-    <li>Major International Companies Have Directives To Be In Green Buildings Its Prudent.</li>
+    <li>Major International Companies Have Directives To Be In Green Buildings It's Prudent.</li>
  </ul> 
 				</div>
 			</div>
@@ -264,34 +264,43 @@ the major micro markets of Gurugram.</p>
     </div>
 </article>  
  <script src="jquery.min.js"></script>
-				<script type="text/javascript">
-					$(document).ready(function(){
-						$("#submit").click(function(){
-						  event.preventDefault();
-						  if ($("#FullName").val() == "" || $("#Email").val() == "" || $("#Mobile").val() == "" || $("#ProjectName").val() == "" || $("#Message").val() == ""){
-						  } else { 
-						    var ac = "FullName=" + $("#FullName").val() + "&Email=" + $("#Email").val()  + "&Mobile=" + $("#Mobile").val()  + "&ProjectName=" + $("#ProjectName").val() + "&Message=" + $("#Message").val();
-						    $.ajax({
-						      type: "post",
-						      url: "infosend.php",
-						      dataType: "text",
-						      data: ac,
-						      beforeSend: function() {
-						        // $("#msg").html("please wait!");
-						        // $("#msg").html("");
-						        alert("please With")
-						      },
-						      success: function(data) {
-						        // $("#msg").html(data);
-						        alert("inset")
+ <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$("#submit").click(function(){
+			event.preventDefault();
+			
+			if ($("#FullName").val() == "" || $("#Email").val() == "" || $("#Mobile").val() == "" || $("#ProjectName").val() == "" || $("#Message").val() == "") { 
+			} else { 
+				var ac = "FullName=" + $("#FullName").val() + "&Email=" + $("#Email").val() + "&Mobile=" + $("#Mobile").val()  + "&ProjectName=" + $("#ProjectName").val() + "&Message=" + $("#Message").val();
+				$.ajax({
+					type: "post",
+					url: "infosend.php",
+					dataType: "text",
+					data: ac,
+					beforeSend: function() {
+						$("#submit").val("Please Wait...");
+                        $("#submit").attr("disabled", true);
+					},
+					success: function(data) {
+						popUp();
+                        // $("#msg").html(data);
+                        $("#send").val("Submit");
+                        $("#send").attr("disabled", false);
 
-						      },
-						    });
-						  }
-						});
-					});
-				</script>
-            </div> 
+					},
+				});
+			}
+		});
+	});
+</script>
+<script>
+    function popUp(){
+        swal("Good job!", "Mail send successfuly!", "success")
+        .then((value) => {
+        $("form.forms").trigger("reset");
+    });
+}
 <?php require_once 'include/footer.php'; ?>
 </body>
 </html>

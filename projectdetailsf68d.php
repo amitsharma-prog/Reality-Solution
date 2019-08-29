@@ -189,35 +189,32 @@
 			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>Shapoorji Pallonji Joyville Overview</h3>
 				<div>
-				   <p><b>Lowest Rate Guaranteed <br>
-                                 
-Let us help you to find best in gurgaon residential and commercial properties. </b></p><br><br><p>Joyville Gurgaon Sector 102
-Here, you'll find a lifestyle whose every side holds genuine luxury. Be it the perfect design and planning or the outstanding specifications that add desirable taste in your day to day life or the one of the best location on Dwarka Expressway. Everything at here makes to give you genuine luxury and comfort.</p>
+				   <p><b>Lowest rate guaranteed<br> Let us help you to find the best in Gurgaon residential and commercial properties.</b></p><br><br><p>Joyville Gurgaon Sector 102 Here, you'll find a lifestyle whose every side holds genuine luxury. Be it the perfect design and planning or the outstanding specifications that add desirable taste in your day to day life or the one of the best location on Dwarka Expressway. Everything at here makes to give you genuine luxury and comfort.</p>
 
-<p>An ideal confluence of evolved best structural design and modern engineering, Joyville Gurgaon by Shapoorji Pallonji is a standard for the modern design and construction. With the overwhelming beauty of the surrounding and green landscape inside the development, this hi-rise towers project has been designed keeping your every small & big requirement in mind. With the intention that, you get a contemporary lifestyle balanced by a peaceful, energizing living ambiance.</p>
+<p>An ideal confluence of evolved best structural design and modern engineering, Joyville Gurgaon by Shapoorji Pallonji is a standard for the modern design and construction. With the overwhelming beauty of the surrounding and green landscape inside the development, this hi-rise towers project has been designed keeping your every small & big requirement in mind. With the intention that, you get a contemporary lifestyle balanced by a peaceful, energizing living ambience.</p>
 
-<p>Every 2, 2.5 and 3 Bedroom Apartment in Joyville Gurgaon is a wonder of design, enhancement, and harmony. Open enough to create any grandest plan or for your future planning, well planned & beautiful enough to make you satisfy and happy, safe & secure enough to make you tension free while you are out of the town.</p>
+<p>Every 2, 2.5 and 3 Bedroom Apartment in Joyville Gurgaon is a wonder of design, enhancement, and harmony. Open enough to create any grandest plan or for your future planning, well planned & beautiful enough to make you satisfy and happy, safe & secure enough to make you tension free while you are out of the town.
+Every Joyville Gurgaon Sector 102 apartment is an achievement in real estate. Take a stroll around these flats and discover a peaceful living experience in every nook and corner.
+</p>
 
-<p>Every Joyville Gurgaon Sector 102 apartment is an achievement in real estate. Take a stroll around these flats and discover a peaceful living experience in every nook and corner.</p>
+<p>Joyville Gurgaon for an Unbeatable Lifestyle to Live more with your Family
+Shapoorji Pallonji Joyville Gurgaon is beautifully crafted in 18 acres of area to hold immense greenery, ultra-luxury modern facilities to spur the standard of living, high-security system to keep every family secure, nicely planned apartments to get the maximum space and many more perks are added to Shapoorji Pallonji Joyville to make it worth its weight in gold.
+</p>
 
-<p>Joyville Gurgaon for an Unbeatable Llifestyle to Live more with your Family</p>
-
-<p>Shapoorji Pallonji Joyville Gurgaon is beautifully crafted in 18 acres of area to hold immense greenery, ultra luxury modern facilities to spur the standard of living, high security system to keep every family secure, nicely planned apartments to get the maximum space and many more perks are added to Shapoorji Pallonji Joyville to make it worth its weight in gold.</p>
-
-<p>In addition to this, it has a total of 500 units here it is going to capture all likeminded families to celebrate every day like never before. Come here to craft your family's life because this Joyville sector 102, Gurgaon (know called as Gurugram) is ready to serve your more.</p><br><ul>
+<p>In addition to this, it has a total of 500 units here it is going to capture all likeminded families to celebrate every day like never before. Come here to craft your family's life because this Joyville sector 102, Gurgaon (now called as Gurugram) is ready to serve your more.</p><br><ul>
 <li>Branded C.P. fittings</li>
 <li>Branded electrical switches</li>
-<li>Wide open balcony</li>
-<li>Fresh Air &amp; Day light in every room</li>
+<li>Wide-open balcony</li>
+<li>Fresh Air & Daylight in every room</li>
 <li>Landscaped Garden on Podium</li>
 <li>Entrance Lobby with High Ceiling</li>
 <li>CCTV in Select Common Areas</li>
 <li>Swimming Pool</li>
 <li>Gymnasium</li>
-<li>High Speed Elevators</li>
+<li>High-Speed Elevators</li>
 <li>Back-up Generator for Emergency Power</li>
-<li>Each apartment will have private courtyard</li>
-<li>Open space on terrace along with relaxation area</li>
+<li>Each apartment will have a private courtyard</li>
+<li>Open space on the terrace along with relaxation area</li>
 </ul>
  
 				</div>
@@ -242,7 +239,7 @@ Here, you'll find a lifestyle whose every side holds genuine luxury. Be it the p
 						<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
 				<div>
-					<ul>   <li> NO. 1 CONSTRUCTION AND INFRASTRUCTURE COMPANY IN INDIA - 150+ Years of Legacy </li>   <li> LATEST CONSTRUCTION TECHNOLOGY - No Outsourcing of Construction </li>   <li> LUXURY@ AFFORDABLE PRICES </li>   <li> EFFICIENT FLOOR PLANS - Compact 2/3BHK Luxurious Homes </li>   <li> 75% OPEN AREA - with 4 acre Central Greens </li>   <li> EXTENSIVE THEMED HORTICULTURE - AllSeason Parks, Pocket Parks/Themed Parks </li>   <li> 60,000 SQ.FT OF AMENITIES-ACTIVITY AREAS </li>   <li> 25,000 SQ.FT CLUB - Largest for any Compact Housing in NCR with Gym, Sauna, Swimming &amp; Splash Pools </li>   <li> Dining Areas, Squash Court, Indoor Games, Mini Theatre etc. </li>   <li> Joint Community Areas at Entrance </li>   <li> Air-Conditioned Entrance Plaza and Lobbies, Split A/Cs in all rooms </li>   <li> Sports facilities - Lawn Tennis, Squash, Basketball Badminton, 1km Long Jogging Track, Indoor games and Kids Play areas </li>   <li> Laminated Wooden Flooring in master Bedrooms&amp; Premium Vitrified Tiles in Others. </li>   <li> High-end Branded Sanitary/Ceramic/CP fittings in washrooms.. </li>   <li> Dedicated Car&nbsp;Parking, High Speed elevators. </li>   <li> Gated Community,24X7 Security &amp; Power Backup </li>   <li> Convenience Shops </li>   <li> Nursery School </li> </ul> 
+					<ul>   <li> NO. 1 CONSTRUCTION AND INFRASTRUCTURE COMPANY IN INDIA - 150+ Years of Legacy</li>   <li> LATEST CONSTRUCTION TECHNOLOGY - No Outsourcing of Construction </li>   <li> LUXURY@ AFFORDABLE PRICES </li>   <li> EFFICIENT FLOOR PLANS - Compact 2/3BHK Luxurious Homes</li>   <li> 75% OPEN AREA - with 4 acre Central Greens </li>   <li> EXTENSIVE THEMED HORTICULTURE - All Season Parks, Pocket Parks/Themed Parks</li>   <li> 60,000 SQ.FT OF AMENITIES-ACTIVITY AREAS</li>   <li> 25,000 SQ.FT CLUB - Largest for any Compact Housing in NCR with Gym, Sauna, Swimming & Splash Pools</li>   <li> Dining Areas, Squash Court, Indoor Games, Mini Theatre etc. </li>   <li> Joint Community Areas at Entrance </li>   <li> Air-Conditioned Entrance Plaza and Lobbies, Split A/Cs among all rooms </li>   <li> Sports facilities - Lawn Tennis, Squash, Basketball Badminton, 1km Long Jogging Track, Indoor games and Kids Play areas</li>   <li> Laminated Wooden Flooring in master Bedrooms&amp; Premium Vitrified Tiles in Others. </li>   <li> High-end Branded Sanitary/Ceramic/CP fittings in washrooms.. </li>   <li> Dedicated Car&nbsp;Parking, High Speed elevators. </li>   <li> Gated Community,24X7 Security &amp; Power Backup </li>   <li> Convenience Shops </li>   <li> Nursery School </li> </ul> 
 				</div>
 			</div>
 			        </div>

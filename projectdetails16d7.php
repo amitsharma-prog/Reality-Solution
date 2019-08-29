@@ -214,7 +214,7 @@
 					<ul>
   <li><p>Assured Rental: Rs.124/-per sq.ft</p></li>
 
-  <li><p>The complex shall have the distinction of housing the tallest commercial building of Gurgaon;</p></li>
+  <li><p>The complex shall have the distinction of housing the tallest commercial building of Gurgaon.</p></li>
 
   <li><p>The Iconic Tower will be G+25 with floor plates of approximately 20000 sq.ft.</p></li>
 

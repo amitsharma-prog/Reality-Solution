@@ -189,15 +189,7 @@
 			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>Emaar Digital Greens Overview</h3>
 				<div>
-				   <p>A master plan design that is progressive, robust and timeless. It has a semi-public spine running
-through the centre. Business facilities, modern life safety and security features offer the user a
-comprehensive and fulfilling work-life experience. With architecture that introduces a contextual
-and international standard vocabulary for building design to the region, Digital Greens combines
-contemporary styling, excellent standards in materials, quality finish and technologically
-advanced infrastructure to offer an ideal place for a business to thrive.</p><p>This project is well constructed in Sector 61,Gurugram and a twenty-minute drive will take you
-to the Indira Gandhi International Airport with a direct connectivity from the nearest metro
-station.The nearest metro station from this project is Sector 55-56.Digital Greens offers easy
-access to nearby Hospitals,Schools,Malls within a radius of 1.5 Km.</p> 
+				   <p>A master plan design that is progressive, robust and timeless. It has a semi-public spine running through the center. Business facilities, modern life safety and security features offer the user a comprehensive and fulfilling work-life experience. With architecture that introduces a contextual and international standard vocabulary for building design to the region, Digital Greens combines contemporary styling, excellent standards in materials, quality finish and technologically advanced infrastructure to offer an ideal place for a business to thrive.</p><p>This project is well constructed in Sector 61, Gurugram and a twenty-minute drive will take you to the Indira Gandhi International Airport with direct connectivity from the nearest metro station. The nearest metro station from this project in Sector 55-56. Digital Greens offers easy access to nearby Hospitals, Schools, Malls within a radius of 1.5 Km.</p> 
 				</div>
 			</div>
 						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
@@ -221,7 +213,7 @@ access to nearby Hospitals,Schools,Malls within a radius of 1.5 Km.</p>
 				<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
 				<div>
 					<ul>
-	<li>An environemt with cutting edge technology</li>
+	<li>An environment with cutting edge technology</li>
 	<li>State of the art architecture and facilities</li>
 	<li>Equipped with modern life safety and security system</li>
 	<li>Integrated building management system</li>

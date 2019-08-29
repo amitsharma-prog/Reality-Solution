@@ -189,17 +189,7 @@
 			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>M3M Tee Point Overview</h3>
 				<div>
-				   <p>M3M India Pvt Limited never fails to impress with their flamboyant building style and chic
-commercial spaces. Another masterpiece from the group is M3M Tee Point.Located in Sector 65
-of fast growing Gurgaon.The project is well built in the area of 2 Acres.The ground and first
-floor of this project is commercial hub which will be dedicated to retail houses and entertainment
-arenas, while the second to tenth floors will comprise of plush offices.The Tee Point aims at
-becoming an integrated commercial hub, combining recreational and retail spaces with lavish
-commercial space.</p><p>To avoid the chaos that ensues usually in populated commercial areas, the Tee Point is designed
-with designated pick up and drop off points to streamline the vehicle movementThe Tee Point is
-surely a fine business centre. M3M Tee Point sits in a wonderful location on Golf Course
-Extension Road, just minutes away from proposed Metro Station Sector 55-56 and National
-Highway - 8, it provides one with an amazing location advantage.</p>
+				   <p>M3M India Pvt Limited never fails to impress with their flamboyant building style and chic commercial spaces. Another masterpiece from the group is M3M Tee Point. Located in Sector 65 of fast-growing Gurgaon. The project is well built in the area of 2 Acres. The ground and first floor of this project is a commercial hub which will be dedicated to retail houses and entertainment arenas, while the second to tenth floors will comprise of plush offices. The Tee Point aims at becoming an integrated commercial hub, combining recreational and retail spaces with lavish commercial space.</p><p>To avoid the chaos that ensues usually in populated commercial areas, the Tee Point is designed with designated pick up and drop off points to streamline the vehicle movement Tee Point is surely a fine business center. M3M Tee Point sits in a wonderful location on Golf Course Extension Road, just minutes away from proposed Metro Station Sector 55-56 and National Highway - 8, it provides one with an amazing location advantage.</p>
 				</div>
 			</div>
 						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
@@ -222,7 +212,7 @@ Highway - 8, it provides one with an amazing location advantage.</p>
 						<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
 				<div>
-					<h3>Location &amp; Connectivit</h3><ul><li><p>An environemt with cutting edge technology</p></li><li><p>State of the art architecture and facilities</p></li><li><p>Equipped with modern life safety and security system </p><li><p>Integrated building management system</p></li><li><p>Corporate and IT industry preferred choice</p>
+					<h3>Location &amp; Connectivity</h3><ul><li><p>An environment with cutting edge technology</p></li><li><p>State of the art architecture and facilities</p></li><li><p>Equipped with modern life safety and security system </p><li><p>Integrated building management system</p></li><li><p>Corporate and IT industry preferred choice</p>
 				</div>
 			</div>
 			        </div>

@@ -123,7 +123,7 @@ NRI&#39;s.</p>
             <h3 class="nrih3">Rental Income</h3>
 
             <p class="nri-para">NRI&#39;s can invest and earn rental income in India without any trouble.
-Though the 30 percent TDS (tax deducted at source) has to be
+Though the 30% TDS (tax deducted at source) has to be
 deducted by the tenant, the remaining amount can be repatriated under
 the Foreign Exchange Management Act rules.</p>
 
@@ -134,7 +134,7 @@ is still gearing up for this kind of system. NRI&#39;s that tend to plan their
 retirement can invest in India and take advantage of the reverse
 mortgage. The amount taken from the bank as a consequence of this
 type of mortgage is not factored in the taxable income of NRIs. This
-way, aging NRI&#39;s can enjoy the benefits of their property in India.</p>
+way, ageing NRI&#39;s can enjoy the benefits of their property in India.</p>
 
             <div >
 

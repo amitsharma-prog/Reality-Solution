@@ -189,20 +189,19 @@
 			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width"> 
 				<h3>Emaar India Overview</h3>
 				<div>
-				   <p><b>Lowest Rate Guaranteed <br>
-                                 
-Let us help you to find best in gurgaon residential and commercial properties. </b></p><br><br><p>Delighted to present our brand new project "EMAAR INDIA", in Sector 77, National Highway 8, Gurugram.</p> <br><br>
- 
-<p>The architectural marvels stand G+24 floors high, on one of the best access (National Highway, Nearing Completion 60 Mtr Wide Sector Road, Under Active Construction Northern Peripheral Road) and comes with never before value propositions.</p> <br><br>
+				   <p>Lowest rate guaranteed let us help you to find the best in Gurgaon residential and commercial properties.
+Delighted to present our brand new project "EMAAR INDIA", in Sector 77, National Highway 8, Gurugram.
+The architectural marvels stand G+24 floors high, on one of the best access (National Highway, Nearing Completion 60m Wide Sector Road, Under Active Construction Northern Peripheral Road) and come with never before value propositions.
+</p><br><br>
 <h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
  
-<h4 class="h4amenties">"LUXURIOUS AMENITIES"</h4><br><br>
+<h4 class="h4amenties">"LUXURIOUS AMENITIES</h4><br><br>
  
-<p>Multi- Facility Grand Clubhouse, <br>Fully Equipped Gym, <br>Steam and Sauna Rooms, Creche, Play Room, Kids Pool, Part Terrace Garden, Category defining L Shaped Swimming Pool, Large Central Garden's, Covered Car Parking Usage, Play Courts (Tennis, Badminton and Basket Ball), High Grade Finished Tower Lobby.</p><br><br>
+<p>Multi-Facility Grand Clubhouse,<br>Fully Equipped Gym,<br>Steam and Sauna Rooms, Crèche, Play Room, Kids Pool, Part Terrace Garden, Category defining L Shaped Swimming Pool, Large Central Garden's, Covered Car Parking Usage, Play Courts (Tennis, Badminton and Basket Ball), High-Grade Finished Tower Lobby.</p><br><br>
  
 <h4 class="h4amenties">"LUXURIOUS FEATURES"</h4> <br><br>
  
-<p>5 Split Air Conditioners, Integrated Modular Kitchen with Chimney, Hob and Kitchen Geyser, Vitrified Tiled Flooring with Marble Finish, Laminated Wooden Flooring In all Bedrooms, Shower Cubicle in Master Bathroom, Premium CP and Sanitary Fittings, Power Back Up, Modular Switches to bring all modern day comfort in your busy lives.</p> 
+<p>5 Split Air Conditioners, Integrated Modular Kitchen with Chimney, Hob and Kitchen Geyser, Vitrified Tiled Flooring with Marble Finish, Laminated Wooden Flooring In all Bedrooms, Shower Cubicle in Master Bathroom, Premium CP and Sanitary Fittings, Power Back Up, Modular Switches to bring all modern-day comfort in your busy lives.</p> 
 				</div>
 			</div>
 						<div class="clearfix"></div>

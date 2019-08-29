@@ -204,7 +204,7 @@
                                 
   <li><p>Stone Clad arcades connect all towers for hassle free pedestrian movement.</p></li>
                          
-  <li><p>Refreshing basement concept with exclusive drop off zones and light cut outs for ample sunlight and ventilation.</p></li>
+  <li><p>Refreshing basement concept with exclusive drop off zones and light cutouts for ample sunlight and ventilation.</p></li>
 </ul> 
 				</div>
 			</div>

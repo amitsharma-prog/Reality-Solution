@@ -189,7 +189,7 @@
 			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>Sobha International City Overview</h3>
 				<div>
-				   <p>International City in sector 109, Gurgaon, is one of the most popular projects by the fastest growing real estate development company Sobha Developers has made every possible effort to make International City a project that stands out from the rest in its neighborhood. Spread across 150 acres of area, International City. International City also offers a power backup provision to provide the uninterrupted power supply. Luxurious amenities such as children’s play area, clubhouse, terrace gymnasium, swimming pool etc. within the project area are quite an attention grabber, thus making it a wise investment option for people seeking luxurious and spacious homes!</p> 
+				   <p>International City in sector 109, Gurgaon, is one of the most popular projects by the fastest growing real estate development company Sobha Developers has made every possible effort to make International City a project that stands out from the rest in its neighbourhood. Spread across 150 acres of area, International City. International City also offers a power backup provision to provide the uninterrupted power supply. Luxurious amenities such as children’s play area, clubhouse, terrace gymnasium, swimming pool etc. within the project area are quite an attention grabber, thus making it a wise investment option for people seeking luxurious and spacious homes.</p> 
 				</div>
 			</div>
 						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
@@ -212,7 +212,7 @@
 						<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
 				<div>
-					<ul><li><p>Entry from 60 meter wide sector road</p></li><li><p>3 BHK &amp; 4 BHK</p></li><li><p>Limited Units</p></li><li><p>East facing units</p></li><li><p>Apartments facing Huge central green &amp; club house</p></li><li><p>75 % landscaped greens &amp; Open Space</p></li><li><p>24 x 7 x 365 gated security</p></li><li><p>Earthquake resistant buildings</p></li><li><p>Rain water Harvesting</p></li><li><p>VRV/VRF air units</p></li><li><p>Modular Kitchen</p></li></ul><!-- <p><span data-fr-verified="true">M3M Golf Estate residential apartment Gurgaon Project contains 3/4 bhk apartments starting from 2950 to 10000 square feet. Community is designed in such a manner that each apartment will get adequate sunlingh and fresh air.</span><br></p> --> 
+					<ul><li><p>Entry from 60-meter wide sector road</p></li><li><p>3 BHK & 4 BHK</p></li><li><p>Limited Units</p></li><li><p>East facing units</p></li><li><p>Apartments facing Huge central green & clubhouse</p></li><li><p>75 % landscaped greens & Open Space</p></li><li><p>24 x 7 x 365 gated security</p></li><li><p>Earthquake resistant buildings</p></li><li><p>	Rainwater Harvesting</p></li><li><p>VRV/VRF air units</p></li><li><p>	Modular Kitchen</p></li></ul><!-- <p><span data-fr-verified="true">M3M Golf Estate residential apartment Gurgaon Project contains 3/4 bhk apartments starting from 2950 to 10000 square feet. Community is designed in such a manner that each apartment will get adequate sunlingh and fresh air.</span><br></p> --> 
 				</div>
 			</div>
 			        </div>

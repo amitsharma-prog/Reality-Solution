@@ -188,7 +188,7 @@
 			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>Gurgaon One ALPHA</h3>
 				<div>
-				   <p>AlphaCorp GurgaonOne Sector 84 stands apart as one of the best residential projects, with smart apartments for sale in Gurgaon and surrounding areas, with more than 90 percent open and green space, a host of sporting and recreational facilities. The sale of GurgaonOne Sector 84’s luxurious residential apartments in Gurgaon – ready to move 2BHK, 3BHK and 4BHK apartments.</p> 
+				   <p>AlphaCorp GurgaonOne Sector 84 stands apart as one of the best residential projects, with smart apartments for sale in Gurgaon and surrounding areas, with more than 90% open and green space, a host of sporting and recreational facilities. The sale of GurgaonOne Sector 84’s luxurious residential apartments in Gurgaon – ready to move 2BHK, 3BHK and 4BHK apartments.</p> 
 				   <p>Designed by ARCOP, leading architects of Montreal, Canada, the project will feature zonal greens, three-sided open apartments for sale in Gurgaon, sustainable energy and water conservation, complete waste management, a recreational club with excellent social and health facilities, and safe pedestrian walkways. Other facilities for the physically-challenged include a professional facility management team is also provided to ensure a strong sense of security, hygiene and belonging among the residents within this new residential project by Alpha Corp.</p>
 				</div>
 			</div>
@@ -217,7 +217,7 @@
 
   <li><p>Designed by ARCOP, leading architects of Montreal, Canada.</p></li>
 
-  <li><p>90 percent open and green space.</p></li>
+  <li><p>90% open and green space.</p></li>
 
   <li><p>Facilities for the physically-challenged include a professional facility.</p></li>
 
