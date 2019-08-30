@@ -45,7 +45,7 @@
     	 <h4 class="head"><button class="sc1 glyphicon glyphicon-earphone"></button>CALL US</h4> 
                                
             
-            <p  class="c" >+91-9899891133, 9873092221, 8076952087</p>
+            <p  class="c" >+91 9899891133, 9873092221, 8076952087</p>
     	
     	
     </div>
