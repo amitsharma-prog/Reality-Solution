@@ -78,7 +78,7 @@
                     <ul>
           
                         <li style="display:inline-block"><a href="#" style="font-size: 16px;">gurgaon40@gmail.com</a></li>
-                        <li style="display:inline-block"><a href="tel:+919899891133" style="font-size: 16px;"> +91 9899891133,9873092221<br>8076952087</a></li>
+                        <li style="display:inline-block"><a href="tel:+919899891133" style="font-size: 16px;"> +91 9899891133, 9873092221,<br>8076952087</a></li>
                     </ul></div>
 					<div class="col-lg-3 col-md-3 col-sm-12">
                     <h5 style="border-bottom: none; margin-bottom: 15px;">Follow Us</h5>
