@@ -96,7 +96,7 @@
                 <div style="min-height: 170px;">
                     <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- excellent space management</p>                      
                     <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 601 sqft - 795 sqft.</p>
-                    <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 32, Gurgaon</p> 
+                    <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 112, Gurgaon</p> 
                     <a href="projectdetails5803.php?projectname=EMINENCE KIMBERLY SUITES" class="details-btn">View More</a> 
                 </div>
             </div>

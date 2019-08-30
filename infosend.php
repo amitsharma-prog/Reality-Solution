@@ -8,20 +8,20 @@ use PHPMailer\PHPMailer\Exception;
 require 'autoload.php';
 
 if (sendMailToUser() == true AND sendMailToMe() == true) {
-    // echo 'Message send successfull';
+    echo 'Message send successfull';
 } 
 function sendMailToMe() {
     try {  
     //Server settings
-    // $mail->SMTPDebug = 2; 
+    $mail->SMTPDebug = 2; 
     $mail = new PHPMailer(true);                          // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'mail.realtysolutions.in';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = '_mainaccount@realtysolutions.in';                 // SMTP username
     $mail->Password = 'LL)v7pf23N-gN3';                           // SMTP password
-    $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-    $mail->Port = 465;                                    // TCP port to connect to
+    $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+    $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
     $mail->setFrom('_mainaccount@realtysolutions.in');
@@ -38,16 +38,16 @@ function sendMailToMe() {
 
     //Content
     $mail->isHTML(true);                                  // Set email format to HTML
-    $mail->
+    $mail->Subject = $_POST['FullName'];
     $mail->Body    = '<div style="text-align: left;">
 <h1>Realty Solutions</h1>
-<p><b>Name</b> :'.$_POST['FullName'].'</p>
+<p><b>Name</b> :'.$_POST[FullName].'</p>
 <p><b>Email</b> :'.$_POST['Email'].'</p>
 <p><b>Contact No.</b> :'.$_POST['Mobile'].'</p>
 <p><b>Project Name</b> :'.$_POST['ProjectName'].'</p>
 <p><b>Message</b> :'.$_POST['Message'].'</p>
 <br/><br/>
-<a href="http://realitysolution.in"><img src="http://realitysolution.in/images/Reality%20Solution%20Logo.png" alt="crassociates" style="width: 25%;"></a>
+<a href="http://realtysolutions.in"><img src="http://realitysolution.in/images/Reality%20Solution%20Logo.png" alt="crassociates" style="width: 25%;"></a>
 </div>';
         // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
         $mail->send();
@@ -60,14 +60,14 @@ function sendMailToUser() {
 try {
     $mail = new PHPMailer(true); 
     //Server settings
-    // $mail->SMTPDebug = 2;                                 // Enable verbose debug output
+    $mail->SMTPDebug = 2;                                 // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
     $mail->Host = 'mail.realtysolutions.in';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = '_mainaccount@realtysolutions.in';                 // SMTP username
     $mail->Password = 'LL)v7pf23N-gN3';                           // SMTP password
-    $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-    $mail->Port = 465;                                    // TCP port to connect to
+    $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+    $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
     $mail->setFrom('_mainaccount@realtysolutions.in');

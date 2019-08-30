@@ -263,6 +263,7 @@ the major micro markets of Gurugram.</p>
 	
     </div>
 </article>  
+<?php require_once 'include/footer.php'; ?>
  <script src="jquery.min.js"></script>
  <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
 <script type="text/javascript">
@@ -284,7 +285,7 @@ the major micro markets of Gurugram.</p>
 					},
 					success: function(data) {
 						popUp();
-                        // $("#msg").html(data);
+                        $("#msg").html(data);
                         $("#send").val("Submit");
                         $("#send").attr("disabled", false);
 
@@ -301,6 +302,7 @@ the major micro markets of Gurugram.</p>
         $("form.forms").trigger("reset");
     });
 }
-<?php require_once 'include/footer.php'; ?>
+</script>
+
 </body>
 </html>

@@ -189,10 +189,25 @@
 			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3>Conscient Hines Elevate Overview</h3>
 				<div>
-				   <p>Conscient &amp; Hines have come together to develop a one of a kind project at Gurugram's upcoming marquee address. When two trusted names in real estate come together, they are bound to Elevate the concept of life &amp; luxury in Gurugram. Pan India Developer – Conscient in partnership with Hines – the creators of One Horizon Center present to you - ELEVATE.</p><p>We take the pleasure to share the first piece of communication in the form of a Corporate AV and appended are the project highlights of Elevate, Sector 59 Gurugram.</p> 
+				   <p>Conscient Elevate is the height of luxury and grand living at Sector 59, Gurgaon. Beautiful residential communities boasting the finest luxuries and ultimate convenience that will make you feel on top of the world. This exclusive luxury destination in Gurgaon is a brainchild of Conscient (a name behind Premium Condominiums, Luxury Villas, Institutional, Commercial/Retail and Value Housing in India) and Hines (a name with diversified real estate presence around the world).</p><p>It offers luxurious 3 & 4 BHK Apartments with eye-catching natural views and surroundings while maintaining the great balance of daylight, height and ventilation in your apartment through smart floor planning.</p> 
+				</div>
+			</div>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-map-marker"></i> Location Map</h3>
+				<div>
+					<img src="images/elevate apartment location.jpg" class="site-plan" alt="" />
+					
+					<!--<h3 class="heading-main">Find Us on Google Map</h3>
+					 -->
 				</div>
 			</div>
 						<div class="clearfix"></div>
+						<div class="col-lg-4 col-md-6 col-sm-12" id="project-width">
+				<h3><i class="fa fa-building-o"></i> Site Plan</h3>
+				<div>
+					<img src="images/elevate apartment.jpg" class="site-plan" alt="" />
+				</div>
+			</div>
 						
 						<div class="col-lg-8 col-md-6 col-sm-12" id="project-width">
 				<h3><i class="fa fa-building-o"></i> Features & Amenities</h3>
