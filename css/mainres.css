@@ -4599,7 +4599,7 @@
 	.tp.logo {
 		width: 960px;
 		height: 98px;
-    	padding: 0px 10px;
+    	padding: 0px 30px!important;
 	    border-bottom: 1px solid lightgray;
 	}
 	#logo img {
@@ -4614,7 +4614,7 @@
 	}
 	div#tpname1 {
 	    margin-top: 44px;
-	    margin-left: 84px;
+	    margin-left: 62px;
 	}
 	.container {
 		padding: 0;
@@ -4626,7 +4626,7 @@
 		float: right;
 		position: absolute;
 		top: 12px;
-		left: 62px;
+		left: 80px;
 	    margin-top: 5px !important;
         margin-left: 29px !important;
 	}
@@ -4818,7 +4818,587 @@
 
 }
 
+@media only screen and (min-width: 961px) and (max-width: 1024px) {
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	    clear: both;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 350px;
+	}
+	h4.h4amenties {
+		padding-left: 10px;
+	}
+	#project-width {
+		width: 100%!important;
+	}
+	p#logoabouttp {
+	    padding-top: 17px !important;
+	}
+	.details {
+	    overflow: hidden;
+	}
+	.burger-menu {
+		margin-top: 30px!important;
+		padding-top: 7px;
+	}
+/*******************************Home section start*******************************/
+	div#bars {
+	    float: right;
+	    font-size: 25px;
+	    border: 1px solid;
+	    width: 40px;
+	    height: 40px;
+	    text-align: center;
+	    border-radius: 4px;
+	    line-height: 40px;
+	    margin: 32px 5px 0px 0px;
+	    cursor: pointer;
+	    display: block;
+	}
+	.navbar-nav>li {
+		float: unset;
+	}
 
+	.top-strip {
+		height: 100px;
+		padding: 0px !important;
+	}
+	.tp.logo {
+		width: 1024px;
+		height: 98px;
+    	padding: 0px 30px!important;
+	    border-bottom: 1px solid lightgray;
+	}
+	#logo img {
+	    width: 75px!important;
+	}
+	p#logotp {
+	    margin-top: -5px;
+	}
+	p#logotp img {
+	    width: 65%!important;
+	    margin-left: 25px;
+	}
+	div#tpname1 {
+	    margin-top: 44px;
+	    margin-left: 62px;
+	}
+	.container {
+		padding: 0;
+		width: 100% !important;
+		clear: both;
+	}
+	.name {
+		font-size: 0px;
+		float: right;
+		position: absolute;
+		top: 12px;
+		left: 80px;
+	    margin-top: 5px !important;
+        margin-left: 29px !important;
+	}
+	.tp-name {
+		font-size: 35px!important;
+	}
+	.name span {
+		font-size: 35px!important;
+	}
+	.navbar {
+    	overflow: hidden;
+    	/* height: 100px; */
+   		width: 1024px !important;
+    	clear: both;
+    	float: left !important;
+   		z-index: 1;
+    	transition: all 0.5s;
+    	height: 0;
+    	overflow-y: scroll;
+    	background: #fff;
+    	margin: 0px;
+	}
+	.navbar.active {
+		height: 165px;
+	}
+	.tp {
+		float: left;
+		height: 100px;
+		line-height: 70px;
+	}
+	/*.navbar-header {
+	     float: inherit !important; 
+	    margin: 0 30px;
+	    overflow: hidden;
+	}*/
+	.nav>li {
+		border-bottom: 1px solid lightgray;
+	}
+	.navbar-header {
+	    float: left !important;
+	    width: 1024px;
+	    overflow: hidden;
+	}
+	ul.nav.navbar-nav {
+	    padding-top: 0px !important;
+	    float: unset !important;
+	}
+	.navbar-nav {
+		margin: 0px;
+	}
+	article {
+   	 	/*padding: 0 5px;*/
+	}
+	.text-center {
+        padding: 10px 0;
+        font-size: 20px;
+        line-height: 1.3;
+    }
+    #text-aline-center, #text-aline-center2, #text-aline-center3, #text-aline-center4 {
+    	width: 100%;
+    }
+/*******************************home section end*******************************/
+
+
+
+
+/*******************************about section start*******************************/
+    .col-lg-3.col-md-3.col-sm-12 {
+	    padding: 0 30px;
+	}
+	.heading-main {
+	    margin: 20px 0px 0px 0px!important;
+	    font-size: 26px;
+	}
+	.about {
+		padding: 0!important;
+		text-align: justify;
+	}
+	div#border1 {
+	    /*height: 647px;*/
+	    clear: both;
+	}
+	div#border1 {
+		clear: both;
+	}
+	.img {
+		width: 50%!important;
+
+	}
+	#ourmissionimg {
+		float: left!important;
+	}
+	.pabout {
+	    line-height: 20px;
+	    font-size: 16px!important;
+	    width: 100%!important;
+	}
+	div#border1 {
+	    height: 1020px;
+	    width: 100%;
+	}
+	div#border2 {
+	    height: 750px;
+	    width: 100%;
+	}
+	div#border3 {
+	    height: 800px;
+	    width: 100%
+	}
+	.abouthead {
+	    margin: 0px 0px 16px!important;
+	    padding-left: 10px!important;
+	    clear: both;
+	}
+	.img-rounded {
+		margin-left: -15px;
+	}
+	#col-lg-12 {
+		width: 100%;
+	}
+/*******************************about section end*******************************/
+
+
+/*******************************commercial section start*******************************/
+	.bc {
+		margin-bottom: 0px!important;
+	}
+	footer {
+		margin-top: 0px!important;
+	}
+	.col-sm-12 {
+	    width: 50%;
+	}
+
+/*******************************commercial section end*******************************/
+/*******************************nris section start*******************************/
+	.details-header {
+		display: block!important;
+		padding: 0!important;
+	}
+	.bottom-line {
+		padding: 0!important;
+	    margin-top: -21px;
+	    margin-bottom: 10px;
+	}
+	#col1 {
+	    width: 320px!important;
+	    margin: 30px;
+	    margin-top: 0;
+	}
+	.col-images-5 {
+	    width: 40px!important;
+	    margin-right: 19px!important;
+	}
+	#nrisp {
+		padding-left: 30px!important;
+	}
+	#col2 {
+		padding: 0 30px;
+	}
+	.nri-para {
+		text-align: justify;
+	}
+	#col3 {
+		padding: 5px;
+		margin: 15px;
+		margin-bottom: 10px!important;
+	}
+	h3.nrih3 {
+	    padding: 0px;
+	}
+/*******************************nris section end*******************************/
+/*******************************contact section start*******************************/
+	.c {
+		font-size: 21px;
+	}
+	.heading-main {
+		padding-left: 0px;
+	}
+	.gap {
+		padding: 0 33px!important;
+		height: auto;
+	}
+	.b2 {
+		margin-bottom: 10px;
+	}
+
+/*******************************contact section end*******************************/
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1080px) {
+/*******************************Project section start*******************************/
+	.f-list {
+		padding: 15px!important;
+	}
+	.p-details h3 {
+		padding: 0 15px;
+	}
+	.p-details p {
+		padding: 0 15px;
+	}
+	.p-details ul {
+		padding: 0 30px!important;
+	}
+	article.bc {
+	    padding: 10px;
+	    padding-bottom: 5px;
+	    clear: both;
+	}
+	h2 {
+	    padding: 10px;
+	}
+	.project-logo {
+		margin-left: 10px!important;
+	}
+	form.forms {
+	    padding: 0 15px;
+	}
+	h3 {
+	    padding-left: 350px;
+	}
+	h4.h4amenties {
+		padding-left: 10px;
+	}
+	#project-width {
+		width: 100%!important;
+	}
+	p#logoabouttp {
+	    padding-top: 17px !important;
+	}
+	.details {
+	    overflow: hidden;
+	}
+	.burger-menu {
+		margin-top: 30px!important;
+		padding-top: 7px;
+	}
+/*******************************Home section start*******************************/
+	div#bars {
+	    float: right;
+	    font-size: 25px;
+	    border: 1px solid;
+	    width: 40px;
+	    height: 40px;
+	    text-align: center;
+	    border-radius: 4px;
+	    line-height: 40px;
+	    margin: 32px 5px 0px 0px;
+	    cursor: pointer;
+	    display: block;
+	}
+	.navbar-nav>li {
+		float: unset;
+	}
+
+	.top-strip {
+		height: 100px;
+		padding: 0px !important;
+	}
+	.tp.logo {
+		width: 1024px;
+		height: 98px;
+    	padding: 0px 30px!important;
+	    border-bottom: 1px solid lightgray;
+	}
+	#logo img {
+	    width: 75px!important;
+	}
+	p#logotp {
+	    margin-top: -5px;
+	}
+	p#logotp img {
+	    width: 65%!important;
+	    margin-left: 25px;
+	}
+	div#tpname1 {
+	    margin-top: 44px;
+	    margin-left: 62px;
+	}
+	.container {
+		padding: 0;
+		width: 100% !important;
+		clear: both;
+	}
+	.name {
+		font-size: 0px;
+		float: right;
+		position: absolute;
+		top: 12px;
+		left: 80px;
+	    margin-top: 5px !important;
+        margin-left: 29px !important;
+	}
+	.tp-name {
+		font-size: 35px!important;
+	}
+	.name span {
+		font-size: 35px!important;
+	}
+	.navbar {
+    	overflow: hidden;
+    	/* height: 100px; */
+   		width: 1024px !important;
+    	clear: both;
+    	float: left !important;
+   		z-index: 1;
+    	transition: all 0.5s;
+    	height: 0;
+    	overflow-y: scroll;
+    	background: #fff;
+    	margin: 0px;
+	}
+	.navbar.active {
+		height: 165px;
+	}
+	.tp {
+		float: left;
+		height: 100px;
+		line-height: 70px;
+	}
+	/*.navbar-header {
+	     float: inherit !important; 
+	    margin: 0 30px;
+	    overflow: hidden;
+	}*/
+	.nav>li {
+		border-bottom: 1px solid lightgray;
+	}
+	.navbar-header {
+	    float: left !important;
+	    width: 1024px;
+	    overflow: hidden;
+	}
+	ul.nav.navbar-nav {
+	    padding-top: 0px !important;
+	    float: unset !important;
+	}
+	.navbar-nav {
+		margin: 0px;
+	}
+	article {
+   	 	/*padding: 0 5px;*/
+	}
+	.text-center {
+        padding: 10px 0;
+        font-size: 20px;
+        line-height: 1.3;
+    }
+    #text-aline-center, #text-aline-center2, #text-aline-center3, #text-aline-center4 {
+    	width: 100%;
+    }
+/*******************************home section end*******************************/
+
+
+
+
+/*******************************about section start*******************************/
+    .col-lg-3.col-md-3.col-sm-12 {
+	    padding: 0 30px;
+	}
+	.heading-main {
+	    margin: 20px 0px 0px 0px!important;
+	    font-size: 26px;
+	}
+	.about {
+		padding: 0!important;
+		text-align: justify;
+	}
+	div#border1 {
+	    /*height: 647px;*/
+	    clear: both;
+	}
+	div#border1 {
+		clear: both;
+	}
+	.img {
+		width: 50%!important;
+
+	}
+	#ourmissionimg {
+		float: left!important;
+	}
+	.pabout {
+	    line-height: 20px;
+	    font-size: 16px!important;
+	    width: 100%!important;
+	}
+	div#border1 {
+	    height: 1020px;
+	    width: 100%;
+	}
+	div#border2 {
+	    height: 750px;
+	    width: 100%;
+	}
+	div#border3 {
+	    height: 800px;
+	    width: 100%
+	}
+	.abouthead {
+	    margin: 0px 0px 16px!important;
+	    padding-left: 10px!important;
+	    clear: both;
+	}
+	.img-rounded {
+		margin-left: -15px;
+	}
+	#col-lg-12 {
+		width: 100%;
+	}
+/*******************************about section end*******************************/
+
+
+/*******************************commercial section start*******************************/
+	.bc {
+		margin-bottom: 0px!important;
+	}
+	footer {
+		margin-top: 0px!important;
+	}
+	.col-sm-12 {
+	    width: 50%;
+	}
+
+/*******************************commercial section end*******************************/
+/*******************************nris section start*******************************/
+	.details-header {
+		display: block!important;
+		padding: 0!important;
+	}
+	.bottom-line {
+		padding: 0!important;
+	    margin-top: -21px;
+	    margin-bottom: 10px;
+	}
+	#col1 {
+	    width: 320px!important;
+	    margin: 30px;
+	    margin-top: 0;
+	}
+	.col-images-5 {
+	    width: 40px!important;
+	    margin-right: 19px!important;
+	}
+	#nrisp {
+		padding-left: 30px!important;
+	}
+	#col2 {
+		padding: 0 30px;
+	}
+	.nri-para {
+		text-align: justify;
+	}
+	#col3 {
+		padding: 5px;
+		margin: 15px;
+		margin-bottom: 10px!important;
+	}
+	h3.nrih3 {
+	    padding: 0px;
+	}
+/*******************************nris section end*******************************/
+/*******************************contact section start*******************************/
+	.c {
+		font-size: 21px;
+	}
+	.heading-main {
+		padding-left: 0px;
+	}
+	.gap {
+		padding: 0 33px!important;
+		height: auto;
+	}
+	.b2 {
+		margin-bottom: 10px;
+	}
+
+/*******************************contact section end*******************************/
+
+}
 
 
 

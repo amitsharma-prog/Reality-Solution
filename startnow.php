@@ -16,15 +16,15 @@ function sendMailToMe() {
     // $mail->SMTPDebug = 2; 
     $mail = new PHPMailer(true);                          // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
-    $mail->Host = 'mail.realitysolution.in';  // Specify main and backup SMTP servers
+    $mail->Host = 'mail.realtysolutions.in';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = '_mainaccount@realitysolution.in';                 // SMTP username
+    $mail->Username = '_mainaccount@realtysolutions.in';                 // SMTP username
     $mail->Password = 'LL)v7pf23N-gN3';                           // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 465;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('_mainaccount@realitysolution.in');
+    $mail->setFrom('_mainaccount@realtysolutions.in');
     $mail->addAddress('amitsharma18543@gmail.com', 'Contact us - C.R. Associates');     // Add a recipient
     // $mail->addAddress('crassociates56@gmail.com', 'Contact us - C.R. Associates');     // Add a recipient
     // $mail->addAddress('aayush.jaiswal984@gmail.com');               // Name is optional
@@ -44,7 +44,7 @@ function sendMailToMe() {
 <p><b>Name</b> :'.$_POST['p-name'].'</p>
 <p><b>Mobile</b> :'.$_POST['p-number'].'</p>
 <br/><br/>
-<a href="http://crassociates.in"><img src="http://crassociates.in/images/crassociates_logo.png" alt="crassociates" style="width: 25%;"></a>
+<a href="http://realtysolutions.in"><img src="http://realtysolutions.in/images/Reality%20Solution%20Logo.png" alt="crassociates" style="width: 15%;"></a>
 </div>';
         // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
         $mail->send();

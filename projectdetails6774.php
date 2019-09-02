@@ -172,11 +172,11 @@
                     <h3>For more query fill this form</h3>
 						<div class="margin10"></div>
 						<form class="forms" action="#" method="post">
-						<input type="text" required="required" id="FullName" name="FullName" placeholder="Enter your name..." class="form-control input" />                    
-						<input type="email" required="required" id="Email"  name="Email" placeholder="Enter your email..." class="form-control input"/>
-						<input type="number" required="required" id="Mobile"  name="Mobile" placeholder="Enter your contact no..." class="form-control input" />
-						<input type="text" required="required" name="ProjectName" id="ProjectName" class="form-control input" value="M3M Urbana Business Park" />
-						<textarea rows="5" placeholder="Enter your message..." name="Message" id="Message" class="form-control"></textarea>
+						<input type="text" required="required" id="name" name="name" placeholder="Enter your name..." class="form-control input" />                    
+						<input type="email" required="required" id="email"  name="email" placeholder="Enter your email..." class="form-control input"/>
+						<input type="number" required="required" id="mobile"  name="mobile" placeholder="Enter your contact no..." class="form-control input" />
+						<input type="text" required="required" name="projectname" id="projectname" class="form-control input" value="M3M Urbana Business Park" />
+						<textarea rows="5" placeholder="Enter your message..." name="message" id="message" class="form-control"></textarea>
 						<!-- <div id="msg" style="width: 200px; height: 40px; border: 1px solid #000; color: #fff;"></div>   -->                  
 						<input type="submit" name="submit" value="Submit" id="submit" class="button" />   
 						
@@ -271,9 +271,9 @@ the major micro markets of Gurugram.</p>
 		$("#submit").click(function(){
 			event.preventDefault();
 			
-			if ($("#FullName").val() == "" || $("#Email").val() == "" || $("#Mobile").val() == "" || $("#ProjectName").val() == "" || $("#Message").val() == "") { 
+			if ($("#name").val() == "" || $("#email").val() == "" || $("#mobile").val() == "" || $("#projectname").val() == "" || $("#message").val() == "") { 
 			} else { 
-				var ac = "FullName=" + $("#FullName").val() + "&Email=" + $("#Email").val() + "&Mobile=" + $("#Mobile").val()  + "&ProjectName=" + $("#ProjectName").val() + "&Message=" + $("#Message").val();
+				var ac = "name=" + $("#name").val() + "&email=" + $("#email").val() + "&mobile=" + $("#mobile").val()  + "&projectname=" + $("#projectname").val() + "&message=" + $("#message").val();
 				$.ajax({
 					type: "post",
 					url: "infosend.php",
