@@ -445,7 +445,7 @@ width: 90%;
     line-height: 23px;
     FONT-FAMILY: -webkit-pictograph;
     FONT-WEIGHT: BOLD;">Where Real Estate is all about Transparency and Trustworthiness</h3>
-<form class="forms" action="#" method="post" >
+			<form class="forms" method="post" >
 
               <input type="text" required="required" name="name" id="name" placeholder="Enter your name..." class="form-control input" />
 
@@ -456,19 +456,16 @@ width: 90%;
                 <input type="number" required="required" name="contact" id="contact" placeholder="Enter your Mobile no..." class="form-control input" />
 
                 <input type="text" required="required" name="subject" id="subject" placeholder="Enter your Country..." class="form-control input" />
-                <div id="msg" style="color: #fff;"></div>
+                <!-- <div id="msg" style="color: #fff;"></div> -->
 
                 
                 
 
-                <input type="submit" name="submitb" id="submitb" value="Submit" class="b2"  style="   WIDTH: 130PX;
-    DISPLAY: TABLE;
-    MARGIN: 20PX AUTO 20PX;
-    FLOAT: NONE;FONT-WEIGHT: BOLD;" onclick="popUp()" /> 
+                <input type="submit" name="submitb" id="submitb" value="Submit" class="b2"  style="   WIDTH: 130PX; DISPLAY: TABLE; MARGIN: 20PX AUTO 20PX; FLOAT: NONE;FONT-WEIGHT: BOLD;" /> 
 
                 
 
-            </form>
+			</form>
 </div>
 
       </div>
@@ -479,25 +476,28 @@ width: 90%;
 </article>
 
  <?php require_once 'include/footer.php'; ?>
-<script src="jquery.min.js"></script>
-  <script type="text/javascript">
+<script type="text/javascript">
   $(document).ready(function(){
     $("#submitb").click(function(){
       event.preventDefault();
+      	
       if ($("#name").val() == "" || $("#email").val() == "" || $("#contact").val() == "" || $("#subject").val() == ""){
       } else { 
-        var ac = "name=" + $("#name").val() + "&email=" + $("#email").val()  + "&contact=" + $("#contact").val()  + "&subject=" + $("#subject").val();
+        var ac = "name=" + $("#name").val() + "&email=" + $("#email").val()  + "contact=" + $("#contact").val()  + "&subject=" + $("#subject").val();
         $.ajax({
           type: "post",
-          url: "dealwithus.php",
+          url: "dealwithus.php"
           dataType: "text",
           data: ac,
           beforeSend: function() {
-            $("#msg").html("");
-            $("#msg").html("");
+            $("#submitb").val("Please Wait...");
+            $("#submitb").attr("disabled", true);
           },
           success: function(data) {
-            $("#msg").html(data);
+          	popUp();
+            // $("#msg").php(data);
+            $("#submitb").val("Start Now");
+            $("#submitb").attr("disabled", false);
 
           },
         });
@@ -509,6 +509,9 @@ width: 90%;
 <script>
   function popUp(){
     swal("Deals With Us", "Your Information Send successfuly!", "success")
+    .then((value) => {
+    	$("form.p-form").trigger("reset");
+    });
   }
 </script>
 </body>

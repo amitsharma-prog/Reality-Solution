@@ -2,15 +2,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link rel="stylesheet" type="text/css" href="css/styletesti.css">
 <meta name="HandheldFriendly" content="true">
-<meta name="Description" content="Reality Solution is The Best Real Estate Agency in Gurugram which provide the Residential,Commercial Projects in Gurugram.Best Commercial Projects in Gurugram are providing by Reality Solution at minimal cost.We are the Best Property Dealers In Gurugram which provides Commercial and Residential Projects in Gurugram.">
+<meta name="Description" content="Realty Solutions is The Best Real Estate Agency in Gurugram which provide the Residential,Commercial Projects in Gurugram.Best Commercial Projects in Gurugram are providing by Realty Solutions at minimal cost.We are the Best Property Dealers In Gurugram which provides Commercial and Residential Projects in Gurugram.">
 
 <meta name="Keywords" content="Property Dealers in Gurugram, Real Estate Agency in Gurugram, Best Projects in Gurugram, Commercial projects in Gurugram, Residential projects in Gurugram, Best Commercial Projects in Gurugram, Best Residential Projects in Gurugram, Best projects in Gurgaon, Property Dealers in Gurgaon, Real Estate Agency in Gurgaon">
-<meta name="Description" content="Reality Solution">
-<meta name="Keywords" content="Reality Solution">
+<meta name="Description" content="Realty Solutions">
+<meta name="Keywords" content="Realty Solutions">
 <meta property="og:image" content="index.html" />
 <meta property="og:url" content="index.html" />
 
-<link rel="shortcut icon" type="image" href="http://realtysolutions.in/images/Reality Solution Logo.png"  />
+<link rel="shortcut icon" type="image" href="http://realtysolutions.in/images/Reality%20Solution%20Logo.png"  />
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css"  />
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"  />

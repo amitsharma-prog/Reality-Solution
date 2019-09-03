@@ -16,15 +16,15 @@ function sendMailToMe() {
     // $mail->SMTPDebug = 2; 
     $mail = new PHPMailer(true);                          // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
-    $mail->Host = 'mail.realitysolution.in';  // Specify main and backup SMTP servers
+    $mail->Host = 'mail.realtysolutions.in';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = '_mainaccount@realitysolution.in';                 // SMTP username
+    $mail->Username = '_mainaccount@realtysolutions.in';                 // SMTP username
     $mail->Password = 'LL)v7pf23N-gN3';                           // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 465;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('_mainaccount@realitysolution.in');
+    $mail->setFrom('_mainaccount@realtysolutions.in');
     $mail->addAddress('amitsharma18543@gmail.com');     // Add a recipient
     // $mail->addAddress('crassociates56@gmail.com', 'Contact us - C.R. Associates');     // Add a recipient
     // $mail->addAddress('aayush.jaiswal984@gmail.com');               // Name is optional
@@ -40,13 +40,13 @@ function sendMailToMe() {
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = 'Deal With Us - '. $_POST['subject'];
     $mail->Body    = '<div style="text-align: left;">
-<h1>Reality Solution</h1>
+<h1>Realty Solutions</h1>
 <p><b>Name</b> :'.$_POST['name'].'</p>
 <p><b>Email</b> :'.$_POST['email'].'</p>
 <p><b>Contact</b> :'.$_POST['contact'].'</p>
 <p><b>Subject</b> :'.$_POST['subject'].'</p>
 <br/><br/>
-<a href="http://crassociates.in"><img src="http://crassociates.in/images/crassociates_logo.png" alt="crassociates" style="width: 25%;"></a>
+<a href="http://realtysolutions.in"><img src="http://realtysolutions.in/images/Reality%20Solution%20Logo.png" alt="realtysolutions" style="width: 25%;"></a>
 </div>';
         // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
         $mail->send();
@@ -61,15 +61,15 @@ try {
     //Server settings
     // $mail->SMTPDebug = 2;                                 // Enable verbose debug output
     $mail->isSMTP();                                      // Set mailer to use SMTP
-    $mail->Host = 'mail.realitysolution.in';  // Specify main and backup SMTP servers
+    $mail->Host = 'mail.realtysolutions.in';  // Specify main and backup SMTP servers
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
-    $mail->Username = '_mainaccount@realitysolution.in';                 // SMTP username
+    $mail->Username = '_mainaccount@realtysolutions.in';                 // SMTP username
     $mail->Password = 'LL)v7pf23N-gN3';                           // SMTP password
     $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
     $mail->Port = 465;                                    // TCP port to connect to
 
     //Recipients
-    $mail->setFrom('_mainaccount@realitysolution.in');
+    $mail->setFrom('_mainaccount@realtysolutions.in');
     $mail->addAddress($_POST['email'], $_POST['name']);     // Add a recipient
     // $mail->addAddress('aayush.jaiswal984@gmail.com');               // Name is optional
     // $mail->addReplyTo('crassociates56@gmail.com', 'Replay');
@@ -84,7 +84,7 @@ try {
     //Content
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = 'Thanks for contact with us';
-    $mail->Body    = '<h1>Reality Solution</h1><p>This is a confirmation that we have recived your mail and we will contact to you ASAP.</p> <br/> <a href="http://crassociates.in"><img src="http://crassociates.in/images/crassociates_logo.png" alt="crassociates" style="width: 25%;"></a>';
+    $mail->Body    = '<h1>Realty Solutions</h1><p>This is a confirmation that we have recived your mail and we will contact to you ASAP.</p> <br/> <a href="http://realtysolutions.in"><img src="http://realtysolutions.in/images/Reality%20Solution%20Logo.png" alt="realtysolutions" style="width: 25%;"></a>';
         // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
         $mail->send();
         return true;

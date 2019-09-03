@@ -95,9 +95,10 @@
 					},
 					success: function(data) {
 						popUp();
-                        $("#msg").html(data);
+                        // $("#msg").html(data);
                         $("#send").val("Submit");
                         $("#send").attr("disabled", false);
+
 
 					},
 				});
@@ -105,6 +106,7 @@
 		});
 	});
 </script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 <script>
     function popUp(){
         swal("Contact Us", "Mail send successfuly!", "success")

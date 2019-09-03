@@ -25,8 +25,7 @@ function sendMailToMe() {
 
     //Recipients
     $mail->setFrom('_mainaccount@realtysolutions.in');
-    $mail->addAddress('amitsharma18543@gmail.com', 'Contact us - C.R. Associates');     // Add a recipient
-    // $mail->addAddress('crassociates56@gmail.com', 'Contact us - C.R. Associates');     // Add a recipient
+    $mail->addAddress('gurgaon40@gmail.com', 'Contact us - Realty Solutions');     // Add a recipient
     // $mail->addAddress('aayush.jaiswal984@gmail.com');               // Name is optional
     // $mail->addReplyTo($_POST['p-name'], $_POST['p-number']);
     // $mail->addCC('cc@example.com');
@@ -40,11 +39,11 @@ function sendMailToMe() {
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject =' Inquiry generated - '. $_POST['p-name'];
     $mail->Body    = '<div style="text-align: left;">
-<h1>C.R. Associates</h1>
+<h1>Realty Solutions</h1>
 <p><b>Name</b> :'.$_POST['p-name'].'</p>
 <p><b>Mobile</b> :'.$_POST['p-number'].'</p>
 <br/><br/>
-<a href="http://realtysolutions.in"><img src="http://realtysolutions.in/images/Reality%20Solution%20Logo.png" alt="crassociates" style="width: 15%;"></a>
+<a href="http://realtysolutions.in"><img src="http://realtysolutions.in/images/Reality%20Solution%20Logo.png" alt="realtysolutions" style="width: 15%;"></a>
 </div>';
         // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
         $mail->send();

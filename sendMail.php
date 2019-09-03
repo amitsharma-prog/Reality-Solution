@@ -20,13 +20,13 @@ function sendMailToMe() {
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = '_mainaccount@realtysolutions.in';                 // SMTP username
     $mail->Password = 'LL)v7pf23N-gN3';                           // SMTP password
-    $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-    $mail->Port = 465;                                    // TCP port to connect to
+    $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+    $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
     $mail->setFrom('_mainaccount@realtysolutions.in');
-    $mail->addAddress('amitsharma18543@gmail.com');     // Add a recipient
-    // $mail->addAddress('crassociates56@gmail.com', 'Contact us - C.R. Associates');     // Add a recipient
+    // $mail->addAddress('amitsharma18543@gmail.com');     // Add a recipient
+    $mail->addAddress('gurgaon40@gmail.com', 'Contact us - Realty Solutions');     // Add a recipient
     // $mail->addAddress('aayush.jaiswal984@gmail.com');               // Name is optional
     $mail->addReplyTo($_POST['email'], $_POST['name']);
     // $mail->addCC('cc@example.com');
@@ -40,7 +40,7 @@ function sendMailToMe() {
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = $_POST['subject'];
     $mail->Body    = '<div style="text-align: left;">
-<h1>Reality Solution</h1>
+<h1>Realty Solutions</h1>
 <p><b>Name</b> :'.$_POST['name'].'</p>
 <p><b>Email</b> :'.$_POST['email'].'</p>
 <p><b>Contact</b> :'.$_POST['contact'].'</p>
@@ -66,15 +66,15 @@ try {
     $mail->SMTPAuth = true;                               // Enable SMTP authentication
     $mail->Username = '_mainaccount@realtysolutions.in';                 // SMTP username
     $mail->Password = 'LL)v7pf23N-gN3';                           // SMTP password
-    $mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted
-    $mail->Port = 465;                                    // TCP port to connect to
+    $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+    $mail->Port = 587;                                    // TCP port to connect to
 
     //Recipients
     $mail->setFrom('_mainaccount@realtysolutions.in');
     $mail->addAddress($_POST['email'], $_POST['name']);     // Add a recipient
     // $mail->addAddress('aayush.jaiswal984@gmail.com');               // Name is optional
-    // $mail->addReplyTo('crassociates56@gmail.com', 'Replay');
-    $mail->addReplyTo('amitsharma18543@gmail.com', 'Replay');
+    $mail->addReplyTo('gurgaon40@gmail.com', 'Replay');
+    // $mail->addReplyTo('amitsharma18543@gmail.com', 'Replay');
     // $mail->addCC('cc@example.com');
     // $mail->addBCC('bcc@example.com');
 
@@ -85,7 +85,7 @@ try {
     //Content
     $mail->isHTML(true);                                  // Set email format to HTML
     $mail->Subject = 'Thanks for contact with us';
-    $mail->Body    = '<h1>Reality Solution</h1><p>This is a confirmation that we have recived your mail and we will contact to you ASAP.</p> <br/> <a href="http://crassociates.in"><img src="http://crassociates.in/images/crassociates_logo.png" alt="crassociates" style="width: 25%;"></a>';
+    $mail->Body    = '<h1>Realty Solutions</h1><p>This is a confirmation that we have recived your mail and we will contact to you ASAP.</p> <br/> <a href="http://crassociates.in"><img src="http://realtysolutions.in/images/Reality%20Solution%20Logo.png" alt="crassociates" style="width: 15%;"></a>';
         // $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
         $mail->send();
         return true;
