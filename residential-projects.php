@@ -45,7 +45,7 @@
 
                <a href="projectdetails09b4.php?projectname=conscient-hines-elevate" > <img src="images/residential8.jpg" alt="Conscient Hines Elevate" style="height:242px;"  /></a>
 
-                <h2 class="text-center">Elevate Apartments</h2>
+                <h2 class="text-center">Conscient Hines Elevate</h2>
 
                 <div style="min-height: 170px;">
 
@@ -279,7 +279,7 @@
 
                <a href="projectdetails9f6e.php?projectname=emaar-palm-heights" > <img src="images/residential5.jpg" alt="Emaar Palm Heights" style="height:242px;"  /></a>
 
-                <h2 class="text-center">Emaar India</h2>
+                <h2 class="text-center">EMAAR INDIA</h2>
 
                 <div style="min-height: 170px;">
 
@@ -287,7 +287,7 @@
 
                     <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 3BHK with Family Lounge</p>
 
-                    <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 77, Gurgaon</p> 
+                    <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 62, Gurgaon</p> 
 
                     <a href="projectdetails9f6e.php?projectname=emaar-palm-heights" class="details-btn">View More</a> 
 

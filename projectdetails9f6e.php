@@ -94,7 +94,7 @@
                     <li><a href="#">/</a></li>
                     <li><a href="residential-projects.php">Residential</a></li>
 					<li><a href="#">/</a></li>
-                    <li><a href="#" class="activebc">Emaar India</a></li>
+                    <li><a href="#" class="activebc">EMAAR INDIA</a></li>
                 </ul>
             	
             </div>
@@ -108,7 +108,7 @@
             <div class="clearfix"></div>
             <div class="details-header">
 				<div class="col-lg-12 col-md-12 col-sm-12" id="project-width">
-					<h2 class="">Emaar India</h2>
+					<h2 class="">EMAAR INDIA</h2>
 					<div class="margin20" ></div>
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-12" id="project-width">
@@ -187,7 +187,7 @@
             <hr />
 		<div class="p-details">
 			<div class="col-lg-8 col-md-6 col-sm-12" id="project-width"> 
-				<h3>Emaar India Overview</h3>
+				<h3>EMAAR INDIA Overview</h3>
 				<div>
 				   <p>Lowest rate guaranteed let us help you to find the best in Gurgaon residential and commercial properties.
 Delighted to present our brand new project "EMAAR INDIA", in Sector 77, National Highway 8, Gurugram.
