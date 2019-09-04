@@ -170,11 +170,11 @@
                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                     <div class="home-block">
                                         <img src="images/residential5.jpg" style="height:242px;" alt="Emaar India Residential Property"  />
-                                        <h2 class="text-center">Emaar India</h2>
+                                        <h2 class="text-center">EMAAR INDIA</h2>
                                         <div style="min-height: 170px;">
                                             <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- Apartments</p>                   		
                                             <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 3BHK with Family Lounge.</p>
-                                            <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 77, Gurgaon</p> 
+                                            <p class="sub-heads"><i class="fa fa-map-marker" aria-hidden="true"></i> Location:- Sector 62, Gurgaon</p> 
                                             <a href="projectdetails9f6e.php?projectname=emaar-palm-heights" class="details-btn">View More</a> 
                                         </div>
                                     </div>
@@ -240,7 +240,7 @@
                                 <div class="col-lg-4 col-md-4 col-sm-12">
                                     <div class="home-block">
                                         <img src="images/residential8.jpg" style="height:242px;" alt="Conscient Hines Elevate"  />
-                                        <h2 class="text-center"> Elevate Apartment</h2>
+                                        <h2 class="text-center"> Conscient Hines Elevate</h2>
                                         <div style="min-height: 170px;">
                                             <p class="sub-heads"><i class="fa fa-building-o"></i> Unit Type:- 3, 4 BHK Residential Apartments</p>                   		
                                             <p class="sub-heads"><i class="fa fa-cubes" aria-hidden="true"></i> Size:- 2095 - 3395 Sq.ft.</p>
